@@ -1,0 +1,9 @@
+{
+  "retriever": "bm25",
+  "P": false,
+  "T": false,
+  "A": false,
+  "gate": false,
+  "force_answer": false,
+  "name": "B0"
+}

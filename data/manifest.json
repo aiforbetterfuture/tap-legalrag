@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "generated_at": "2026-10-06",
+  "note": "법령 코퍼스 manifest. loader.CORPUS_SPEC·fetch_laws의 단일 출처. P1B-3에서 보건의료 R&D 4종 추가 예정.",
+  "laws": [
+    {
+      "id": "hyeoksin_law",
+      "law_id": "013774",
+      "law_name": "국가연구개발혁신법",
+      "law_short_name": null,
+      "law_type": "법률",
+      "hierarchy_level": 1,
+      "parent_law_name": null,
+      "alias_map": {},
+      "api_target": "eflaw",
+      "api_id": null,
+      "enforce_date": "2026-09-11",
+      "fixture": "real_law.xml",
+      "source_url": "https://www.law.go.kr/법령/국가연구개발혁신법",
+      "sha256": "dfa01e80e956aa680aa45f37414f7cd62af6d9b7864125e43e58863181c1b4f2",
+      "fetched_at": "2026-08-02",
+      "note": "P0 기준 수집본(법령명 검색). P1B-2에서 시행일 기준 재수집·MST 보강 예정.",
+      "aliases": [
+        "혁신법",
+        "국가연구개발혁신법"
+      ]
+    },
+    {
+      "id": "hyeoksin_decree",
+      "law_id": "013933",
+      "law_name": "국가연구개발혁신법 시행령",
+      "law_short_name": "혁신법 시행령",
+      "law_type": "대통령령",
+      "hierarchy_level": 2,
+      "parent_law_name": "국가연구개발혁신법",
+      "alias_map": {
+        "법": "국가연구개발혁신법"
+      },
+      "api_target": "eflaw",
+      "api_id": null,
+      "enforce_date": "2026-07-28",
+      "fixture": "sihaengnyeong.xml",
+      "source_url": "https://www.law.go.kr/법령/국가연구개발혁신법 시행령",
+      "sha256": "dbeadc7a05015df39cdfeac13213b8d283e313654be4e656c6d36cd205ef12c1",
+      "fetched_at": "2026-08-02",
+      "note": "P0 기준 수집본(법령명 검색). P1B-2에서 시행일 기준 재수집·MST 보강 예정.",
+      "aliases": [
+        "혁신법 시행령",
+        "국가연구개발혁신법 시행령",
+        "시행령"
+      ]
+    },
+    {
+      "id": "hyeoksin_rule",
+      "law_id": "013980",
+      "law_name": "국가연구개발혁신법 시행규칙",
+      "law_short_name": "혁신법 시행규칙",
+      "law_type": "부령",
+      "hierarchy_level": 3,
+      "parent_law_name": "국가연구개발혁신법",
+      "alias_map": {
+        "법": "국가연구개발혁신법",
+        "영": "국가연구개발혁신법 시행령"
+      },
+      "api_target": "eflaw",
+      "api_id": null,
+      "enforce_date": "2026-06-11",
+      "fixture": "sihaenggyu.xml",
+      "source_url": "https://www.law.go.kr/법령/국가연구개발혁신법 시행규칙",
+      "sha256": "b902b62f2f55e5f358e1ab05d5cb60feb6775122bdcf17cfa323885b92e1d70c",
+      "fetched_at": "2026-08-02",
+      "note": "P0 기준 수집본(법령명 검색). P1B-2에서 시행일 기준 재수집·MST 보강 예정.",
+      "aliases": [
+        "혁신법 시행규칙",
+        "국가연구개발혁신법 시행규칙",
+        "시행규칙"
+      ]
+    },
+    {
+      "id": "yongbi_gosi",
+      "law_id": "75386",
+      "law_name": "국가연구개발사업 연구개발비 사용 기준",
+      "law_short_name": "사용기준",
+      "law_type": "고시",
+      "hierarchy_level": 4,
+      "parent_law_name": "국가연구개발혁신법",
+      "alias_map": {
+        "법": "국가연구개발혁신법",
+        "영": "국가연구개발혁신법 시행령"
+      },
+      "api_target": "admrul",
+      "api_id": null,
+      "enforce_date": "2026-05-06",
+      "fixture": "yongbi_gosi.xml",
+      "source_url": "https://www.law.go.kr/행정규칙/국가연구개발사업 연구개발비 사용 기준",
+      "sha256": "d1590ba1b5cbb4e7a55e6bf99bbedbe7ddcb664e4607088d7d4f127796ee396c",
+      "fetched_at": "2026-08-02",
+      "note": "P0 기준 수집본(법령명 검색). P1B-2에서 시행일 기준 재수집·MST 보강 예정.",
+      "aliases": [
+        "사용기준",
+        "연구개발비 사용 기준",
+        "국가연구개발사업 연구개발비 사용 기준",
+        "사용 기준"
+      ]
+    },
+    {
+      "id": "seongkwa_law",
+      "law_id": "010090",
+      "law_name": "국가연구개발사업 등의 성과평가 및 성과관리에 관한 법률",
+      "law_short_name": "성과평가법",
+      "law_type": "법률",
+      "hierarchy_level": 1,
+      "parent_law_name": null,
+      "alias_map": {},
+      "api_target": "eflaw",
+      "api_id": null,
+      "enforce_date": "2023-10-31",
+      "fixture": "seongkwa_law.xml",
+      "source_url": "https://www.law.go.kr/법령/국가연구개발사업 등의 성과평가 및 성과관리에 관한 법률",
+      "sha256": "7b9802d1cb4d1a975c6dceb26ab88204b63087067e8947ac1b1f8d08214d11dd",
+      "fetched_at": "2026-08-02",
+      "note": "P0 기준 수집본(법령명 검색). P1B-2에서 시행일 기준 재수집·MST 보강 예정.",
+      "aliases": [
+        "성과평가법",
+        "국가연구개발사업 등의 성과평가 및 성과관리에 관한 법률"
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "code": "BON",
+      "doc_title": "국가연구개발혁신법 매뉴얼",
+      "edition": "2026.07",
+      "pdf": "[본권] 26년도 7월 국가연구개발혁신법 매뉴얼 (1).pdf",
+      "sha256": "ee3fcf0524925ead14bae31dd071f1a766ed81872696cc23774ce202227a66ff",
+      "guide_json": "data/guide/BON.json",
+      "legal_effect": false,
+      "note": "매뉴얼 해설(법적 효력 없음). 읽기 전용 원본은 ../rnd_raw_manual."
+    },
+    {
+      "code": "B1",
+      "doc_title": "학생인건비통합관리 제도 매뉴얼",
+      "edition": "2026.07",
+      "pdf": "[별권1] 26년도 7월 학생인건비통합관리 제도 매뉴얼.pdf",
+      "sha256": "63566aaae267675fe4699b355317bb1f1b76e52eb6d0c3bb1ebc8406b6df0dea",
+      "guide_json": "data/guide/B1.json",
+      "legal_effect": false,
+      "note": "매뉴얼 해설(법적 효력 없음). 읽기 전용 원본은 ../rnd_raw_manual."
+    },
+    {
+      "code": "B2",
+      "doc_title": "기술료제도 매뉴얼",
+      "edition": "2026.07",
+      "pdf": "[별권2] 26년도 7월 국가연구개발사업 기술료제도 메뉴얼.pdf",
+      "sha256": "2d96e1ed3a20de63a4992cc1fee329abb963efd1887b4c6a8638694d0f1e7a4a",
+      "guide_json": "data/guide/B2.json",
+      "legal_effect": false,
+      "note": "매뉴얼 해설(법적 효력 없음). 읽기 전용 원본은 ../rnd_raw_manual."
+    },
+    {
+      "code": "B3",
+      "doc_title": "제재처분 가이드라인",
+      "edition": "2026.07",
+      "pdf": "[별권3] 26년도 7월 국가연구개발사업 제재처분 가이드라인.pdf",
+      "sha256": "b70da986aa66e011d08e27d57c8efb92e78cf57e1c04b36400d4b828f19af62b",
+      "guide_json": "data/guide/B3.json",
+      "legal_effect": false,
+      "note": "매뉴얼 해설(법적 효력 없음). 읽기 전용 원본은 ../rnd_raw_manual."
+    },
+    {
+      "code": "B4",
+      "doc_title": "연구시설·장비비 통합관리제 매뉴얼",
+      "edition": "2026.07",
+      "pdf": "[별권4] 26년도 7월 연구시설·장비비 통합관리제 운영·관리 매뉴얼.pdf",
+      "sha256": "5bb5ef1020e0f33f2930f534ad5e94917564567c071a1e23c37c93e957874616",
+      "guide_json": "data/guide/B4.json",
+      "legal_effect": false,
+      "note": "매뉴얼 해설(법적 효력 없음). 읽기 전용 원본은 ../rnd_raw_manual."
+    }
+  ]
+}

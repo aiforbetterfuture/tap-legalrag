@@ -1,0 +1,24 @@
+[project]
+name = "tap-legalrag"
+version = "1.0.0"
+description = "TAP-LegalRAG — 연구행정 규정 질의의 답변 가능성 판정 게이트(연구용 프로토타입)"
+# 재현 환경(S0-5): Windows 실사용 Python 3.13, 검증 하한 3.10. 고정 버전은 requirements-lock.txt.
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+mcp = ["mcp>=1.0"]  # 에이전트용 TAP MCP 도구(선택). 미설치 시 서버·테스트 자동 skip.
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

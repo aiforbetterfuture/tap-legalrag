@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+.env
+*.bak
+docs/handoff/diagnosis_after*.json
+
+# 민감자료 보관 폴더(S0-3). 저장소 밖(../_restricted)에 두지만, 혹시 하위에 생겨도 추적 금지.
+_restricted/
+# 재수집 중간 산출물(P1B-2 원자적 교체)
+data/staging/
+
+# 원본 검수 엑셀(개인정보·바이너리) — 공개·추적 금지
+tests/golden/*_draft_manual.xlsx

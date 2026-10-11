@@ -1,0 +1,14 @@
+# 재현 환경 고정 (S0-5, 가용성). 검증에 쓴 최소 의존성 버전.
+#   Windows 실사용: Python 3.13.7 / 검증 하한: Python 3.10
+#   설치: python -m pip install -r requirements-lock.txt
+#   (임베딩·리랭커 등 무거운 패키지는 골든셋 동결 전까지 넣지 않는다 — 개발 규칙 문서(비공개) 규칙 7)
+
+# 런타임(모델·파이프라인)
+pydantic==2.12.5
+pydantic-core==2.41.5
+
+# 개발·테스트
+pytest==9.0.0
+
+# 매뉴얼 파서(M-2, 사용자 승인: pdfplumber)
+pdfplumber==0.11.10

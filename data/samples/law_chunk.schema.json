@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/tap-legalrag/schemas/law_chunk.schema.json",
+  "title": "LawChunk",
+  "description": "국가R&D 법령 RAG의 원자적 저장 단위(조 또는 항). Atomic Storage 계층의 데이터 계약. 이 스키마를 만족하는 객체 하나가 벡터DB의 한 레코드가 된다.",
+  "type": "object",
+  "required": [
+    "chunk_id", "law_id", "law_name", "law_type", "hierarchy_level",
+    "article_no", "article_title", "promulgation_date", "enforce_date",
+    "article_enforce_date", "is_repealed", "valid_from",
+    "topic_tags", "body_text", "source_url"
+  ],
+  "properties": {
+    "chunk_id": {
+      "type": "string",
+      "description": "청크 고유 ID (PK). 조문: LAW-{law_id}-J{조3자리}[-H{항2자리}], 별표: LAW-{law_id}-B{별표3자리}",
+      "pattern": "^LAW-[0-9]{6}-(J[0-9]{3}(-H[0-9]{2})?|B[0-9]{3})$",
+      "examples": ["LAW-001481-J012-H02", "LAW-003050-B003"]
+    },
+    "law_id": {
+      "type": "string",
+      "description": "법령 고유번호(법령정보 API의 법령ID). MST(법령마스터번호)와 구분",
+      "examples": ["001481"]
+    },
+    "law_name": { "type": "string", "examples": ["국가연구개발혁신법"] },
+    "law_short_name": {
+      "type": ["string", "null"],
+      "description": "검색 힌트용 약칭",
+      "examples": ["혁신법"]
+    },
+    "law_type": {
+      "type": "string",
+      "enum": ["법률", "대통령령", "총리령", "부령", "고시", "훈령", "예규", "기관내규"],
+      "description": "법령 종류. hierarchy_level과 일관되어야 함"
+    },
+    "hierarchy_level": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "위계. 1=법률, 2=대통령령(시행령), 3=총리령·부령(시행규칙), 4=고시·훈령·예규(행정규칙), 5=기관내규. 충돌 해소 규칙의 1순위 기준"
+    },
+    "binding_power": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5,
+      "description": "법적 구속력 시각화용 별점(5=법률…1=FAQ). UI 신뢰도 배지. hierarchy_level의 역수 개념이나 FAQ/사례를 6=자료로 별도 취급하기 위해 분리 보관"
+    },
+    "article_no": {
+      "type": "string",
+      "description": "조 번호. 가지번호 포함('12의2')",
+      "examples": ["12", "12의2"]
+    },
+    "article_title": { "type": "string", "examples": ["협약의 변경"] },
+    "paragraph_no": {
+      "type": ["string", "null"],
+      "description": "항 번호. 항 단위 청크일 때만",
+      "examples": ["2"]
+    },
+    "chapter_section": {
+      "type": ["string", "null"],
+      "description": "편장절관 경로. 문맥 프리픽스 생성에 사용",
+      "examples": ["제3장 연구개발과제의 협약"]
+    },
+    "promulgation_date": { "type": "string", "format": "date" },
+    "enforce_date": {
+      "type": "string", "format": "date",
+      "description": "법령 전체 시행일"
+    },
+    "article_enforce_date": {
+      "type": "string", "format": "date",
+      "description": "이 조문의 시행일. 조마다 다를 수 있음. 시점 검색의 핵심 필드"
+    },
+    "is_repealed": {
+      "type": "boolean",
+      "description": "true면 현행 검색에서 제외하고 이력 조회에만 노출"
+    },
+    "valid_from": {
+      "type": "string", "format": "date",
+      "description": "이 조문 버전의 효력 시작일"
+    },
+    "valid_to": {
+      "type": ["string", "null"], "format": "date",
+      "description": "효력 종료일. null이면 현행. 시점 필터: valid_from <= 기준일 <= (valid_to || 무한)"
+    },
+    "topic_tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["협약변경", "연구비집행", "정산", "장비심의", "성과관리",
+                 "제재환수", "기술료", "보안", "정의일반"]
+      },
+      "minItems": 1,
+      "description": "업무주제. 문의유형 분류표의 대분류와 연동. 메타 필터·라우팅에 사용"
+    },
+    "parent_law_ref": {
+      "type": ["string", "null"],
+      "description": "위임 상위근거(고시→법). 관계 조립에서 상위법을 끌어오는 엣지",
+      "examples": ["국가연구개발혁신법 제12조제4항"]
+    },
+    "cites": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "본문이 인용하는 조문/별표(→ 방향 엣지). '제○조','별표 ○' 정규식 파싱",
+      "examples": [["제2조", "별표2"]]
+    },
+    "exception_of": {
+      "type": ["string", "null"],
+      "description": "'~에도 불구하고' 예외 관계의 대상 조문",
+      "examples": ["제12조제1항"]
+    },
+    "context_prefix": {
+      "type": ["string", "null"],
+      "description": "임베딩 앞에 붙이는 문맥 문장(소형 LLM 생성). Summary-Augmented용",
+      "examples": ["이 조문은 국가연구개발혁신법 제3장 협약 중 협약 변경의 예외를 정한다. 2024.7.1. 시행."]
+    },
+    "body_text": {
+      "type": "string",
+      "description": "조문 원문(항·호·목 포함). 답변 생성 시 LLM에 전달. 임베딩은 context_prefix+요약 기준이되 원문은 절대 손상 금지"
+    },
+    "parent_chunk_id": {
+      "type": ["string", "null"],
+      "description": "small-to-big 검색용 부모(조) 청크 ID. 항 청크가 조 청크를 가리킴"
+    },
+    "source_url": {
+      "type": "string", "format": "uri",
+      "description": "law.go.kr 조문 딥링크. UI 근거패널이 여는 원문"
+    },
+    "version_hash": {
+      "type": ["string", "null"],
+      "description": "body_text의 SHA. 개정 감지용"
+    }
+  },
+  "additionalProperties": false
+}

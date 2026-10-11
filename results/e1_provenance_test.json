@@ -1,0 +1,30 @@
+{
+  "default": {
+    "n": 60,
+    "정확도": 0.65,
+    "오귀속률": 0.25,
+    "coverage": 0.9,
+    "RESOLVED정밀도": 0.722,
+    "정당한보류율": 0.6,
+    "잘못된보류율": 0.0
+  },
+  "pgate": {
+    "n": 60,
+    "정확도": 0.533,
+    "오귀속률": 0.067,
+    "coverage": 0.6,
+    "RESOLVED정밀도": 0.889,
+    "정당한보류율": 0.7,
+    "잘못된보류율": 0.34
+  },
+  "_resolvability": {
+    "SECTION": 3,
+    "INHERIT": 11,
+    "EXPLICIT": 35,
+    "QUOTE_SELF": 5,
+    "UNRESOLVABLE": 1,
+    "EXPERT": 1,
+    "EXPLICIT_SHORT": 4
+  },
+  "_reviewed_n": 0
+}

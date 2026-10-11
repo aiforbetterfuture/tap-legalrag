@@ -1,0 +1,14 @@
+{
+  "note": "조문 계보(수작업 검증, 소규모 프로토타입). 자동 판본엔진이 아니다. 매뉴얼(2026.07)이 인용한 '낡은 조문 번호'를 현행 위치로 교정한다. 근거(신설 표시)는 marker가 지원, 조(條) 이동은 manual.",
+  "law_version": "CORPUS-20260802",
+  "entries": [
+    {"law_id": "013933", "stale": "64:2", "current": "64:3", "method": "marker",
+     "evidence": "64조2항 <신설 2024.2.6> 삽입으로 종전 2항 내용(적용제외)이 3항으로 밀림", "ref_case": "M-117"},
+    {"law_id": "013933", "stale": "31:3", "current": "31:4", "method": "marker",
+     "evidence": "31조1항 <신설 2026.7.28> 삽입으로 항 번호 1칸 밀림", "ref_case": "M-077"},
+    {"law_id": "013933", "stale": "35:5", "current": "34:5", "method": "manual",
+     "evidence": "조 단위 이동(M-096). 현행 35조5항은 비공개 연장 등 다른 내용", "ref_case": "M-096"},
+    {"law_id": "013933", "stale": "32:4", "current": "34:4", "method": "manual",
+     "evidence": "조 단위 이동(M-096). 현행 32조4항은 국가소유 사유 등 다른 내용", "ref_case": "M-096"}
+  ]
+}

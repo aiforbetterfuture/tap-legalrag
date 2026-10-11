@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="utf-8"><title>TAP-LegalRAG 시연(자동 생성)</title>
+<style>
+ body{font-family:system-ui,"Malgun Gothic",sans-serif;max-width:860px;margin:24px auto;padding:0 16px;color:#1b1b1b;line-height:1.5}
+ .sub{color:#666;font-size:13px} .card{border:1px solid #ddd;border-radius:10px;padding:14px 16px;margin:14px 0}
+ .q{font-weight:600;margin-bottom:8px} .badges span{display:inline-block;font-size:12px;border-radius:12px;padding:2px 9px;margin:2px 4px 2px 0;border:1px solid #ccc}
+ .ANSWER{background:#e8f5e9;border-color:#a5d6a7} .CONFIRM{background:#fff8e1;border-color:#ffe082}
+ .ABSTAIN{background:#fce4ec;border-color:#f48fb1} .CORRECT{background:#e3f2fd;border-color:#90caf9}
+ .path{font-size:13px;color:#333;background:#fafafa;border-left:3px solid #bbb;padding:6px 10px;margin-top:8px;white-space:pre-wrap}
+ footer{color:#888;font-size:12px;margin-top:24px;border-top:1px solid #eee;padding-top:10px}
+</style></head><body>
+<h1>TAP-LegalRAG — 판정 경로 시연</h1>
+<p class="sub">이 페이지는 <b>scripts/build_demo.py가 실제 파이프라인(config B4)을 돌려 자동 생성</b>한다(손으로 쓴 문구 없음).
+설정 B4, 판본 CORPUS-20260802, run_id 6143b638. 법적 판단을 대체하지 않으며 사람 검토가 전제다.</p>
+  <div class="card">
+    <div class="q">명시 조문 — "학생인건비는 어떻게 지급하나요?"</div>
+    <div class="badges"><span class="ANSWER">결정: ANSWER</span>
+      <span>관련도 0.429</span><span>최상위 근거: 사용기준 제90조</span></div>
+    <div class="path">결정 경로: P=n/a → T=n/a → A=NONE  ·  사유: 게이트 통과</div>
+  </div>
+  <div class="card">
+    <div class="q">낡은 조문(질문 인용) — "시행령 제64조 제2항에 따른 3책5공 적용제외 대상은?"</div>
+    <div class="badges"><span class="CONFIRM">결정: CONFIRM(확인)</span>
+      <span>관련도 0.417</span><span>최상위 근거: 혁신법 시행령 제41조제5항</span></div>
+    <div class="path">결정 경로: P=013933:64 → T=AMBIGUOUS_HISTORIC  ·  사유: 인용 번호가 현행에도 있고 계보상 밀린 번호이기도 함 — 현행 64조제2항 / 종전 번호의 현행 위치 64조제3항</div>
+  </div>
+  <div class="card">
+    <div class="q">답 불변 — "비영리기관이 연구개발비를 이관할 때 간접비 적용 방법은?"</div>
+    <div class="badges"><span class="ANSWER">결정: ANSWER</span>
+      <span>관련도 0.667</span><span>최상위 근거: 혁신법 시행령 제24조제4항</span></div>
+    <div class="path">결정 경로: P=n/a → T=n/a → A=NONE  ·  사유: 게이트 통과</div>
+  </div>
+  <div class="card">
+    <div class="q">확인 요청 — "연구책임자와 연구개발기관 중 어떤 것을 변경해야 하나요?"</div>
+    <div class="badges"><span class="CONFIRM">결정: CONFIRM(확인)</span>
+      <span>관련도 0.304</span><span>최상위 근거: 국가연구개발혁신법 제15조제2항</span></div>
+    <div class="path">결정 경로: P=n/a → T=n/a → A=ASK  ·  사유: 적용 분기(ASK)</div>
+  </div>
+  <div class="card">
+    <div class="q">범위 밖 — "우주 정거장 발사 허가 절차는?"</div>
+    <div class="badges"><span class="ABSTAIN">결정: ABSTAIN(보류)</span>
+      <span>관련도 0.083</span><span>최상위 근거: 사용기준 제32조</span></div>
+    <div class="path">결정 경로: oos  ·  사유: 범위밖/근거부족(rel=0.08)</div>
+  </div>
+<footer>생성: 2026-10-10 · 데이터 출처: 과학기술정보통신부 매뉴얼 등 공개 자료·국가법령정보 · 결과·한계: docs/RESULTS.md, docs/LIMITATIONS.md</footer>
+</body></html>

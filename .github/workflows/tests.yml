@@ -1,0 +1,57 @@
+name: tests
+
+# 공개판 재현성 CI: Ubuntu + Windows 두 환경에서 고정 의존성으로 검증.
+# 네트워크·비밀 불필요(순수 파이썬·로컬 픽스처). 공공누리 제4유형 매뉴얼은 공개판에 없으므로
+# 매뉴얼이 필요한 테스트는 requires_manual로 자동 skip된다(사유·개수는 로그에 표시).
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  pytest:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    env:                      # C8: Windows 러너 한글 깨짐 방지
+      PYTHONUTF8: "1"
+      PYTHONIOENCODING: "utf-8"
+      PYTHONPATH: src
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install locked dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements-lock.txt
+
+      - name: Run tests (requires_manual auto-skip in public)
+        env:
+          PYTHONPATH: src
+        run: python -m pytest -q -rs
+
+      - name: CLI smoke (synthetic question)
+        env:
+          PYTHONPATH: src
+        run: python -m law_rag ask "제5조에 대해 알려주세요"
+
+      - name: Label integrity
+        env:
+          PYTHONPATH: src
+        run: python scripts/check_labels.py
+
+      - name: Document numbers match results
+        env:
+          PYTHONPATH: src
+        run: python scripts/sync_numbers.py

@@ -1,0 +1,5063 @@
+{
+  "LAW-013774-J1": {
+    "hash": "b0f8ac22a810ac60476bc574365fbb1338f1a5b5f97387c29521c9789644ac1a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "1",
+    "para": null
+  },
+  "LAW-013774-J2": {
+    "hash": "99637f9ddd95c2aad8e70b898c9570887916b899b0c0efbb0aeb07ff0981e576",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "2",
+    "para": null
+  },
+  "LAW-013774-J3": {
+    "hash": "c9e940087d0e5c98dd1352ad5a070b40e61aab75918711ad4d0a95e6409d8af0",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "3",
+    "para": null
+  },
+  "LAW-013774-J4": {
+    "hash": "a0c05612c920061d8d5b74a9cad50f09d6afa1405f67079455df53d81097ac01",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "4",
+    "para": null
+  },
+  "LAW-013774-J5": {
+    "hash": "425a0165ed8a2425bea27587fa9332a3e3a073247f7885cb6b07c174ff70f12e",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "5",
+    "para": null
+  },
+  "LAW-013774-J6": {
+    "hash": "5ca6b4eb962d1338684a5aa829f920eea510ff76364313cee6c83b39d24b9a7e",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "6",
+    "para": null
+  },
+  "LAW-013774-J7-H1": {
+    "hash": "187ce8f074981476582fa0f0aeafa51378cad53dad8ff90dd52fbbd3c3217828",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "7",
+    "para": "1"
+  },
+  "LAW-013774-J7-H2": {
+    "hash": "317c5850eefef14eb864ac568573d92b108135873068273628f65f743e2a2148",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "7",
+    "para": "2"
+  },
+  "LAW-013774-J8-H1": {
+    "hash": "26b67b88ef8588af0adc9fdc603c26747be1330ed2d599cbcc80a7f355e9c985",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "8",
+    "para": "1"
+  },
+  "LAW-013774-J8-H2": {
+    "hash": "9e57abe05b7b5a2f7ef4a8f6bc61b8e28aa1e3d0a63c5a357820edeed8975fa1",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "8",
+    "para": "2"
+  },
+  "LAW-013774-J9-H1": {
+    "hash": "f6bcfe9b43329c1634013d126bf90ec10d28837978c57487a3512ac2ad3d603c",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "9",
+    "para": "1"
+  },
+  "LAW-013774-J9-H2": {
+    "hash": "77cdac4a460ec49505cfffc34199ebe095f0da0318ca4a7fc37770ba493a288c",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "9",
+    "para": "2"
+  },
+  "LAW-013774-J9-H3": {
+    "hash": "6cc68b26a1f587c5aaed7f02cf423ade00a0cfcfaeba856723a951e8bdec9949",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "9",
+    "para": "3"
+  },
+  "LAW-013774-J9-H4": {
+    "hash": "9518ee02f4ea3aaa9b002a87dea313c040994df1ccdff4148afe3bd78d5a532e",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "9",
+    "para": "4"
+  },
+  "LAW-013774-J9-H5": {
+    "hash": "1b9dfdc8b3c36423c289e7a69739fc5a8c9dcac8d4196960ff66cf5e279bf627",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "9",
+    "para": "5"
+  },
+  "LAW-013774-J10-H1": {
+    "hash": "336ab458fd48882ce055d2aecc0498d0ceb9a077f1469f14f66e94c9966fa012",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "10",
+    "para": "1"
+  },
+  "LAW-013774-J10-H2": {
+    "hash": "551b080faeae2fc5fedd8c5d2c49538fc36d1b5ef05adc39eae713a964eefad2",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "10",
+    "para": "2"
+  },
+  "LAW-013774-J10-H3": {
+    "hash": "5700a612e4a8f27112bc438aa482cea2db07f40711808b22463de8f45137ac7f",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "10",
+    "para": "3"
+  },
+  "LAW-013774-J11-H1": {
+    "hash": "4adbeea1cd1ab7b630656786da4b5db8e0396bcf0266d8cb616db4c1b96ecbb0",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "11",
+    "para": "1"
+  },
+  "LAW-013774-J11-H2": {
+    "hash": "90ebb3c0c57148e5fd814c90dbb5a0e469ac2e551a81dfe53bc1eeaaeb70d105",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "11",
+    "para": "2"
+  },
+  "LAW-013774-J11-H3": {
+    "hash": "801863ad1522e46c2c511183f93e11738f57bac8ceef85157bb640a1c5852925",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "11",
+    "para": "3"
+  },
+  "LAW-013774-J11-H4": {
+    "hash": "fbe031909c86babba407d873a84db83f9b6982969244f73136a7caedb679ea7e",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "11",
+    "para": "4"
+  },
+  "LAW-013774-J11-H5": {
+    "hash": "e1af8848a27bd5f883927ad7dc0d5524b957f773f3aaed7ec244c91f0009e198",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "11",
+    "para": "5"
+  },
+  "LAW-013774-J12-H1": {
+    "hash": "d42cae1fe13198981ced6f05e82ac102e3b238422f78f0c48b6921de0e5d6703",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "12",
+    "para": "1"
+  },
+  "LAW-013774-J12-H2": {
+    "hash": "cc64a3dfd168eb4d9ae73676f0a027c88db2e0c0f7266602e65d4d318a080042",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "12",
+    "para": "2"
+  },
+  "LAW-013774-J12-H3": {
+    "hash": "1b48e62a4a3596c7998a38d320dac615a4255bfef62a4acf826a9b2c259a2e7c",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "12",
+    "para": "3"
+  },
+  "LAW-013774-J12-H4": {
+    "hash": "f5bb1bb529908dd519bc6292d72e6ba019221c48f68830689459753038910668",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "12",
+    "para": "4"
+  },
+  "LAW-013774-J12-H5": {
+    "hash": "a16c3edc01487a8a65f41a6fa533d497a2d4b3200a834e9099c485e9a39f6c3b",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "12",
+    "para": "5"
+  },
+  "LAW-013774-J12-H6": {
+    "hash": "5eb27bf980f54cddd85c3cb536726807a2f60cf4dec3964829ab3f190f44b2a5",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "12",
+    "para": "6"
+  },
+  "LAW-013774-J12-H7": {
+    "hash": "a4d96ba10f9f9b8ec96adce24b59c9180446f94fd0a2ecfcf8e20db9692db1db",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "12",
+    "para": "7"
+  },
+  "LAW-013774-J12-H8": {
+    "hash": "39573f432404512b7f50316703ac70962d69772595feedd869f2bbc291ee2a5f",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "12",
+    "para": "8"
+  },
+  "LAW-013774-J13-H1": {
+    "hash": "1dabee0dd7fd6c1d49859f2473ed199fea6a80c1128f9b6fbac6cc215bf81c4c",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "13",
+    "para": "1"
+  },
+  "LAW-013774-J13-H2": {
+    "hash": "0fc0cd4c3c33afd5ac9ba85a69d58bafc5d5114ad0a4435e6c0b5a5333d788b4",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "13",
+    "para": "2"
+  },
+  "LAW-013774-J13-H3": {
+    "hash": "1caf6b3798e70551668cabd8fcac3f0a04c2db3283449f879a15470c18401714",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "13",
+    "para": "3"
+  },
+  "LAW-013774-J13-H4": {
+    "hash": "346616f22517f828abf599b99cbc134e66c4d4ded6c3b046ff5af15a56ba1a41",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "13",
+    "para": "4"
+  },
+  "LAW-013774-J13-H5": {
+    "hash": "a80d5d06d6d87b79858e415b78843546efaa2273f031c15382dbc488772ded8e",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "13",
+    "para": "5"
+  },
+  "LAW-013774-J13-H6": {
+    "hash": "13f8d15245b4ec6f883836ccf575253d9563e3230b9884d3a904b05c2f709631",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "13",
+    "para": "6"
+  },
+  "LAW-013774-J13-H7": {
+    "hash": "e927075b36a68eecc88ff8df9caecdfb87ace2dc97279095f088d1497829d1a6",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "13",
+    "para": "7"
+  },
+  "LAW-013774-J13-H8": {
+    "hash": "b26250ae9515ab64f667d6a5e908826b469b470b0fe0322470c205366fa7777d",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "13",
+    "para": "8"
+  },
+  "LAW-013774-J13-H9": {
+    "hash": "3b0859429e89b78a4105d9fbf4c53d719be9aff7204bf6ffa4023bdbc2032baa",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "13",
+    "para": "9"
+  },
+  "LAW-013774-J14-H1": {
+    "hash": "a3e90769c1a35d2842a2653f9177dc505678294b81aae84a55f9459a01cc071d",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "14",
+    "para": "1"
+  },
+  "LAW-013774-J14-H2": {
+    "hash": "f81dd152b0ff48ac36c84bafc3965ce6cb7a931f5dcaf8cb378e6637b186a5ef",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "14",
+    "para": "2"
+  },
+  "LAW-013774-J14-H3": {
+    "hash": "2ec6039880ccbed12faa2ae752e5cc0fc82ba4518dd9bdec9b1a34f48a220bef",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "14",
+    "para": "3"
+  },
+  "LAW-013774-J14-H4": {
+    "hash": "8cd34181e1fb3bf3fc6779fd19ce2df88b703eca375be5668df290e0e7258c07",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "14",
+    "para": "4"
+  },
+  "LAW-013774-J14-H5": {
+    "hash": "ec28591d386fd200eaccb2fdb3a15694998cd15a959b0be9dd682bce3ae3b2fc",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "14",
+    "para": "5"
+  },
+  "LAW-013774-J14-H6": {
+    "hash": "d2a36584e311ae9b27c3b7290dbc6f5667ee6cf9dd28049085b14f65594ad968",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "14",
+    "para": "6"
+  },
+  "LAW-013774-J14-H7": {
+    "hash": "f2938a6d5a9a15ecdeec3d64f1b19f437dec141ca01c8ff5838628edc04e0579",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "14",
+    "para": "7"
+  },
+  "LAW-013774-J14-H8": {
+    "hash": "b92bf8765c2f8ce7c461726ff9985463574b06c7bb88f508e2fba8afb930ae9a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "14",
+    "para": "8"
+  },
+  "LAW-013774-J15-H1": {
+    "hash": "cfaf7f0cf49b3411c4d33a49c627efa8e45b2757ede5b17fd55c1a8266637485",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "15",
+    "para": "1"
+  },
+  "LAW-013774-J15-H2": {
+    "hash": "a4ba2972cbc767ff67faccf4d35584a3f4a4f81e7da3eb3b507ef12f3a8f4530",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "15",
+    "para": "2"
+  },
+  "LAW-013774-J15-H3": {
+    "hash": "64af8cd5be256721df2348f2def010e7f081a000e5022c359f21ddc045dccd62",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "15",
+    "para": "3"
+  },
+  "LAW-013774-J16-H1": {
+    "hash": "c1d9801d67c725788ad3258d6c12a19a6418f5100865291b49075b4bbf2fdeb0",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "16",
+    "para": "1"
+  },
+  "LAW-013774-J16-H2": {
+    "hash": "c9e7054a7a318924b259a33eeb45a9c2a11b25a6315f5bf513dccc6039e7e4f8",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "16",
+    "para": "2"
+  },
+  "LAW-013774-J16-H3": {
+    "hash": "23dd8b6f6dcb31c1dbc986533e802ec68aa0c57d7fa9d406b8f6783cd11c3155",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "16",
+    "para": "3"
+  },
+  "LAW-013774-J16-H4": {
+    "hash": "2383b85e8bf8ba5ebdf952ee5fdeda5f741a8b6a3c90c17de4e823febe1a9782",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "16",
+    "para": "4"
+  },
+  "LAW-013774-J16-H5": {
+    "hash": "c665899d9fefe7601816c0aeb75422bc34e306e742574b97cc02e597bc6d50dd",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "16",
+    "para": "5"
+  },
+  "LAW-013774-J17-H1": {
+    "hash": "96a08f94017cd90dbaaaf6ddfa2295eee126ca2a4275643d8f4216f441cff040",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "17",
+    "para": "1"
+  },
+  "LAW-013774-J17-H2": {
+    "hash": "51bee5a18814f6c35e1ab0e63db1512e02d033b8592bd6863f15c1bbb4b290ce",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "17",
+    "para": "2"
+  },
+  "LAW-013774-J17-H3": {
+    "hash": "575db884a093c95d7ad70ef86e4d9ace75f4421ae11e562dac2c72a4050f9dd9",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "17",
+    "para": "3"
+  },
+  "LAW-013774-J17-H4": {
+    "hash": "3e5e44a3929989d0500aeb61c93499f85e2012b0be9d5a2f566a956798c723e1",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "17",
+    "para": "4"
+  },
+  "LAW-013774-J17-H5": {
+    "hash": "c4ccd8f43d97ad159feec7d1ee365f426d771fe7e4ee7165f3a7647519f27d83",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "17",
+    "para": "5"
+  },
+  "LAW-013774-J17-H6": {
+    "hash": "c489e32596c82e7ef0a9196d0d7005631f0afe2d02cb5ed0549744877d7b606d",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "17",
+    "para": "6"
+  },
+  "LAW-013774-J17-H7": {
+    "hash": "c7409ecce9214af3b00c43865fea0220eb2c3ca7955a9c6f8a15969bda8dc03d",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "17",
+    "para": "7"
+  },
+  "LAW-013774-J18-H1": {
+    "hash": "b4d5e85133c988fd99e87fec2241d4002f3d1673a1e9c70b33837b1f0c36777a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "18",
+    "para": "1"
+  },
+  "LAW-013774-J18-H2": {
+    "hash": "a42845cd9202bf308e940277849af7098950e208d9f3d1078bb6e58848cb6f70",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "18",
+    "para": "2"
+  },
+  "LAW-013774-J18-H3": {
+    "hash": "28d97736a531e8b5da8b403e0ccfa53cecee823a7292def53c4f80430fcfc7f2",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "18",
+    "para": "3"
+  },
+  "LAW-013774-J18-H4": {
+    "hash": "e6e0344842fe7a682da5dc5734d4e2b5c0cb93d412769e6bffd9efd9da2ed51a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "18",
+    "para": "4"
+  },
+  "LAW-013774-J18-H5": {
+    "hash": "b206a1b91eb6a57d217a6f93c0020705cc6b3691f867a506db06d1dea4e0c663",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "18",
+    "para": "5"
+  },
+  "LAW-013774-J18-H6": {
+    "hash": "c516d6f6c78f09dddd6bd9714de8bbc26063f5322950039bf33536e91cf50b5d",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "18",
+    "para": "6"
+  },
+  "LAW-013774-J19-H1": {
+    "hash": "fb3166d095d42113e6b9cdf5ef7fe76cc5048a39d1f0807695e068d786cb5149",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "19",
+    "para": "1"
+  },
+  "LAW-013774-J19-H2": {
+    "hash": "c437f7a9ccd01527df80eb9581951a74fa7405161b052b897c138311ca304b13",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "19",
+    "para": "2"
+  },
+  "LAW-013774-J19-H3": {
+    "hash": "312b1c3fd3399652bd3bb7fb4c33b895efc55f6cb0e50627651a796c4ef5d028",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "19",
+    "para": "3"
+  },
+  "LAW-013774-J19-H4": {
+    "hash": "8ebe184253999d3280eec99a7bacfaa18fe55d02e4cab045b9f727eb68e4fe3a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "19",
+    "para": "4"
+  },
+  "LAW-013774-J20-H1": {
+    "hash": "c54b6873030a878b86a1a9c7a36e0b505a839cf2b3aaa5c52bceb099524629a5",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "20",
+    "para": "1"
+  },
+  "LAW-013774-J20-H2": {
+    "hash": "6f2ad92d604004ae99483448b82d9cb8266a7af06415a679058004e51f9022c9",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "20",
+    "para": "2"
+  },
+  "LAW-013774-J20-H3": {
+    "hash": "5d36d88cb1b3a2934b37399858b3a233f4e3e4fc47f7ef1b063bb065410fdc4a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "20",
+    "para": "3"
+  },
+  "LAW-013774-J20-H4": {
+    "hash": "c0c8cd47edf4adadb95968f14f3699381c96961b9303d58ac277e086f30af0a9",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "20",
+    "para": "4"
+  },
+  "LAW-013774-J21-H1": {
+    "hash": "f4b82aed9b9225733cdf9b14dec29e1dd80738f6c936d29467586589a1bc928a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "1"
+  },
+  "LAW-013774-J21-H2": {
+    "hash": "b31bf63823e4064493550e0596ad4d9443f8bda2b59f62861e95454fc4e1bb14",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "2"
+  },
+  "LAW-013774-J21-H3": {
+    "hash": "fbe392b1e304759a62c5a5438f77674beee6bbbfbfae943c38c7ab3bc5376de7",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "3"
+  },
+  "LAW-013774-J21-H4": {
+    "hash": "7e7e7803ff010546981fa9972e7e6075278922ef669616af0cb786faef891429",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "4"
+  },
+  "LAW-013774-J21-H5": {
+    "hash": "8897a3e664d1ea19021438db32f47a89cfc2904eca3d5cf606689dcde3fd5cc3",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "5"
+  },
+  "LAW-013774-J21-H6": {
+    "hash": "240c1c17f835c7bfe87afe819e45d0c545e33084783ee613178261e4f2cd4ca2",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "6"
+  },
+  "LAW-013774-J21-H7": {
+    "hash": "6e34159cad3d22767aff7248415cae8eb98ba95eec750de9d6dc45abb4d7593f",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "7"
+  },
+  "LAW-013774-J21-H8": {
+    "hash": "df020e881947d2ba055a5a67c1ab39a8f2ec554fc54b9856588dc71b2be4b4b4",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "8"
+  },
+  "LAW-013774-J21-H9": {
+    "hash": "742337a612c224cae075ce8eedba21d26b1212d27539a64ffe6f32b46795caee",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "9"
+  },
+  "LAW-013774-J21-H10": {
+    "hash": "0cff66f2b25cc741958582aa473e24e047936956c4d6c4d76382793352bc29a7",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "10"
+  },
+  "LAW-013774-J21-H11": {
+    "hash": "ae3ccfc0b12acef0bcca7f6ace8ff1702e28e96abfb9c5186f72bddd01b0ca17",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21",
+    "para": "11"
+  },
+  "LAW-013774-J21의2-H1": {
+    "hash": "1abc58164916f8fd5eccb22403f3162174d05fbcf3c9f618e5f52902d2cc3649",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21의2",
+    "para": "1"
+  },
+  "LAW-013774-J21의2-H2": {
+    "hash": "9a624438581928a037980a145d3eb21b32845104c511881eecbfc7426b7349b2",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21의2",
+    "para": "2"
+  },
+  "LAW-013774-J21의2-H3": {
+    "hash": "3f8c4ad617beffebe0dfae405aadb79b831658f27f8a9b314d22711be62e5a03",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21의2",
+    "para": "3"
+  },
+  "LAW-013774-J21의2-H4": {
+    "hash": "6e592349eba4de26ced6bc2ddd8bba3eea01edfe11b362ef34330b399800658a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21의2",
+    "para": "4"
+  },
+  "LAW-013774-J21의2-H5": {
+    "hash": "5696b9afa391c4a8ccacb6e5493dff3b4d24a602d0a505d1d95e8db68f4fcad2",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "21의2",
+    "para": "5"
+  },
+  "LAW-013774-J22-H1": {
+    "hash": "f0266f43ec9aaa1ab184f6cd4480c1e9278a851d8473df12d15efe16f6b9652a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "22",
+    "para": "1"
+  },
+  "LAW-013774-J22-H2": {
+    "hash": "9b17a715c52cdf5208437b9c3515769332898a1ad6cde44f49d177f7d396c27d",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "22",
+    "para": "2"
+  },
+  "LAW-013774-J22-H3": {
+    "hash": "99077eccae71867198ed64f26a42ddb403f02a6dc016a0e4c08792637850fc35",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "22",
+    "para": "3"
+  },
+  "LAW-013774-J22-H4": {
+    "hash": "913ea8762f665bde966c9e25e0ce88579594b3954a93e146f9677907331ce90a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "22",
+    "para": "4"
+  },
+  "LAW-013774-J22-H5": {
+    "hash": "66c4b5180f41556099ef3149a6b473d582c4c4c540d163891b239de1ba42c2e6",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "22",
+    "para": "5"
+  },
+  "LAW-013774-J22-H6": {
+    "hash": "be829033c9885e5253396e01d5c9d24d0ac27e92b24ef6b79dcdc41321abcd86",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "22",
+    "para": "6"
+  },
+  "LAW-013774-J23-H1": {
+    "hash": "b9c37c7ab8b01ff3b8b513ec2af58594d5560ffcd286c18654bf98545fea68e2",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "23",
+    "para": "1"
+  },
+  "LAW-013774-J23-H2": {
+    "hash": "d62c247f31a039bc59eece34e1c43ee663629cf53f63d3ddd5d4e67782906e6b",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "23",
+    "para": "2"
+  },
+  "LAW-013774-J23-H3": {
+    "hash": "d6f4396d3eaca39e9b0be68a09a696b9445b7a395e3bf435c0a49ebeb08ba8d8",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "23",
+    "para": "3"
+  },
+  "LAW-013774-J23-H4": {
+    "hash": "672ee9c41b5a8d14a17badd8e1a3ada9833cad5beae8a9994240967f8df1f908",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "23",
+    "para": "4"
+  },
+  "LAW-013774-J23-H5": {
+    "hash": "7c836acfc1f365b8b7a036f2c34bbd86da3ae7ac4e175a5c344cbc3d7e57f416",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "23",
+    "para": "5"
+  },
+  "LAW-013774-J24-H1": {
+    "hash": "75244986131f1281e6d19fbc130e79b2793a62b76207d27616a86a1b65cf20f7",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "24",
+    "para": "1"
+  },
+  "LAW-013774-J24-H2": {
+    "hash": "9efc2c859b0c6ea2f231565c49503fee07b6f57ee99d4cddee748e738d4bc61c",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "24",
+    "para": "2"
+  },
+  "LAW-013774-J24-H3": {
+    "hash": "13dacb15d096fe9d24fb6d9470f7ae82b7eb0ccdd0cba0aaaeb7a13b3b75af3d",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "24",
+    "para": "3"
+  },
+  "LAW-013774-J25-H1": {
+    "hash": "d438d9291e0b7908c2acb1b047fa550c39ec6b57b05bdfe74a1ee8974aaea3c1",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "25",
+    "para": "1"
+  },
+  "LAW-013774-J25-H2": {
+    "hash": "0d4757c2702a9ae76136eaaa34dd8dc4bb3fcdb0d321bbbc149fab2a24e54080",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "25",
+    "para": "2"
+  },
+  "LAW-013774-J25-H3": {
+    "hash": "57e7f1cde6ccf5a76dbdbb011f78650dc2bb613b05efed48bcdd5f324ef55961",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "25",
+    "para": "3"
+  },
+  "LAW-013774-J25-H4": {
+    "hash": "a37bf89b7e3f803931ef23cb114a214129f05a00d0a0f144544a033142f85f03",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "25",
+    "para": "4"
+  },
+  "LAW-013774-J26-H1": {
+    "hash": "2ac57ab30fe15f872f0def85c03fa41f9d3d56402cea9ded296cf3f96fe20dac",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "26",
+    "para": "1"
+  },
+  "LAW-013774-J26-H2": {
+    "hash": "d65b91511151c677de9632a0484bb5f8b2d207375712e6b9306c2567ad696672",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "26",
+    "para": "2"
+  },
+  "LAW-013774-J26-H3": {
+    "hash": "e847324245b12768b5c94b183cae6502a4a22916948ae9033ba20d22c4009998",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "26",
+    "para": "3"
+  },
+  "LAW-013774-J27-H1": {
+    "hash": "18d8c03838c4ee78ddd573c17b9e9c6d17be5bb27472225f4a89e09062b99d70",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "27",
+    "para": "1"
+  },
+  "LAW-013774-J27-H2": {
+    "hash": "dec5a4e50d1caa76737e8b62bd5ab0dc7d7a511c0ae166803bbee7cb3e0d331a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "27",
+    "para": "2"
+  },
+  "LAW-013774-J27-H3": {
+    "hash": "69f6963762f908bd88b98041de706eff028ce21eae63d1edfc668f978fbe3b6f",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "27",
+    "para": "3"
+  },
+  "LAW-013774-J28-H1": {
+    "hash": "a55cedcc8c0c83186d4aed118b5219126848c540b6cfe4da1d2f92fec4a4b9fc",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "28",
+    "para": "1"
+  },
+  "LAW-013774-J28-H2": {
+    "hash": "5e4f8d5a771ca1dcd01b6332068ab11dafe44ec80fdb0e0f73fc9a1c3609f8d3",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "28",
+    "para": "2"
+  },
+  "LAW-013774-J28-H3": {
+    "hash": "0852ae3d4e8bbafb7f9522fc17a1c7408769e67845f51ceb442c72c1fe8f6203",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "28",
+    "para": "3"
+  },
+  "LAW-013774-J28-H4": {
+    "hash": "ec5c5de00126a82b126ee2d72dacd53ec5f1c749c6f88152ae63f788f59a90d0",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "28",
+    "para": "4"
+  },
+  "LAW-013774-J29-H1": {
+    "hash": "0c337f0db252c7e1079867f8bfee94575b5532b7d47eb144d46bbc1b85f0fa06",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "29",
+    "para": "1"
+  },
+  "LAW-013774-J29-H2": {
+    "hash": "e8faf514350e0b38706a1b21bc957a528f32fd7ebe1bd3da1bc759c72ddc39c5",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "29",
+    "para": "2"
+  },
+  "LAW-013774-J29-H3": {
+    "hash": "8aca3b7acd811f4ed641edfdf74daa31753c2d982219e71463d75b4b8c779ead",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "29",
+    "para": "3"
+  },
+  "LAW-013774-J29-H4": {
+    "hash": "ae70f30d2717e990686ecf9235694f5df1ad27f5be09639c4464c3fdd08ed5f9",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "29",
+    "para": "4"
+  },
+  "LAW-013774-J30-H1": {
+    "hash": "f59f78004d1091c3e0e99ba291813d3616634dd3e58e6bc384a14fda1f7d25dd",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "30",
+    "para": "1"
+  },
+  "LAW-013774-J30-H2": {
+    "hash": "58bb5e8961a94cc9de33d39f70be6d6e1d279fc0a24aa5335877ac1c3e5aa905",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "30",
+    "para": "2"
+  },
+  "LAW-013774-J30-H3": {
+    "hash": "c105b2214a08134c2157dbda0af3bab6c28de968e20ca3d3904763b655224f08",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "30",
+    "para": "3"
+  },
+  "LAW-013774-J30-H4": {
+    "hash": "ae18f088df2145e05c577659b4b9aff0ac9f8c8bb8544cc429a08a7d6474ec8e",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "30",
+    "para": "4"
+  },
+  "LAW-013774-J30-H5": {
+    "hash": "e3361c865f22f3498bcb2e92f4c9e8c4c686f39ec881d68b4a0198bdfa253122",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "30",
+    "para": "5"
+  },
+  "LAW-013774-J31-H1": {
+    "hash": "e1f3365df9d788605c7ae360dbc1e77adbc64a6d280b98c546efaf028023de69",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "31",
+    "para": "1"
+  },
+  "LAW-013774-J31-H2": {
+    "hash": "89194debe698071c17c28566acbb25deef46622d1c67c1ffd4e6b911331f237b",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "31",
+    "para": "2"
+  },
+  "LAW-013774-J31-H3": {
+    "hash": "ebc6d749d700f05a2eab1dab6d1f4ea17322f393ed62edec56eef1b9855e29fe",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "31",
+    "para": "3"
+  },
+  "LAW-013774-J31-H4": {
+    "hash": "d9cd56de490086961761eb835b8996dc1967477526c4defec78f11933de49500",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "31",
+    "para": "4"
+  },
+  "LAW-013774-J31-H5": {
+    "hash": "d67849d4ef9c00d4042836ffc886e725efa9082a7593c591b71d2e707387121b",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "31",
+    "para": "5"
+  },
+  "LAW-013774-J32-H1": {
+    "hash": "17423fdcd1f74aa78aacb1e2f3180d738c73ea484a47f5fa21ccef2c58bf5d09",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "32",
+    "para": "1"
+  },
+  "LAW-013774-J32-H2": {
+    "hash": "1e232a7f513a708e595429c098fefee156d521f22816c489bea630857b5f1848",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "32",
+    "para": "2"
+  },
+  "LAW-013774-J32-H3": {
+    "hash": "a02e759cc4dd96508d696ceee2522644790fee8296f0101349946ab3d23e4034",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "32",
+    "para": "3"
+  },
+  "LAW-013774-J32-H4": {
+    "hash": "d462883f70209ffd0ce69518f5c0ce55a9556cda28ad254086a33091368881bf",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "32",
+    "para": "4"
+  },
+  "LAW-013774-J32-H5": {
+    "hash": "f4d238c331b95bc9fe676af55585a1ae8d657bdfa0b755e3adceeb6b2ed82157",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "32",
+    "para": "5"
+  },
+  "LAW-013774-J32-H6": {
+    "hash": "44f500da9acd0d29d8a6126d913656d6f0d6086d170e60f61328c8badc08713a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "32",
+    "para": "6"
+  },
+  "LAW-013774-J33-H1": {
+    "hash": "1a84f2ce8f735c2ba66588cf0fc4517addcd11a244be861c6c7e5aee949767f8",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "33",
+    "para": "1"
+  },
+  "LAW-013774-J33-H2": {
+    "hash": "d7995c0f08374e86e0b3102fc0166ed30da7cb055a8c6dc3aa5b237fa34cfefe",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "33",
+    "para": "2"
+  },
+  "LAW-013774-J33-H3": {
+    "hash": "a2d82cf6b23e6e0e9342596a9dd0d0a9a8e2f7f490a48ea0d8115291c858b628",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "33",
+    "para": "3"
+  },
+  "LAW-013774-J33-H4": {
+    "hash": "90a6326f4ea9aadd2480be4b4a2d54252044747e11fce8b9c6398dbca9a9dd54",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "33",
+    "para": "4"
+  },
+  "LAW-013774-J33-H5": {
+    "hash": "ae7acecaabfdb301fc1edb4592110ae86b9323a0d4f2e696dc9a8c989fb0d854",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "33",
+    "para": "5"
+  },
+  "LAW-013774-J33-H6": {
+    "hash": "c1daa2d0953bb1ab78c6f279813c049ce934dbd950df40ef20cbb04d031dcbe2",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "33",
+    "para": "6"
+  },
+  "LAW-013774-J33-H7": {
+    "hash": "cb38a56c140819814647c819e896f37ee9472bb5605252a97a1e4fa6b4bae960",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "33",
+    "para": "7"
+  },
+  "LAW-013774-J33-H8": {
+    "hash": "169038a53df0e754151c5a998f6a2aeecd067d25ca55f6b6c1f2a699de0b5e17",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "33",
+    "para": "8"
+  },
+  "LAW-013774-J34-H1": {
+    "hash": "3cd2fbc8444766c039c12dde1d8160bb44ed02ff81f2ded41fdae49c0899a71d",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "34",
+    "para": "1"
+  },
+  "LAW-013774-J34-H2": {
+    "hash": "48195385c3139c26036408c9f94d3047321b323a6069b0653a1a719437c7b3c9",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "34",
+    "para": "2"
+  },
+  "LAW-013774-J34-H3": {
+    "hash": "8b82f91a27afa1eb12472daf24d20f273d86a10477682b19da49f6950ce4f6b7",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "34",
+    "para": "3"
+  },
+  "LAW-013774-J35-H1": {
+    "hash": "1ea3350f3f0fcdcf966c1968aedb916b985db6907874110375625c8eb2d306c6",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "35",
+    "para": "1"
+  },
+  "LAW-013774-J35-H2": {
+    "hash": "ecdb1c766b80113c6b3479b052fe8485d4d2c7be4ac636422d8cc1404b5c1fa8",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "35",
+    "para": "2"
+  },
+  "LAW-013774-J35-H3": {
+    "hash": "309234d1f4fed120ba6b280cc2cf32cb67714295ed0050f2095a6a35dcc2924a",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "35",
+    "para": "3"
+  },
+  "LAW-013774-J36": {
+    "hash": "b62c28575374dc288d6c83dc5867e1118430eae86e60e89149cd052c877682e8",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "36",
+    "para": null
+  },
+  "LAW-013774-J37": {
+    "hash": "14e2b01fbeae41bddd7d0b29dc678d7bbcf6f8aba75fb48a3ad9d90108b7123e",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "37",
+    "para": null
+  },
+  "LAW-013774-J38-H1": {
+    "hash": "4ec3bf44e4e940725380d928d7b87f8c68bbeb9417565de0030c139a0bcc15c2",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "38",
+    "para": "1"
+  },
+  "LAW-013774-J38-H2": {
+    "hash": "cceb45aa93132bc8cb5b78c6ae7cb2d0f9d94b155f3597b4857816804e87a4dd",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "38",
+    "para": "2"
+  },
+  "LAW-013774-J39": {
+    "hash": "f9a5bcc1955b53a0067cae35787dcadf39c7b4991ea5c772689281ed794b4352",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "39",
+    "para": null
+  },
+  "LAW-013774-J40": {
+    "hash": "3ca692b60b85d7fd909c3a593268b28be4f2aa4a8fc2b4fc440c18cc21f78b25",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "40",
+    "para": null
+  },
+  "LAW-013774-J41": {
+    "hash": "d0b80cb4e047f1144d9dc243380868b01401949be4c62c62e1f0ba667008d530",
+    "law_id": "013774",
+    "law": "국가연구개발혁신법",
+    "article": "41",
+    "para": null
+  },
+  "LAW-013933-J1": {
+    "hash": "d817ad7662cf48fb9cd24d88afb6d88acf54f0797d47379019cf7ced1e7f3a13",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "1",
+    "para": null
+  },
+  "LAW-013933-J2-H1": {
+    "hash": "afd84c5ef52fb5deb772bd3eff6ec5dfe7e16193849f311455f3b6b8b922af4c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "2",
+    "para": "1"
+  },
+  "LAW-013933-J2-H2": {
+    "hash": "40a670bdc4774469c802cf7a4f443cc615f287a0a3a1121c04e2e3a88d6c1bbc",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "2",
+    "para": "2"
+  },
+  "LAW-013933-J3": {
+    "hash": "cccf6fc869f85124d74a2d3c97cb3420f56ae64ef1deafec0cc238b8ac7534d4",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "3",
+    "para": null
+  },
+  "LAW-013933-J4": {
+    "hash": "e45a5b9718a48f2b1b64eac46424d82acf81aededb0ed26ce992c86b8e35eedd",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "4",
+    "para": null
+  },
+  "LAW-013933-J5": {
+    "hash": "6ee0a27ab19874dbe7a32878a013a2eafa1de2ed9175897814cae10479570cd7",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "5",
+    "para": null
+  },
+  "LAW-013933-J6-H1": {
+    "hash": "5a19057ee822e8e81e87d59c8a1de12856b266809e91999681fa3c89979c951a",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "6",
+    "para": "1"
+  },
+  "LAW-013933-J6-H2": {
+    "hash": "fd4e736b98fd4c158d47eee5372aa4f082cf16f26db0bf6accbd8a0fbbf517c7",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "6",
+    "para": "2"
+  },
+  "LAW-013933-J7-H1": {
+    "hash": "ad71dc895d6f7ea2a273f535c518dcedb4a2e35c5446d19ae85d5da81c903103",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "7",
+    "para": "1"
+  },
+  "LAW-013933-J7-H2": {
+    "hash": "e66b13128e510a126adf3ad980cc31531342ed945269d3b3656002cefba8e4f7",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "7",
+    "para": "2"
+  },
+  "LAW-013933-J8-H1": {
+    "hash": "fb59152764c204b2cbf6d03f1c8726aa730067abbf5b46f80a4a0e28cfd8b6cc",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "8",
+    "para": "1"
+  },
+  "LAW-013933-J8-H2": {
+    "hash": "f0e16b5a3694ab790e1910318be8434077e60a9f60e2480646eb5f8140c5b531",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "8",
+    "para": "2"
+  },
+  "LAW-013933-J9-H1": {
+    "hash": "01804ca6057b931f1a8b47545f9031d8a7c97cf9358ad6c15bb87b63d4ffee3c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "9",
+    "para": "1"
+  },
+  "LAW-013933-J9-H2": {
+    "hash": "012eb4f937ecee6046c6ed3ccb051b553d3e40ecf0f7c32dcf90a7a52421a771",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "9",
+    "para": "2"
+  },
+  "LAW-013933-J9-H3": {
+    "hash": "23f52016d6092fc211db2ee6352cad7321a04c24abd2f71da42c745c74a58f0a",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "9",
+    "para": "3"
+  },
+  "LAW-013933-J9-H4": {
+    "hash": "1739c40537c0e333331ae70b2ecb0c04757a7d1cf822b08b1186bcd553ffe9d4",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "9",
+    "para": "4"
+  },
+  "LAW-013933-J9-H5": {
+    "hash": "8bb08e430de143ecd2a6e6a68aafd64944f5dc9acbc99740d011adf7ec414772",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "9",
+    "para": "5"
+  },
+  "LAW-013933-J10-H1": {
+    "hash": "89eb8183f305f649e568ae9499ee3f0485fa55566477a13455da656537d1293a",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "10",
+    "para": "1"
+  },
+  "LAW-013933-J10-H2": {
+    "hash": "336caa457ad47d1fc268bde8ad755ec06e6f3d7d2407b6adccbc44ecb876333e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "10",
+    "para": "2"
+  },
+  "LAW-013933-J11": {
+    "hash": "d936596987af6d3922208db6c975b749488c1dc6aa91fba17e4713b34673c344",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "11",
+    "para": null
+  },
+  "LAW-013933-J12-H1": {
+    "hash": "789420bc49c82b652e9d34ff161c4ae0d6f47b8ff53a98f4baa7247f97bc0125",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "12",
+    "para": "1"
+  },
+  "LAW-013933-J12-H2": {
+    "hash": "8392df7a41489b505640fb96cdd87062049958a963e54dd401722a418e9957d7",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "12",
+    "para": "2"
+  },
+  "LAW-013933-J12-H3": {
+    "hash": "5286eebaf25166532927cf59d63ea5d0cdb7d0e54122e2f98d2355e5997ee2a3",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "12",
+    "para": "3"
+  },
+  "LAW-013933-J12-H4": {
+    "hash": "3b4d795d77f79348fbdee470b36ee66fb65825a3c21665d5823bf506f2657d76",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "12",
+    "para": "4"
+  },
+  "LAW-013933-J12-H5": {
+    "hash": "35d6797b546af334a95f60df83c15e59f540687c7a9796fa19f5fdd2099ca56c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "12",
+    "para": "5"
+  },
+  "LAW-013933-J12-H6": {
+    "hash": "7dd78bf839dcbc7420d7d0ece84f9db9946444cfb07b605983142199a46cb09b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "12",
+    "para": "6"
+  },
+  "LAW-013933-J13-H1": {
+    "hash": "1113dbe0aeff080dfa08acb29182f15fdc268448ab29fe893d696669f0a4ecf2",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "13",
+    "para": "1"
+  },
+  "LAW-013933-J13-H2": {
+    "hash": "611a43287a528b85b1f6b46beb119b9c606c6c14e5bad03586cf46a2377b641c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "13",
+    "para": "2"
+  },
+  "LAW-013933-J13-H3": {
+    "hash": "189cc936afadce3a9ec5e16a38df7328f7157dba2921067662b68d16b401f2a0",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "13",
+    "para": "3"
+  },
+  "LAW-013933-J14-H1": {
+    "hash": "8e5fe94e0fc0a0255e7b30ec772ac085c674d428c72539d5c3fcbc06f7ef1e73",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "14",
+    "para": "1"
+  },
+  "LAW-013933-J14-H2": {
+    "hash": "c6677246e13ebadcdd24d2b4710479792662d6e1b5c5e4c8d15a462e47249edf",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "14",
+    "para": "2"
+  },
+  "LAW-013933-J14-H3": {
+    "hash": "3010105361ca7ef8bb3eb39d8fce36f753d7893ba8a0e9272254f28d41c0f555",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "14",
+    "para": "3"
+  },
+  "LAW-013933-J15-H1": {
+    "hash": "68f06831dde58e38a0285bac18fee851130ed5acf71b4401a93661657e35d3d0",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "15",
+    "para": "1"
+  },
+  "LAW-013933-J15-H2": {
+    "hash": "ec7afc21dcdf6c98f57f3b10feb5d05f432ec76a57ad92ce3a85fbd020249fba",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "15",
+    "para": "2"
+  },
+  "LAW-013933-J16-H1": {
+    "hash": "367147f97dd67c768ce671495006ae7665fe10a9afe9dbc66ab3040d7d4e50d8",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "16",
+    "para": "1"
+  },
+  "LAW-013933-J16-H2": {
+    "hash": "feca1690593f08f42049ae09b4568ad5f2ed3726c95394cde4b4ed873dc2ae61",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "16",
+    "para": "2"
+  },
+  "LAW-013933-J16-H3": {
+    "hash": "f9386ffc2b7e91f0a5a227dec5833ec5a5e840ffa2b03abb857e6488dca9d799",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "16",
+    "para": "3"
+  },
+  "LAW-013933-J17-H1": {
+    "hash": "fa537934923b6d10d1ec1e12de1d701d277479c9295f293e83e4a4fe71084c5e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "17",
+    "para": "1"
+  },
+  "LAW-013933-J17-H2": {
+    "hash": "1a5d228d36825578efb14a4defb3ebaff0068287c9b813f2d1b454a7de7e8adc",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "17",
+    "para": "2"
+  },
+  "LAW-013933-J17-H3": {
+    "hash": "d06c7a95dc2bf8c294679b918b5b5268e08ac4a4cea2fa64b5c497b66b565d91",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "17",
+    "para": "3"
+  },
+  "LAW-013933-J17-H4": {
+    "hash": "e2c92a3eeefa7a2fdd4295a65657607ef354ae50e287b56f91a9ab8536c153d0",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "17",
+    "para": "4"
+  },
+  "LAW-013933-J17-H5": {
+    "hash": "c489c716c6ada17e61480e51af560beb9e817202507057d16f0e2ad004102b57",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "17",
+    "para": "5"
+  },
+  "LAW-013933-J18-H1": {
+    "hash": "221078a28472a9c72cb04e37ca5835d38c1721447a21516590f4313fefc21709",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "18",
+    "para": "1"
+  },
+  "LAW-013933-J18-H2": {
+    "hash": "025f36651ff49ba5dce0d412e09e014c005417c02a890af7c526719977d8ec9c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "18",
+    "para": "2"
+  },
+  "LAW-013933-J18-H3": {
+    "hash": "a164be60c40d613cd87250bc9a926c6cbd6b9f12ff60efcf0158440fa1e7ab32",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "18",
+    "para": "3"
+  },
+  "LAW-013933-J18-H4": {
+    "hash": "ab16589822fd471521640711afd3d0a56f47ed4644b977bb563ac0af7490a874",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "18",
+    "para": "4"
+  },
+  "LAW-013933-J18-H5": {
+    "hash": "d8d750e143ce6d4bb972b796380dd0a84130c4b4d521ae7248fe5c601ae20b27",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "18",
+    "para": "5"
+  },
+  "LAW-013933-J18-H6": {
+    "hash": "875fe37af9563829ee817ded568117ebf47ffcf684dc72fefcc0ff3f93ae37d3",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "18",
+    "para": "6"
+  },
+  "LAW-013933-J19-H1": {
+    "hash": "fe0c4564d6f41ad829719f39601a58ec4666b229b15aed9fe45e9286a54c5739",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "19",
+    "para": "1"
+  },
+  "LAW-013933-J19-H2": {
+    "hash": "5b0672b7f5b37b01e10354338f4b08650b3b798a46207135edc9bf58b5996d85",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "19",
+    "para": "2"
+  },
+  "LAW-013933-J19-H3": {
+    "hash": "c2cb398af75e1157a0ce610ced6bb74964a13bd8790294189713070cb759e1bd",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "19",
+    "para": "3"
+  },
+  "LAW-013933-J19-H4": {
+    "hash": "7dbae3d1a50fb684bfbba94b71e1da1f6b0638d5b5ed05f3107674cf976d7999",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "19",
+    "para": "4"
+  },
+  "LAW-013933-J19-H5": {
+    "hash": "32f31afd53b27df730a8e148bf41188b091aa76f335d07003105de2a1854cf1e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "19",
+    "para": "5"
+  },
+  "LAW-013933-J20-H1": {
+    "hash": "3cd39b2fa32438bb5df98fd9dde16685f6c32877e09fa8ef676894993e8fe72e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "20",
+    "para": "1"
+  },
+  "LAW-013933-J20-H2": {
+    "hash": "9960e6c2350f9886d17711f977e25166a02003c0a5e884b2203c87f03df45f4e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "20",
+    "para": "2"
+  },
+  "LAW-013933-J20-H3": {
+    "hash": "25b560786f5483bac9f6b8fb3488203a8b0c7f69883b0d06640f54cfbaafe286",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "20",
+    "para": "3"
+  },
+  "LAW-013933-J20-H4": {
+    "hash": "48c5d5560aef968500f551da6b68fc98b2b6873e1ef9b78009eb0722a952f9fc",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "20",
+    "para": "4"
+  },
+  "LAW-013933-J21-H1": {
+    "hash": "550f7b00148e85c8bb49af7b3d04d3e3eb10bf9b0fc3ff76e24ca628ff3c71ce",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "21",
+    "para": "1"
+  },
+  "LAW-013933-J21-H2": {
+    "hash": "3eccf726933917682fa37ad59b8f234dcc027d10c0af44d2e0c0fba014691a8f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "21",
+    "para": "2"
+  },
+  "LAW-013933-J21-H3": {
+    "hash": "696b18eeec98c7f0025a0024b3375999de9e272af1f54552b29648760a28b1bf",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "21",
+    "para": "3"
+  },
+  "LAW-013933-J21-H4": {
+    "hash": "7c2a8fc10f94d68d6046b87a7918db0204b119cc1be52ac462855ec64d4d8039",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "21",
+    "para": "4"
+  },
+  "LAW-013933-J21-H5": {
+    "hash": "cb893153557d8fe4132c6122d5dbbff08f3fd1778acee994ea9183410b833ca1",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "21",
+    "para": "5"
+  },
+  "LAW-013933-J21-H6": {
+    "hash": "aeef39dc32ef21970b25caa159d574fca5eb2dbe862093642bf0a14e8cb7425e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "21",
+    "para": "6"
+  },
+  "LAW-013933-J21-H7": {
+    "hash": "ff178945f7e77d91c15ca61aee64958f58d0f3120e499b9a64e415c41eece38c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "21",
+    "para": "7"
+  },
+  "LAW-013933-J21-H8": {
+    "hash": "bc4b2143fc619b298c61a6c8e8816434b8bbfc6eb052e8d81d2f8ba8cf052381",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "21",
+    "para": "8"
+  },
+  "LAW-013933-J22-H1": {
+    "hash": "1e5dbc5f615aafbe49a4b6b986ed2187ff08e5a3ae53c0761e9d40c32e59555d",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "22",
+    "para": "1"
+  },
+  "LAW-013933-J22-H2": {
+    "hash": "c26dc8246f121b40b866d99639278bb5a81eab7b765456fa1d0c33d0d123f54e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "22",
+    "para": "2"
+  },
+  "LAW-013933-J22-H3": {
+    "hash": "050f4ce1b8e507da5ffed3de3338c201b2ca738629f8c58bafe4f4a01ba4eb94",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "22",
+    "para": "3"
+  },
+  "LAW-013933-J22-H4": {
+    "hash": "4ebdbfe96b9a3b2c9b9cf526bdb1b6dca7600efcfcc95f4b69b2a5def8fef25f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "22",
+    "para": "4"
+  },
+  "LAW-013933-J23-H1": {
+    "hash": "d5a2472c901824105d19a45669ce79a382233d015c01e12566cdad9c0168ba09",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "23",
+    "para": "1"
+  },
+  "LAW-013933-J23-H2": {
+    "hash": "06f364a074db14f192735d6ddda49897448a426c844776c514f398449c0d546e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "23",
+    "para": "2"
+  },
+  "LAW-013933-J24-H1": {
+    "hash": "3db7452a38ebfdee5727c85de89103f356577f14540c2b974d08fae491e5f00b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "24",
+    "para": "1"
+  },
+  "LAW-013933-J24-H2": {
+    "hash": "6c833e2f96dd22aaa8a92d6a42305fc7f82286db15a2269dfab2466405573c4d",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "24",
+    "para": "2"
+  },
+  "LAW-013933-J24-H3": {
+    "hash": "73629f331edceab0875c5c1f9e3ae9072870b5534c5a0f06d827e41eb70eae41",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "24",
+    "para": "3"
+  },
+  "LAW-013933-J24-H4": {
+    "hash": "cabdde999cddbb26555401f06d2d14865adcd8b201ab551e6854ec5e476b045b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "24",
+    "para": "4"
+  },
+  "LAW-013933-J25": {
+    "hash": "49c2ead7dcd799e5c92c087a9fae5cc3e9f3c447c308e5f56bff89509226c620",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "25",
+    "para": null
+  },
+  "LAW-013933-J26-H1": {
+    "hash": "2e08191923aee0594e3531509d356940d79fd2b80cd962da1f83c2256d8f6208",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "26",
+    "para": "1"
+  },
+  "LAW-013933-J26-H2": {
+    "hash": "2167d9c77d81dc36cfb7881e0ae49e281405e1778e0ac99c7b68716093ea73d2",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "26",
+    "para": "2"
+  },
+  "LAW-013933-J26-H3": {
+    "hash": "002f65017b294f412cda4ab334966fe58ca1179832726d0fd00304762771952c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "26",
+    "para": "3"
+  },
+  "LAW-013933-J26-H4": {
+    "hash": "977be6ac0d9fa74490cc5c8a26323af45c69f7f55551c4856d076f3ba068934c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "26",
+    "para": "4"
+  },
+  "LAW-013933-J26-H5": {
+    "hash": "21d170f840353fa0311cad6bbe6465b22afcdc3b08edd6060a78ce58ea40adc2",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "26",
+    "para": "5"
+  },
+  "LAW-013933-J26-H6": {
+    "hash": "88428fe85d36098bd53933c63e0d6a1b294b71ea41a74817251cbb739126bcd7",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "26",
+    "para": "6"
+  },
+  "LAW-013933-J27-H1": {
+    "hash": "3420b421aca260a309397ff30ceef3a62ef1d0d529be4d45cea79bf690b3792b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "27",
+    "para": "1"
+  },
+  "LAW-013933-J27-H2": {
+    "hash": "190539b18f98c636ae93f62b604123df3f446c025ec7f0c7c7a3dcc44c1caeff",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "27",
+    "para": "2"
+  },
+  "LAW-013933-J27-H3": {
+    "hash": "a86ae6030bf2d4173cea061ee2ffbdd905043bf651213134231a69c2401d28be",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "27",
+    "para": "3"
+  },
+  "LAW-013933-J27-H4": {
+    "hash": "313089a7424f55d1009c245b18eaf86bb41966af2d33081ed0daca6c2de90ecc",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "27",
+    "para": "4"
+  },
+  "LAW-013933-J27-H5": {
+    "hash": "5d1dccc1e0ab387224cacd1a4b1f62c0918d56a353e75ed393c86f48047b304e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "27",
+    "para": "5"
+  },
+  "LAW-013933-J28-H1": {
+    "hash": "c3412e1ed5e37499fa5307c224bddf0df42239ff4b50044ed8cd7e0f360a6f1d",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "28",
+    "para": "1"
+  },
+  "LAW-013933-J28-H2": {
+    "hash": "d187a1578a4dd5057eb75373d16641add40717e01050a34f10f9d616dbb16d60",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "28",
+    "para": "2"
+  },
+  "LAW-013933-J28-H3": {
+    "hash": "024f8f56420eebf25e361ad42e91688ba03ca2567ab2fe7d9149dcfcbf5901bf",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "28",
+    "para": "3"
+  },
+  "LAW-013933-J28-H4": {
+    "hash": "5cef7076ae2f8fc868ee6bbf8509cbec2d240ddd66f911c1a88b42319e828a32",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "28",
+    "para": "4"
+  },
+  "LAW-013933-J28-H5": {
+    "hash": "2b553b81abe3cc604619cf00cdae481c065569b9f4cad6aeb6c12412594be41f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "28",
+    "para": "5"
+  },
+  "LAW-013933-J29-H1": {
+    "hash": "0fa64bc31e8992e8ea252a514fcb9115313f2e6e0fd742c13c98a78c80febca0",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "29",
+    "para": "1"
+  },
+  "LAW-013933-J29-H2": {
+    "hash": "b962150a7165db3afd69528b6b738d7495942e07244a59dfa755a4dd053a239f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "29",
+    "para": "2"
+  },
+  "LAW-013933-J29-H3": {
+    "hash": "a3904c6086a222e55e1cf1f18f70d0747e5f4b18d3722e14dddbfa43e7639e94",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "29",
+    "para": "3"
+  },
+  "LAW-013933-J30": {
+    "hash": "04e6dcb24b8c415a946368e23d6e3a5831b36d6f081b334dc3c9dddd71157db6",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "30",
+    "para": null
+  },
+  "LAW-013933-J31-H1": {
+    "hash": "7cd4ba241ecc30d19d6782306a2c69be2608721e26fa1edffb2819c1d631ad5d",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "31",
+    "para": "1"
+  },
+  "LAW-013933-J31-H2": {
+    "hash": "9a99a8f0fface3a96fe597c51b9f91eace061604258baf142c587515907f1da6",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "31",
+    "para": "2"
+  },
+  "LAW-013933-J31-H3": {
+    "hash": "c0298a705fd93b8741cfdc7df4fe383cf363bf962a8c4731c5e3cc5a7ec4024e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "31",
+    "para": "3"
+  },
+  "LAW-013933-J31-H4": {
+    "hash": "e981f1b6e80a1970faeeda8fb73f2308b6df3a1d8f79c83241214b3e59409fd5",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "31",
+    "para": "4"
+  },
+  "LAW-013933-J32-H1": {
+    "hash": "f891e07ebfb7740699b41933b58f3b2f147bf5c6e571c22433c530171445d1ad",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "32",
+    "para": "1"
+  },
+  "LAW-013933-J32-H2": {
+    "hash": "d172e90459773482f09a3234baaa237be1cb622c579ce71aee7101b138a208e8",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "32",
+    "para": "2"
+  },
+  "LAW-013933-J32-H3": {
+    "hash": "bf7fac48dfcf014ccacf7e256fa2a1d80c8405d3263f0d724a5ae371f6963c01",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "32",
+    "para": "3"
+  },
+  "LAW-013933-J32-H4": {
+    "hash": "84aa3eebaf18d386a8b755f0ece84dd01640265d5ba3ef8d5fe4cc305a49797e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "32",
+    "para": "4"
+  },
+  "LAW-013933-J32-H5": {
+    "hash": "97524fb8ac47be37f08a6eb652da37ad5d05fa17475a5348350663d9c8854896",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "32",
+    "para": "5"
+  },
+  "LAW-013933-J33-H1": {
+    "hash": "7cadd160c5d62367723ab6706d8bd9c6aaa9bbd7a7c4b49a7a855cffa167331f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "33",
+    "para": "1"
+  },
+  "LAW-013933-J33-H2": {
+    "hash": "9c0d14c45627f5d403e24a6facf92c8125c0757817601feb9a0c367ad346a4aa",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "33",
+    "para": "2"
+  },
+  "LAW-013933-J33-H3": {
+    "hash": "30711270364ae9ffa3ccac8ed9cd45ec67c42a334e1645324d5fb9c44ccecab8",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "33",
+    "para": "3"
+  },
+  "LAW-013933-J33-H4": {
+    "hash": "0c53bfdaeac6a62f3311150893f06d72a6a0a5fba91ea0cb35c8924520c49943",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "33",
+    "para": "4"
+  },
+  "LAW-013933-J33-H5": {
+    "hash": "23bc7f1b7dff9107269d152634b69041e9068d0a35b2131062d610b578afaecb",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "33",
+    "para": "5"
+  },
+  "LAW-013933-J33-H6": {
+    "hash": "9e3c24b2bfd42e3f1cea7ca4a8899cfa95074809860520cfe695083bb8e78485",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "33",
+    "para": "6"
+  },
+  "LAW-013933-J33-H7": {
+    "hash": "5dc7fcca4bffbf723099a3558956aa7c861043570e6d002e005e6d5c2407a5ab",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "33",
+    "para": "7"
+  },
+  "LAW-013933-J34-H1": {
+    "hash": "f35d354441e9b890d1d1b582208036dac86bdfc7f0a4b0344d2713e6c0fa2b72",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "34",
+    "para": "1"
+  },
+  "LAW-013933-J34-H2": {
+    "hash": "12d5fb0571c44f6d68761fc7af6893b816d71895b3bfbbb5ea2b1061ed153368",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "34",
+    "para": "2"
+  },
+  "LAW-013933-J34-H3": {
+    "hash": "b5da4485094725b30a11d4e7a2fbe517947b4819cfb4bb84d04cba53f2640a8a",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "34",
+    "para": "3"
+  },
+  "LAW-013933-J34-H4": {
+    "hash": "a3f3634c386e0f3f64b120a457a7258ad722e48d3328a0f2e7d8b299368121f7",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "34",
+    "para": "4"
+  },
+  "LAW-013933-J34-H5": {
+    "hash": "4ca0de7daccf2d19a9ea50d31b6851e893737a668451fdd954f68e39177fa3c1",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "34",
+    "para": "5"
+  },
+  "LAW-013933-J34-H6": {
+    "hash": "45d9825a7b795752d610c6d59fbdf127fb58e64244873bc45fa63e1024303e65",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "34",
+    "para": "6"
+  },
+  "LAW-013933-J35-H1": {
+    "hash": "f7dadeaf4f06795d04eddc8937b2025d1899a54e2559c8a2f66ad1f4eaddef87",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "35",
+    "para": "1"
+  },
+  "LAW-013933-J35-H2": {
+    "hash": "9ae5e5d54e0c05e81e3afceec61d216ae1884290f80d57da6df115eb831f54a8",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "35",
+    "para": "2"
+  },
+  "LAW-013933-J35-H3": {
+    "hash": "ba1bd1ed1fd3e27d2e39453ac46af2ebcbbe285f7b93030be8adfd66164b84df",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "35",
+    "para": "3"
+  },
+  "LAW-013933-J35-H4": {
+    "hash": "7027553c2b8f3e7a3738e36e501c61e095e1c3e5826199109ac7d3dc4622416e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "35",
+    "para": "4"
+  },
+  "LAW-013933-J35-H5": {
+    "hash": "ceeafdc08c9b8b282f38193d41cbc063b031b47e0ae4d4b502a7efc9af2a0806",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "35",
+    "para": "5"
+  },
+  "LAW-013933-J35의2-H1": {
+    "hash": "bf410b2eb28006f660c8649d257cc6473e31adfbb16d78a6694dc7e199800c9c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "35의2",
+    "para": "1"
+  },
+  "LAW-013933-J35의2-H2": {
+    "hash": "33c7db8ced79881b588399fbc0854c133f6c677d9a6eeba81f6caafe43eca46c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "35의2",
+    "para": "2"
+  },
+  "LAW-013933-J35의2-H3": {
+    "hash": "afc7cf3627c8c9583ae13564f86a69f01382ffcfc90e92fe0afaa83009adc8c5",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "35의2",
+    "para": "3"
+  },
+  "LAW-013933-J36": {
+    "hash": "8509e95bfe892dc4db9d06aef8c01fec5f857330d5f4987eba7e0fcb8af7368c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "36",
+    "para": null
+  },
+  "LAW-013933-J37-H1": {
+    "hash": "1b79145ccc819ec8ecc767cacdc7b1c33134626ae33f0c17034049c571020de4",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "37",
+    "para": "1"
+  },
+  "LAW-013933-J37-H2": {
+    "hash": "fe291edc62aaf7bcd454f399eab85070c4893b9c37ded1707d168894a00e3cb6",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "37",
+    "para": "2"
+  },
+  "LAW-013933-J38-H1": {
+    "hash": "3cc47f0ad4665f5206086994f1227d0f2d3a478bf9f276e6ce88972e66b83a9b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "38",
+    "para": "1"
+  },
+  "LAW-013933-J38-H2": {
+    "hash": "2e37baa51de3e1bd1bd967017e9a949e91cef575c0ad7d1e64bb0a075b40c390",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "38",
+    "para": "2"
+  },
+  "LAW-013933-J38-H3": {
+    "hash": "4a06a1a7e8db45baf17d52d5f980db2221d4f835a26f27e3ea92c0f1fed8bb7b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "38",
+    "para": "3"
+  },
+  "LAW-013933-J38-H4": {
+    "hash": "6ffa3852834703021d96cc7abaa4fea380d6dc3d17de565c65d9d9aa0380035b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "38",
+    "para": "4"
+  },
+  "LAW-013933-J38-H5": {
+    "hash": "4640a7e7e25e0dc649fb7d2c4ff815145e7533c5182897315a09e71a16bacdd3",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "38",
+    "para": "5"
+  },
+  "LAW-013933-J38-H6": {
+    "hash": "5ea88a8cb52470876da0491a10576bf02b3aa4cb942e4d99b543ca63d5158186",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "38",
+    "para": "6"
+  },
+  "LAW-013933-J39-H1": {
+    "hash": "12b564d494a0c2a15509e025e1f646d50ba2e9e4ac89befa3657fc7580b90b4e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "39",
+    "para": "1"
+  },
+  "LAW-013933-J39-H2": {
+    "hash": "8ba804bea382b33de37c8a64f0c35e255a1b7e65c32c3e969e73fcde1aa1a89e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "39",
+    "para": "2"
+  },
+  "LAW-013933-J39-H3": {
+    "hash": "ce47a29794f04b3f7350ee789002aa315721c5a73e6555c6c0a2291a15430fdb",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "39",
+    "para": "3"
+  },
+  "LAW-013933-J39-H4": {
+    "hash": "660c99138c138acc2e85659202c1585efb00f197d5583d1b3195f4008ccf4a91",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "39",
+    "para": "4"
+  },
+  "LAW-013933-J39-H5": {
+    "hash": "8c0b14274ac4e2cc05b98f578447dacb659bbf03b0847d3518552a10bc33624a",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "39",
+    "para": "5"
+  },
+  "LAW-013933-J39-H6": {
+    "hash": "532606a0f73bdb92b1f8ee6d4fbdbd681e6997f63bd3364ee9ece2227098680f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "39",
+    "para": "6"
+  },
+  "LAW-013933-J39-H7": {
+    "hash": "cdfec24a2c67031592da6bc7d6102de471823667ddb9c468b1f0a97b9d60327e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "39",
+    "para": "7"
+  },
+  "LAW-013933-J40-H1": {
+    "hash": "344cf46e9654f5e21c2f798b33883addfab48f1d997e2ef22eb0a1d669c1219d",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "40",
+    "para": "1"
+  },
+  "LAW-013933-J40-H2": {
+    "hash": "d8b699a00ed10d8fd24b3c2e4d9498eab415207bfa547de1de98ad7e3f9adff0",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "40",
+    "para": "2"
+  },
+  "LAW-013933-J41-H1": {
+    "hash": "6c7b697770c113a136461cd1f209691deb98642d81f0c2249c10031493d96907",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "41",
+    "para": "1"
+  },
+  "LAW-013933-J41-H2": {
+    "hash": "7d818e2b0cbd600770e81a0fb8fedf3be2b15554b92c75c99458aac93aa77846",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "41",
+    "para": "2"
+  },
+  "LAW-013933-J41-H3": {
+    "hash": "d90857ae47c1bd3524eb0b6ec10b0dd3e47232f643c7bebd611b6792f5e03b30",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "41",
+    "para": "3"
+  },
+  "LAW-013933-J41-H4": {
+    "hash": "a208bb571f62030252a8c0b18be4086fb6813260f3c40f385622fa53c06b6a24",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "41",
+    "para": "4"
+  },
+  "LAW-013933-J41-H5": {
+    "hash": "25ba8673b176788b2e981bc0ede7025e4bb9f204f58f71493d53dd5bad6e37a8",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "41",
+    "para": "5"
+  },
+  "LAW-013933-J42-H1": {
+    "hash": "9aa12374d0770d90576d6f63faa2ecf1801da9a1d362b0ea7fc89ecbfd3c1a6f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "42",
+    "para": "1"
+  },
+  "LAW-013933-J42-H2": {
+    "hash": "22fded575a601137781f4ed273f5e23f4585ef7f1f774e068b8d187cc01937e4",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "42",
+    "para": "2"
+  },
+  "LAW-013933-J42-H3": {
+    "hash": "c50d426b3b0ef253a3f68dc701592197d179cfd5395c8955ea20c3aed50879c2",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "42",
+    "para": "3"
+  },
+  "LAW-013933-J43-H1": {
+    "hash": "b452d0fa09f469b75136f4eae664656cded82f93ed5d0a09dc4a2ffc9039fc03",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "43",
+    "para": "1"
+  },
+  "LAW-013933-J43-H2": {
+    "hash": "b555d250b92c7ad2993d71e4d45d216a777d195f32a203ee95e2a709a32d1b33",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "43",
+    "para": "2"
+  },
+  "LAW-013933-J43-H3": {
+    "hash": "7d9517664bd448a2aabbc99a55130bfc6d2906a89558072f690baf8fcdeba41b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "43",
+    "para": "3"
+  },
+  "LAW-013933-J43-H4": {
+    "hash": "9ebfd5a70b4ab81e820063d73bb32946e5445bb1d9112daf5bdf0e63b0c9385e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "43",
+    "para": "4"
+  },
+  "LAW-013933-J43-H5": {
+    "hash": "2099d34dcc5779dd1e2e0305c96073e09f21bbf960f1cb050a2ea62439e5be7c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "43",
+    "para": "5"
+  },
+  "LAW-013933-J44-H1": {
+    "hash": "9e1bf9de7216145dc867f0ae6c9d39ecdfb9050180972dfa829557f4437786ad",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "44",
+    "para": "1"
+  },
+  "LAW-013933-J44-H2": {
+    "hash": "250da322a2766b7caf1395814ff6955562cf0794d785ec9f3c6b00bf4fed3449",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "44",
+    "para": "2"
+  },
+  "LAW-013933-J44-H3": {
+    "hash": "21dd678cd85a6e24a7b2dec41d09cd466a245e33bcc8293037089c1066a5678e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "44",
+    "para": "3"
+  },
+  "LAW-013933-J45-H1": {
+    "hash": "45dc45f1e278100d224da8ab680b53baf3fc236e0859e788a89cd344c53eb385",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "45",
+    "para": "1"
+  },
+  "LAW-013933-J45-H2": {
+    "hash": "a65cd4797bb9d9d8dddcb5af0d7e16f190922c6a9d0ce8f8772cdf949bc25742",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "45",
+    "para": "2"
+  },
+  "LAW-013933-J45-H3": {
+    "hash": "526e8f881e0d4baede87ae25d1fbafbaed15b6c6261f2d838a60b6e7320d40cb",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "45",
+    "para": "3"
+  },
+  "LAW-013933-J46": {
+    "hash": "195dbc332f777046e4ae2ca6fd737e9230668e9db5eccf59239cd2cfe806cf90",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "46",
+    "para": null
+  },
+  "LAW-013933-J47-H1": {
+    "hash": "9d9c1fa4b388f46b280854cf0e8d4f73315a4cd71f1b4ecf738e0154ed72d8fb",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "47",
+    "para": "1"
+  },
+  "LAW-013933-J47-H2": {
+    "hash": "0f14c0b02dd27bd4c91e1f15d24b72b6e64ef95600a1f1fb6bfcb58e7e4217ff",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "47",
+    "para": "2"
+  },
+  "LAW-013933-J48-H1": {
+    "hash": "222d8b6ff65459613b87592bfb823481ecda25cafbda0c651d7462de503b2eab",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "48",
+    "para": "1"
+  },
+  "LAW-013933-J48-H2": {
+    "hash": "47e2ebd7875603641bfffd0eb74946bc5059d9bc2bcd8ed795df00fb1aff36ff",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "48",
+    "para": "2"
+  },
+  "LAW-013933-J48-H3": {
+    "hash": "4bb6c40b4f8890c24d8df068b4e38cfbb69f746d8ee6b196252c746cb177c2e0",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "48",
+    "para": "3"
+  },
+  "LAW-013933-J49-H1": {
+    "hash": "6b3af49b579b5349092d6ad8c091dc66cf2943fd2d2542aaf5b63a8e8c7901ad",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "49",
+    "para": "1"
+  },
+  "LAW-013933-J49-H2": {
+    "hash": "456b7b8c4c7cb11d095b6445b61f7e73d8d7079700e2d77276c9d975cc7e7912",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "49",
+    "para": "2"
+  },
+  "LAW-013933-J49-H3": {
+    "hash": "a72db92dbe1ec3de35623c9c735d43586538a875375d072d2af668827188f404",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "49",
+    "para": "3"
+  },
+  "LAW-013933-J49-H4": {
+    "hash": "f56bfe18774b9b06b82ece5e47cb2cb75de4f7e2b05447d90e490b5cb814f688",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "49",
+    "para": "4"
+  },
+  "LAW-013933-J49-H5": {
+    "hash": "a0432d5bcd9718ed2c18a9cd5b39f14643fe0b61ef2fc57547c29b6336d677af",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "49",
+    "para": "5"
+  },
+  "LAW-013933-J50-H1": {
+    "hash": "c3ace4a8c10000a808ac56e1bb029de5d3c916ec304c5d63a6c1a34d55274ce7",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "50",
+    "para": "1"
+  },
+  "LAW-013933-J50-H2": {
+    "hash": "e8df9dba59c37d6f92d851557b2855f1637dfda98252cb0a24f1e5d4a2dabb9d",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "50",
+    "para": "2"
+  },
+  "LAW-013933-J50-H3": {
+    "hash": "ce273e165cc4c139ea3f48b3708095adf1f01450b9a07e8f9c7d2c016628638f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "50",
+    "para": "3"
+  },
+  "LAW-013933-J50-H4": {
+    "hash": "0192a5db696a78bb55cc435769cd1857a9321529cfc542d4713d6d03f80299d9",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "50",
+    "para": "4"
+  },
+  "LAW-013933-J51": {
+    "hash": "c8602c45246f2bf5053e04268ea879c23f935212fbbbd79e13819a3f6fb45c6d",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "51",
+    "para": null
+  },
+  "LAW-013933-J52-H1": {
+    "hash": "7d7623caab86b6304cbe09674f8fa20e20e91e9c6175482b0e48fa70003404d3",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "52",
+    "para": "1"
+  },
+  "LAW-013933-J52-H2": {
+    "hash": "d4f2da09115adc3ce788e406809deade116923720db7398ffe1622a0d1c07238",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "52",
+    "para": "2"
+  },
+  "LAW-013933-J52-H3": {
+    "hash": "2b203f576c3a83e3656b27d24150e7c028766fa85bbf53b049dd8ab3f5448cfb",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "52",
+    "para": "3"
+  },
+  "LAW-013933-J52-H4": {
+    "hash": "c32d22483ea12de32aea93c80543a3fd17774f3e8481175ac8c132a1157bf66b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "52",
+    "para": "4"
+  },
+  "LAW-013933-J53": {
+    "hash": "135e86a0c0d6b17ee0535a07f3836f8947f9d926fcfe8154dfec526c1ad11821",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "53",
+    "para": null
+  },
+  "LAW-013933-J54-H1": {
+    "hash": "8f47d670442d543a6e7df531e924a0017f784989b141fafa73774507d55b63f2",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "54",
+    "para": "1"
+  },
+  "LAW-013933-J54-H2": {
+    "hash": "92b64e49b8d922540992bc2b569542bf84dc217b25a072488e24c2e02626930a",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "54",
+    "para": "2"
+  },
+  "LAW-013933-J55-H1": {
+    "hash": "7895feaa2ac71b34ba4943a05fd608ab1fa84db630751ce218a0af5fb1492eae",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "55",
+    "para": "1"
+  },
+  "LAW-013933-J55-H2": {
+    "hash": "04b7f186c4be48c6ee7d93425529f73dee9bf30326cf0527037706c05b6b289a",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "55",
+    "para": "2"
+  },
+  "LAW-013933-J55-H3": {
+    "hash": "af5d33df922837dd6909547a7134e9d9180e374d3caf345d73567448d18e7784",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "55",
+    "para": "3"
+  },
+  "LAW-013933-J56-H1": {
+    "hash": "3adb411a0ac6b60e152016b44a4185bd894dfc9f1804d9db2508a7af824538c5",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "56",
+    "para": "1"
+  },
+  "LAW-013933-J56-H2": {
+    "hash": "e6f7e185087a05a4f09e43f5eeb987330da2f3531867ada6e9ffb277c1e8f57e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "56",
+    "para": "2"
+  },
+  "LAW-013933-J57-H1": {
+    "hash": "daa52d604364a5445120343d1aca5f45784e4275b8c474d9e8436af6539d047e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "57",
+    "para": "1"
+  },
+  "LAW-013933-J57-H2": {
+    "hash": "56ffdca97c11aee36990fb7602ea735185b12395e402bdf5eef07e37cbdb0089",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "57",
+    "para": "2"
+  },
+  "LAW-013933-J57-H3": {
+    "hash": "2c83e99d57558881ce859314c24dcd10dea5274ef57446a38379ec415ea1a07b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "57",
+    "para": "3"
+  },
+  "LAW-013933-J57-H4": {
+    "hash": "b7e67f429f26c79c78f753a66545eebfa5c6a5a9b55d73d1f09f93de781ae839",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "57",
+    "para": "4"
+  },
+  "LAW-013933-J57-H5": {
+    "hash": "06a1e67f6e547e9c080fa65a987fef5afd6467f00a954c76c6c050d3422f0d6d",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "57",
+    "para": "5"
+  },
+  "LAW-013933-J58-H1": {
+    "hash": "525a3d6eeddd4303e8d396f77389a2aa359bde42584b74581fa407e1361251a8",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "58",
+    "para": "1"
+  },
+  "LAW-013933-J58-H2": {
+    "hash": "1e9263637c6a31554a818a9dd877a444405b2b894e519ea924c7087fae47786f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "58",
+    "para": "2"
+  },
+  "LAW-013933-J59-H1": {
+    "hash": "26cfc0b96d2dc3e49ce892ad06c0dd34001e48fe75ab503bdf07c70b6ca1393d",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "59",
+    "para": "1"
+  },
+  "LAW-013933-J59-H2": {
+    "hash": "d75d40c1b75aeee9b80997eef74846868a3e7497f6fbd746c982ba9bba65bd24",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "59",
+    "para": "2"
+  },
+  "LAW-013933-J59-H3": {
+    "hash": "5a9a9e26a4a0941bc26d775b27a36eb47ba0f51a72e12c0011a42ee923ece418",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "59",
+    "para": "3"
+  },
+  "LAW-013933-J60": {
+    "hash": "2dee2500d2d74bc84140f639b2a9027032c5a0a8360323c1566049dc71e2a30b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "60",
+    "para": null
+  },
+  "LAW-013933-J61-H1": {
+    "hash": "2e5ff54ae3f234667fe991c37ecea13fe5cd258814d0852d2576020cf290acf6",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "1"
+  },
+  "LAW-013933-J61-H2": {
+    "hash": "8ad6c7094a4b1d193afc3863e7b7bdd17927ef59d305eb8709ed6d3854f0f59c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "2"
+  },
+  "LAW-013933-J61-H3": {
+    "hash": "ee46caa0fb3bb5b9b47c5af2c02a4e2975df0e82fcb4cde024222e9c13652a9b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "3"
+  },
+  "LAW-013933-J61-H4": {
+    "hash": "e35f9009854d3e3516250891b8ff74561f42078d82b98389b60ae89488fdc216",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "4"
+  },
+  "LAW-013933-J61-H5": {
+    "hash": "bbdfb9885efed64e0afc1df1e8c33c847c90fb26046ded386aa667d67b923ddb",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "5"
+  },
+  "LAW-013933-J61-H6": {
+    "hash": "0b09d0fb3616e7ae1c47213856397779e14c36479e41908fb7cfba43db3c6536",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "6"
+  },
+  "LAW-013933-J61-H7": {
+    "hash": "ae560213c60950bbdd844557c786b170c33a52476f14d02cc7cc76497de80303",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "7"
+  },
+  "LAW-013933-J61-H8": {
+    "hash": "0f0df48b7be1249d9b9528d850515c47f2ad4bbf170dd62154c87774289e9432",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "8"
+  },
+  "LAW-013933-J61-H9": {
+    "hash": "4a9c776faa688384e2551cf1bd4c76ef00b5c0d948782b58d1fdd8d92488de8a",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "9"
+  },
+  "LAW-013933-J61-H10": {
+    "hash": "02da3e0bf7bc3f296de7734fa000654d3c518da1a61d0bc2ea7e1c8b12710207",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "10"
+  },
+  "LAW-013933-J61-H11": {
+    "hash": "971e748904e2382270bd980f666e34882c7118ff746012fbb09416c675c22caa",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "61",
+    "para": "11"
+  },
+  "LAW-013933-J62-H1": {
+    "hash": "45b6aac135f50fea83d3b24c55ee63551c5ca1b41ae5c11c1ead6b7bf9898590",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "62",
+    "para": "1"
+  },
+  "LAW-013933-J62-H2": {
+    "hash": "ffe02d489ed6d1c878258049b2a2d4be512edb1c935a5fe3c2c3346977ad55c5",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "62",
+    "para": "2"
+  },
+  "LAW-013933-J62-H3": {
+    "hash": "867db060d0cdf507864c6eeb44556a4f4022f5ce27b313af77bc44462ae874b8",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "62",
+    "para": "3"
+  },
+  "LAW-013933-J63-H1": {
+    "hash": "e70f048e6fe2c3c5ed5dc569cc61da2f8f66ab5641c847f45666b705ada26062",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "63",
+    "para": "1"
+  },
+  "LAW-013933-J63-H2": {
+    "hash": "404abacebcdec4f7d5b0f9e0689c2a0954c901374e77a0ef6a0bda2ef3975435",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "63",
+    "para": "2"
+  },
+  "LAW-013933-J63-H3": {
+    "hash": "f683cd7e0a67fdd01464e8e086ccf0dbfe8567befc86f0965d6e37975626be66",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "63",
+    "para": "3"
+  },
+  "LAW-013933-J64-H1": {
+    "hash": "5dfb15ad6c424ed91905cc7b0584a6b8d0b667b97d1f453c04f8674f0c1d9537",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "64",
+    "para": "1"
+  },
+  "LAW-013933-J64-H2": {
+    "hash": "dbf6749bcd60bf3ad67b09abcb317c6c34c1a6110f8985fb4a27059dda4effef",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "64",
+    "para": "2"
+  },
+  "LAW-013933-J64-H3": {
+    "hash": "5771728b3dee0e3b803126f7098ccd277280aa1e75a332ccfd8aec761dba6cb4",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "64",
+    "para": "3"
+  },
+  "LAW-013933-J65-H1": {
+    "hash": "6a8b5daa364e0f4141fa5a115a07db02284b964fe86547268f64f474bc094b1b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "65",
+    "para": "1"
+  },
+  "LAW-013933-J65-H2": {
+    "hash": "d6b5f9a8275c67fea139127cf182433b5d333225400baa969f471d2c5307ca2b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "65",
+    "para": "2"
+  },
+  "LAW-013933-J65-H3": {
+    "hash": "52590c212dcb5e1cd60f58bdbc80146a1d10e99cfe73ada984c79d524028ac47",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "65",
+    "para": "3"
+  },
+  "LAW-013933-J65-H4": {
+    "hash": "d005f5e84a7eedd602463292ecad3a9e245922f917b6f59f8aa5be908da9a1ee",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "65",
+    "para": "4"
+  },
+  "LAW-013933-J66": {
+    "hash": "be44ba0abe359cc9fb90fc394c513f5a34eb3e86a61cb93c8ec0e01c6a152cbb",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "66",
+    "para": null
+  },
+  "LAW-013933-J67-H1": {
+    "hash": "357242ab288d1658111b87353152cb23d94fc1238450b8bc2838ed4e946321e4",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "67",
+    "para": "1"
+  },
+  "LAW-013933-J67-H2": {
+    "hash": "bc0737d740d91a70be99613cb4734c14b2678323fb108016cefa4660d41b2487",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "67",
+    "para": "2"
+  },
+  "LAW-013933-J67-H3": {
+    "hash": "3bd515e7ea2e087d466d31772b2a36d383bc68bf8a9f1205a0f758eb8f6804d8",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "67",
+    "para": "3"
+  },
+  "LAW-013933-J67-H4": {
+    "hash": "9c323c01809ecac22a432313e306386e395b5cc4c4928bc1902a8cb6437b4c18",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "67",
+    "para": "4"
+  },
+  "LAW-013933-J68": {
+    "hash": "7145134c177ad4ccf300b474f896fb9a6a2ba0566d898b6d1c1bcb34a866f398",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "68",
+    "para": null
+  },
+  "LAW-013933-B1": {
+    "hash": "e9874f33f073bc880daa2514062ac9bd03f09a2f49d8762c8c9b81e4e5a60d81",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표1",
+    "para": null
+  },
+  "LAW-013933-B2": {
+    "hash": "7c0d4311c5659237347ea64b60dea843c32447ca32e7fb612b25fc61ac891e20",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S1": {
+    "hash": "11505da95697b931fa6c8078fa8403a62005948b07e62311deb5ec691f85026b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S2": {
+    "hash": "247edb50e06160cd9ef508b3066cf39dc415d74e753883b880c2da2cbc27a5a6",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S3": {
+    "hash": "ec397911a325d89c06b98122a11610b17138ef2024e7cdef4044b3ff583ea674",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S4": {
+    "hash": "77e14554837aab2c493d31986768e32d8d669ae539e9675462062c5e50405cf5",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S5": {
+    "hash": "543d7d17933f0e0c5f74edc17e7d4748e378b913a521e2b3752ff1cf5166e816",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S6": {
+    "hash": "afc3af938c401a9f8a6b31f7c93711578bc9af433da300318104d635a72ba33b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S7": {
+    "hash": "dcd43294953feaacfef0ed58eb1ca6992763827ea22ef04b236fbbd118cd0bc2",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S8": {
+    "hash": "4b1c7a725674bfc9d0f73796809f4e5b5b9aad682701261ea654db60e8b0c6bc",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S9": {
+    "hash": "51178282d20f77e63f8f5f0e6e883370c5c3c1cf7cf2dbb06bdf906125306780",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S10": {
+    "hash": "e5b5a91dff2b9fd0258dda992568154246c3ce5f93c7395efd12e24572e53547",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S11": {
+    "hash": "193ef4377435c246755dcebcaa9eb858188ea965cfe553fb1dfa26bb43fdf505",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S12": {
+    "hash": "cb18ef217b3054fbc97e3f1ef6023fd9fc3182b643fcbaa12741b93c8defd237",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S13": {
+    "hash": "080a08aa488f6c6ecc068debbba1edbc08ff41cdf016faa45b1c6b0e74b2be73",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S14": {
+    "hash": "833c385b5421dd99b571b3e58f274301f4d1d65c48f31368ffb5d0907d7d7f1c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S15": {
+    "hash": "f52b00972699e07257e4c4db1f8b1283495a018c5c19c081e2c7db4583cffc9c",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S16": {
+    "hash": "416b8db64088a63331d8df220b00519d751c4eaed79d2b4ef1f65189935c9906",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S17": {
+    "hash": "8b872342fce8d83456829fdf32286bf311fd36619cfb4d6814f737b733503c67",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S18": {
+    "hash": "4a571e622f2811055afde796fbbfbd90cdf7d219d380744cb25907e9b31776dd",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B2-S19": {
+    "hash": "25c4025bc89c5449977d458e206198694fa5b598c641879b9ffcf212109b884b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-013933-B3": {
+    "hash": "e6a5998eb5f6a0fa43d4e08fe489ceedd92c627ef220a79a649cae0c1a2d5fe9",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표3",
+    "para": null
+  },
+  "LAW-013933-B4": {
+    "hash": "764d76c5f31b0961e70398fb3059caf2c779488ad1fa5efbd12df3b9214e5778",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표4",
+    "para": null
+  },
+  "LAW-013933-B5": {
+    "hash": "c2b627bd4b84b39c82cfc0197a6a1443d9f9a2daa163e5919da0142e654522b0",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표5",
+    "para": null
+  },
+  "LAW-013933-B6": {
+    "hash": "e914e9126bd947b758d7fc45d3bb8a6c69ee4b63ea682cd51ab8731d9d6c96b1",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-013933-B6-S1": {
+    "hash": "37a6457c395beb24a232bb949ae084940e8686f92cc5f11315b62821deb59493",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-013933-B6-S2": {
+    "hash": "6499923a1c6247cc9ba68685858c6fe325cbe83d20dcb73657750b3192fe0057",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-013933-B6-S3": {
+    "hash": "872234d3539b42378a20d3bd225596a15e512939d846a4222562e20534f47d24",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-013933-B6-S4": {
+    "hash": "7569e059264a1d93bd11397b859e94be6d148c6811ecc821f75c22c92dffcb22",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-013933-B6-S5": {
+    "hash": "e2080dea56f13b411a65efbfd328910ac8302d8f5c71f3ec65d6ed8db4d7c254",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-013933-B6-S6": {
+    "hash": "682db1c3897365021ecd3b3ff588619dcb0676654adb19530a267156c4996aff",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-013933-B7": {
+    "hash": "e127a69c89824b9b844eb19fcebf62e5e0912c3c8488990b6d4aab368649478f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S1": {
+    "hash": "4e9119ef9926eb7dffa07ba1192d3c1fd2794dad878588f28198c44faecb9182",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S2": {
+    "hash": "6a98e5e3ff1db07ee6d3ca03f92ef5f9efabfd425f7f00a3071541e6725d7d84",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S3": {
+    "hash": "3b229b1e51ca44981bb20c0f03b0d3bd1cd73b40a8b2d6ce7522877258f30d2d",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S4": {
+    "hash": "0d8f56b32e813104b9d6aad0293e9f1d46265810dc0784123ace467e4551448e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S5": {
+    "hash": "280e68e0846ed5ec1233bb11055aa738f4b279a1807acbfd0da58de488431954",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S6": {
+    "hash": "be60fc2744d4d0b0c9d6d1768c2b1b26fa29bd3275b41b5060f5db2bc50be4c7",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S7": {
+    "hash": "17576a3bd50aa879a7e87dd6ee0e617313b00ad79ca7525dcd4d048ff1a42a0b",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S8": {
+    "hash": "e187918b0d46041b59ca2f4ab0493f42beaccbc6163576eef2b284ce717fb1b6",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S9": {
+    "hash": "435167933cfa20d27b765f278653ea9a47073a1127bdc31556f4e13bb661c64e",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S10": {
+    "hash": "c00f5880b45f98632574f2ace6572b034e06f9e466488610367e2eb56167e002",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S11": {
+    "hash": "0ea6a86669f313fece3ecfa733aca8affc79ef66400d35eaa23cb71f95fe7ee4",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S12": {
+    "hash": "53c3e7fef0d491f87362df17f4e91dc46c0b94fb396bdb4763d55fd1d6882f8a",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013933-B7-S13": {
+    "hash": "31e26f85936b9749e502a9e91537944d3ccb4d42049ebb46bbeb27c0913c2e5f",
+    "law_id": "013933",
+    "law": "혁신법 시행령",
+    "article": "별표7",
+    "para": null
+  },
+  "LAW-013980-J1": {
+    "hash": "966d7b7b0e70dfbe5897d008aff3629653b7801a865fc780310ea33b1cf98e8b",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "1",
+    "para": null
+  },
+  "LAW-013980-J2": {
+    "hash": "9ebe9226fb37eedc4108fb0f61286c72703f7450d8ac9adddb9edba15fe7715b",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "2",
+    "para": null
+  },
+  "LAW-013980-J3-H1": {
+    "hash": "bb5af5de41cd59cd2f45c8d94b62dafc77559abc139c9a1e8ad1051e7f2b10b7",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "3",
+    "para": "1"
+  },
+  "LAW-013980-J3-H2": {
+    "hash": "f0265948066e102fad1f5ac842d9f6af40dfe40ae85c6af2d19be5251665fe24",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "3",
+    "para": "2"
+  },
+  "LAW-013980-J3-H3": {
+    "hash": "eba409c537f215b1714cb4a8c42218f8a53571177b67cabb09691a14f6d9a8a7",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "3",
+    "para": "3"
+  },
+  "LAW-013980-J3-H4": {
+    "hash": "7520ea4fdc70ab54d2795ba1e21baf324c9302057f9e3f873165d9be243e0d00",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "3",
+    "para": "4"
+  },
+  "LAW-013980-J4": {
+    "hash": "300a9d8737376524a1e9b8e1919f9df1178bec46ffe33b4096166e6851803055",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "4",
+    "para": null
+  },
+  "LAW-013980-F1": {
+    "hash": "f825f6bb2e963ab37f66b9e1797e13eb274e030936b2194097f1960cd12785c2",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "서식1",
+    "para": null
+  },
+  "LAW-013980-F2": {
+    "hash": "635ec2fe1f3ee5ee002ba289770522fedc947e5da9327b08e9a65397fef12baa",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "서식2",
+    "para": null
+  },
+  "LAW-013980-F3": {
+    "hash": "f8af71b95328bda899f7945786c8f56ff7e7c6ffe9c540972cedb871b21bf1e4",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "서식3",
+    "para": null
+  },
+  "LAW-013980-F4": {
+    "hash": "f4b7e7cfc2b4b4a5e992567caf65e4b6f03ece4c8b179aa1f5df2359449abfaa",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "서식4",
+    "para": null
+  },
+  "LAW-013980-F5": {
+    "hash": "50351c4a2d7f70c8d130a08adc814992fa5f9d9bd1efdf6f33f9ad846bdc25a6",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "서식5",
+    "para": null
+  },
+  "LAW-013980-F6": {
+    "hash": "6b025d5fa4f56e4061ec60a95f80541b9c9cb04ec84bdb01d77b6f571652dcbc",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "서식6",
+    "para": null
+  },
+  "LAW-013980-F7": {
+    "hash": "8b71fddb0191131e979c54a2ab931437b684f4d5b5d0932b17c1b071fe9c004f",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "서식7",
+    "para": null
+  },
+  "LAW-013980-F8": {
+    "hash": "ffecd2fa4593fd132962b2a6c6d2f60ee9ec8fb8f6710e3bc13dd3448ae44434",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "서식8",
+    "para": null
+  },
+  "LAW-013980-F9": {
+    "hash": "20d2a6efa5132d7515948a5652a295552eaebe7f525a396f65cea5c5aff440a5",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "서식9",
+    "para": null
+  },
+  "LAW-013980-F10": {
+    "hash": "28edbbef835012cf8d7a0a3e59db6d8469b75aad212b16005842c158609203a5",
+    "law_id": "013980",
+    "law": "혁신법 시행규칙",
+    "article": "서식10",
+    "para": null
+  },
+  "LAW-75386-J1": {
+    "hash": "5420d9312e67e52af38a5c86f8981886c12615404f323a56395c6d6fd68a364e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "1",
+    "para": null
+  },
+  "LAW-75386-J2": {
+    "hash": "28a45819128677ea35b9ec0b9161993d3aaddaab7e3369c6ddefc379c393313d",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "2",
+    "para": null
+  },
+  "LAW-75386-J3": {
+    "hash": "e7440486ba9b1855e3fb1d07e213241b98ff18c9a0f944815eac214540345011",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "3",
+    "para": null
+  },
+  "LAW-75386-J4": {
+    "hash": "0c53851884cd2e34e464955cd0374ff04530648cda05656b1ad66bdea18ce541",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "4",
+    "para": null
+  },
+  "LAW-75386-J5": {
+    "hash": "f944689fd569bb5d430fcc918d8ed456969bf89aceb2464ddc05041b0a7ab8cf",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "5",
+    "para": null
+  },
+  "LAW-75386-J6": {
+    "hash": "efe253810031d88fcf4100b4520ef49219bcca5b6d68b64b5924414489e9fb8d",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "6",
+    "para": null
+  },
+  "LAW-75386-J7": {
+    "hash": "adde9a9aa533fc5a017836ae00b5e125a98e86b82c555c2c33d7a069332d3895",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "7",
+    "para": null
+  },
+  "LAW-75386-J8": {
+    "hash": "e83413f3b35c1cb39ff464e85f7ad8a8f9d771425eb2be3315518c99753f64bc",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "8",
+    "para": null
+  },
+  "LAW-75386-J9": {
+    "hash": "24fda2cae692ac3740e40c08739c09ad40797726312f48fd84f2a65b33d3b0ee",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "9",
+    "para": null
+  },
+  "LAW-75386-J10": {
+    "hash": "d3aa74c0f053a11cea31bde6e19b539b1eedb117996254d90ddba7aceb65814a",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "10",
+    "para": null
+  },
+  "LAW-75386-J11": {
+    "hash": "f6a2e6c25d4f5495ab1a0c73d5cf903470c09e904fc1a5237f9c0c337d6d9744",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "11",
+    "para": null
+  },
+  "LAW-75386-J12": {
+    "hash": "5041596d47fbae61f96571ffb0778b25728f4b4c833ae0238db54da3e82f9c11",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "12",
+    "para": null
+  },
+  "LAW-75386-J13": {
+    "hash": "987ec654426732957018dbf9fb20b263d59e97da2cb043b5628c8674e49b7d62",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "13",
+    "para": null
+  },
+  "LAW-75386-J14": {
+    "hash": "b09cfc51880666a1829dcc19b0c653301442801e82486ff5d46fccc670b74864",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "14",
+    "para": null
+  },
+  "LAW-75386-J15": {
+    "hash": "e03d4b70452e38f8e8a99538dbfde6c33f7e361b3447bfffdf6b15b49942b0b4",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "15",
+    "para": null
+  },
+  "LAW-75386-J16": {
+    "hash": "e3ed20daeeb66e56a9f66f3d837c03aa88de8d7e0562c651c0f7cf204fe5206f",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "16",
+    "para": null
+  },
+  "LAW-75386-J17": {
+    "hash": "a299ec5426aecb45a1b9be17ca84ab8f67da04707f44debcb62c3b761ed24fd0",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "17",
+    "para": null
+  },
+  "LAW-75386-J18": {
+    "hash": "15f0ee1488ceffacacdd0487f4041fb3906d29e7dc6306743ad94f0c061dea26",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "18",
+    "para": null
+  },
+  "LAW-75386-J19": {
+    "hash": "72f7ffee021c36d052323d2388a0fbefb25753c419e2ba3750b03f17667c996d",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "19",
+    "para": null
+  },
+  "LAW-75386-J20": {
+    "hash": "54973623129d8dcca155548ebc740ebd0f55adabe9dd8c74d71b1bf27761f911",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "20",
+    "para": null
+  },
+  "LAW-75386-J21": {
+    "hash": "3f973ce0593a576a393cffb2da86ef1b5c46279ae8493f55f1a9f0d36303e9f4",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "21",
+    "para": null
+  },
+  "LAW-75386-J22": {
+    "hash": "750a75a2d1f1da28af25b03b238971614b32cfeb6128e92c35fed35e90602cd2",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "22",
+    "para": null
+  },
+  "LAW-75386-J23": {
+    "hash": "ddda65d80b7b2869f9d1e17e4d4fcaccf5cbf1681cf83b0fa0046cb009f97849",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "23",
+    "para": null
+  },
+  "LAW-75386-J24": {
+    "hash": "0c74bd639e1b46914af04b8e228edcaea6a5b33dcbd9ad0b9a56e51e2a7992cc",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "24",
+    "para": null
+  },
+  "LAW-75386-J25": {
+    "hash": "485d6e762b9a13bbfd8e24db3566a8a1db21b717e558c91be1ba66eb28eba853",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "25",
+    "para": null
+  },
+  "LAW-75386-J26": {
+    "hash": "a581bbff5dc678c7b66bc298100338f0563545dd0b6110f364675401bb442352",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "26",
+    "para": null
+  },
+  "LAW-75386-J27": {
+    "hash": "76674c214ef98c0dce3e6e96d83d4334149fd15cc6865c16134984d26d0606f0",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "27",
+    "para": null
+  },
+  "LAW-75386-J28": {
+    "hash": "8bf42026425f679e3a6aa4384eb4d0bf3467ed736a8872cfbc6e87234bd15ed8",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "28",
+    "para": null
+  },
+  "LAW-75386-J29": {
+    "hash": "0e5e40ca07f90805671feb8dd41b1a8d6c1daa376c419a819869cec5aead8e7e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "29",
+    "para": null
+  },
+  "LAW-75386-J30": {
+    "hash": "fa16d3a2e1d8cd2f3c7d45fbb699c19a45ddab6a61f6b9fdb9cced8865e8b06d",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "30",
+    "para": null
+  },
+  "LAW-75386-J31": {
+    "hash": "9ae609aa83f820925c9866199efd2e850ff24ed8470de49dbe8085bf6538e126",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "31",
+    "para": null
+  },
+  "LAW-75386-J32": {
+    "hash": "c3bee113ef55dfa80a5ca59659cf15c36299e3f9a9e7733a3a613df84ea14be1",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "32",
+    "para": null
+  },
+  "LAW-75386-J33": {
+    "hash": "87815f6a084b70bf6a02f9a78dd93b8363cb7aeb98d3e7ed6addeafc988bc5fd",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "33",
+    "para": null
+  },
+  "LAW-75386-J34": {
+    "hash": "34ed86486975a08a8781532b451fff195862d7d4d6795780fa7374a99e7df544",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "34",
+    "para": null
+  },
+  "LAW-75386-J35": {
+    "hash": "6908e6870be45a69b2d799f27f6e2af7d4b11f775f5fa3fae51ef5a1b40e1e66",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "35",
+    "para": null
+  },
+  "LAW-75386-J36": {
+    "hash": "5be1bbc8a47b9e5cf329c6a79c032c46611e1f4c905180b6935b6a071e496fd4",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "36",
+    "para": null
+  },
+  "LAW-75386-J37": {
+    "hash": "e85f24f05b8185384fc0f5c45d7c45ee249570482c4cc0b2498ea64a0986480e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "37",
+    "para": null
+  },
+  "LAW-75386-J38": {
+    "hash": "f9ded634456033943a78f532a9c3746a5c48bea185d65855132f5b0ff3ed798c",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "38",
+    "para": null
+  },
+  "LAW-75386-J39": {
+    "hash": "db99619e349cf538e690c787b0e54abb8f643449cfb67d7452e730b29854f5f0",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "39",
+    "para": null
+  },
+  "LAW-75386-J40": {
+    "hash": "c20c44f031620f8ae7c7693af7e8d2e1072aaa938988d8b338d4b98707ad7f2a",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "40",
+    "para": null
+  },
+  "LAW-75386-J41": {
+    "hash": "42acffea2137fad72aad3ecd24f90a22dac5352395deb59bfae15328ab66feb8",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "41",
+    "para": null
+  },
+  "LAW-75386-J42": {
+    "hash": "8a2bee800636487ea2bccc9523957b1ef02bf7d7cb60673243b2a897b72741e9",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "42",
+    "para": null
+  },
+  "LAW-75386-J43": {
+    "hash": "2b0a072a0689f0b7b8224987267d7d7e4a82ee028e0a4e3da9a981e7267f4300",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "43",
+    "para": null
+  },
+  "LAW-75386-J44": {
+    "hash": "0b877ef7ca3f07b767a2edb92f073b4e4fedbdfc2639b00344cafbe130203b68",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "44",
+    "para": null
+  },
+  "LAW-75386-J45": {
+    "hash": "c8eb422c616d31ada53d87374dd6d99829c2a389ac01f6ab1dba377332d241e2",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "45",
+    "para": null
+  },
+  "LAW-75386-J46": {
+    "hash": "4eee192bf2e4f0ddb83c6880704dbff333dd6c92c205b1d4d0d5ee50348822d6",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "46",
+    "para": null
+  },
+  "LAW-75386-J47": {
+    "hash": "f9c337e8d6acfc0f4358530ac2f759cf70950a726434c4c257c5101ac9adeeac",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "47",
+    "para": null
+  },
+  "LAW-75386-J48": {
+    "hash": "63e15eef01194acfb27fa60806427b5dd56ec1570769226db164d43f0c065949",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "48",
+    "para": null
+  },
+  "LAW-75386-J49": {
+    "hash": "972ebfe6e59f15c2ec09dda7dfe635ef27b407543ea7d743d69f01d4b1c12118",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "49",
+    "para": null
+  },
+  "LAW-75386-J50": {
+    "hash": "912abecafa0653a45d6b77cc2c19c7c7f72af8ed818f2500365a166887365c4e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "50",
+    "para": null
+  },
+  "LAW-75386-J51": {
+    "hash": "2c7ec42cd32609a47d7c881729ec837496f8f4dab8dc8b8555eb14d53698abe1",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "51",
+    "para": null
+  },
+  "LAW-75386-J52": {
+    "hash": "b7f1ab27f9f00498edd842b481d446f2113ca11eb7f0d84c9c721376cda31787",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "52",
+    "para": null
+  },
+  "LAW-75386-J53": {
+    "hash": "4730d5986af3a6866f694fff7bd53447239ce096a707522ae97fbd27c46e14b7",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "53",
+    "para": null
+  },
+  "LAW-75386-J54": {
+    "hash": "fb5bcc686a1d1550003135af0e5713a098d5b3022e48aa48fd74583ea691062d",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "54",
+    "para": null
+  },
+  "LAW-75386-J55": {
+    "hash": "3447fe99da1157fe0aea8bf884a79a14fb0eeccfb475a37a1118f2e2caeda4ee",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "55",
+    "para": null
+  },
+  "LAW-75386-J56": {
+    "hash": "068ae4d5547324e4ff3e230be3d14bcb4f3c3f003516988008d99b7913d793f7",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "56",
+    "para": null
+  },
+  "LAW-75386-J57": {
+    "hash": "4b7523e7de626cb4adbb738e6acf9b17f876f9d22c9431eb690483ff56d47a50",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "57",
+    "para": null
+  },
+  "LAW-75386-J58": {
+    "hash": "6f09c233349c2a783096f5ab89d10c17e9b019a10e07912982eb15071ec4a3c3",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "58",
+    "para": null
+  },
+  "LAW-75386-J59": {
+    "hash": "a4b09073558c62a57f176d3841bb47a982f58ed47c9c42f5f50af7456f60155a",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "59",
+    "para": null
+  },
+  "LAW-75386-J60": {
+    "hash": "70c6a05130e851521becb4574db45947425165a973e2f0fa106923417017757f",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "60",
+    "para": null
+  },
+  "LAW-75386-J61": {
+    "hash": "062302264539a35c28aeadcf3c8654c4f9d5dd58f1225a942e726dd8d80f5d1c",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "61",
+    "para": null
+  },
+  "LAW-75386-J62": {
+    "hash": "f73d8d2675cd65d96561a466e1473c967dd1bf8e6f0aa6945e19ebc1d92ae908",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "62",
+    "para": null
+  },
+  "LAW-75386-J63": {
+    "hash": "565fa2296cba4e6dec63830b41bf76e6ccacbe75a01c23ed427e5e049a717432",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "63",
+    "para": null
+  },
+  "LAW-75386-J64": {
+    "hash": "35e5e9214565d5d884cea1f14c085bf0be4ee7e5833bf941fee4c597f8388926",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "64",
+    "para": null
+  },
+  "LAW-75386-J65": {
+    "hash": "69df119b874ee609ede648bcad6ce67ebd1f77f32ebb7d6ce0f7afe92cdf5ed0",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "65",
+    "para": null
+  },
+  "LAW-75386-J66": {
+    "hash": "5b13e3fd93675e6bfe3063fe9f08d9dc4be4917e5a625581ab1daf4bb4453173",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "66",
+    "para": null
+  },
+  "LAW-75386-J67": {
+    "hash": "f9d9e8345fceccc5b74f52090e10cdf37cdcf206c830cb588803d98bd8bb9276",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "67",
+    "para": null
+  },
+  "LAW-75386-J68": {
+    "hash": "f78f7cf822091ad1f478a6495ac0a0e63353c6aad0fdff4aa88b64f58967a9cc",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "68",
+    "para": null
+  },
+  "LAW-75386-J69": {
+    "hash": "bf393724faa9542ad03ac4ce1462db4165a5b283755abf778763f28950d79f9a",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "69",
+    "para": null
+  },
+  "LAW-75386-J70": {
+    "hash": "a15b71e926d522753a084c3220f8a45415d80eb3c4aefe2223e856cf5975453e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "70",
+    "para": null
+  },
+  "LAW-75386-J71": {
+    "hash": "7c942d31d1478f07a23e7998a023b38403d99bb0a474d567a64fccb6da06242b",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "71",
+    "para": null
+  },
+  "LAW-75386-J72": {
+    "hash": "2ca17687437f8b2c1f9f438c77962846cee12b950beea376afc6c443ca7b7268",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "72",
+    "para": null
+  },
+  "LAW-75386-J73": {
+    "hash": "ffbe6dc15a92bf799a0bb7cb57d25b5abeddcca8e8d5f11d21cb855e98733da3",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "73",
+    "para": null
+  },
+  "LAW-75386-J74": {
+    "hash": "4488f350907425f9b53bd29d0f136c2a20122120909e6bb372f8bbb6a170d9f0",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "74",
+    "para": null
+  },
+  "LAW-75386-J75": {
+    "hash": "fd0cefb099e9aaec3fa5005e4f73aa903fb1d5618abecf0a724a46f981502652",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "75",
+    "para": null
+  },
+  "LAW-75386-J76": {
+    "hash": "b6fe206cd480da42eec5045fb34e3192de488bb71affe8fb7c58d6421a3dab84",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "76",
+    "para": null
+  },
+  "LAW-75386-J77": {
+    "hash": "472c63c23e9c99fcf7ec104c335e7cbb50e6ce4fd52fbcaf2e6a65d9eae8e543",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "77",
+    "para": null
+  },
+  "LAW-75386-J78": {
+    "hash": "c1f42b05429559bb8999d592053774a2ae32fd3adadb2829c296e17dda34472f",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "78",
+    "para": null
+  },
+  "LAW-75386-J79": {
+    "hash": "655bec32ebc0ad323edd95a078e4e200b0879d664e7eb6f26fcef6972eddbac1",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "79",
+    "para": null
+  },
+  "LAW-75386-J80": {
+    "hash": "1023aadc3de937b5f0b516a88f14f0caa89d780e039942aea4d7a6a242e380e0",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "80",
+    "para": null
+  },
+  "LAW-75386-J81": {
+    "hash": "58a06258ed6a435e879c5ef7148687efe632076bbe8b8e0c8d6d9b2659f81214",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "81",
+    "para": null
+  },
+  "LAW-75386-J82": {
+    "hash": "8439caf937c5b9841593fe759d5517ef747a593317f09c1f74519b5648f39580",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "82",
+    "para": null
+  },
+  "LAW-75386-J83": {
+    "hash": "7a1a32e12a4ec6cc6b98b341f591febac2a689dd0f38190ed491ffa11c8c511e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "83",
+    "para": null
+  },
+  "LAW-75386-J84": {
+    "hash": "c02d97a39ea7de53ac4eaa9dfcd2f28aa36da6064190f30200722151f382bf9c",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "84",
+    "para": null
+  },
+  "LAW-75386-J85": {
+    "hash": "1f787bd21ff4136c39aa382ce775788c2e2dabe2797e0568a779106159141ade",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "85",
+    "para": null
+  },
+  "LAW-75386-J86": {
+    "hash": "1b0909541538941bdbaf7e111ac0f3b546bfe710b7b23666b361001e624c338d",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "86",
+    "para": null
+  },
+  "LAW-75386-J87": {
+    "hash": "36331c6c3f31de80ace585e8b0354b317da4c33f5ce47987e59ec1155c87dc5e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "87",
+    "para": null
+  },
+  "LAW-75386-J88": {
+    "hash": "8a9d343a53dd736b49728f60b69d72a4bacd13a57697b15b9f31af03097d714a",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "88",
+    "para": null
+  },
+  "LAW-75386-J89": {
+    "hash": "0a4ce0c6dec7425265b7bdbfd516059e12ff21239c64d7c85339f5c7fde2cbac",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "89",
+    "para": null
+  },
+  "LAW-75386-J90": {
+    "hash": "4c805c2bae49ad4647392c55c3f9fb2395e3428004afa3ce533ad95eb690b1c8",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "90",
+    "para": null
+  },
+  "LAW-75386-J91": {
+    "hash": "411357de1914a117fe393acba7f28cf4ae7c5e8f5678e711e6da0f01dfb400d6",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "91",
+    "para": null
+  },
+  "LAW-75386-J92": {
+    "hash": "81acd9ff0aac6ff7a99d71b5863b8603e5b7c7a1957a66db6385094b63574840",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "92",
+    "para": null
+  },
+  "LAW-75386-J93": {
+    "hash": "af58d43f8ddb924648a1e7a040c2154a5e011265664cb9e4d51923903d99eaf7",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "93",
+    "para": null
+  },
+  "LAW-75386-J94": {
+    "hash": "0f50b0d7c3284b30bf456f011a20151abaac17d9fcef23a3253cfe145a423a94",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "94",
+    "para": null
+  },
+  "LAW-75386-J95": {
+    "hash": "3a7ec3395c961b416a9cb5d5806e2797e8c9d6036e8c4d570a4df2a1a1dd3bc5",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "95",
+    "para": null
+  },
+  "LAW-75386-J96": {
+    "hash": "9340e8d6bff967c48692463b1dfa3bb92699d1f62c3372252b9e86cebc64ebd3",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "96",
+    "para": null
+  },
+  "LAW-75386-J97": {
+    "hash": "8395b69690104aaccb4cc22e08805bf634e3d9a7e997f8e5a48ffbe6ed6dd868",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "97",
+    "para": null
+  },
+  "LAW-75386-J98": {
+    "hash": "b17eb8bb6547ac49bfd238fd5f056eea314c04ce73bc3af46c34cf236bc11811",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "98",
+    "para": null
+  },
+  "LAW-75386-J99": {
+    "hash": "b8d2c10b7f400a629cfcde1fdb0155b796877e91e6c49a7b18f125e4dc8ae793",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "99",
+    "para": null
+  },
+  "LAW-75386-J100": {
+    "hash": "81d887e4940c0483694f7af645a87162c2e43fb38f4d802494ba6244e679fdca",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "100",
+    "para": null
+  },
+  "LAW-75386-J101": {
+    "hash": "1c83b7eecc477f5320b06a914d264a77cdf1c45ed5f6ff14c8484c224015f62a",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "101",
+    "para": null
+  },
+  "LAW-75386-J102": {
+    "hash": "7898d7b0718ed3fa8801ef6d9de4f4fe4a9a63562e931236bfa3f7e85d40072c",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "102",
+    "para": null
+  },
+  "LAW-75386-J103": {
+    "hash": "3c087bb664b93a324ae7645dbe8f00dfc655292fcd7aed24b9354bd3654e37f7",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "103",
+    "para": null
+  },
+  "LAW-75386-J104": {
+    "hash": "47d36b5502d09f607f6231007aac50464bae891a680582f0f5d094171c117f4e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "104",
+    "para": null
+  },
+  "LAW-75386-J105": {
+    "hash": "b721840505e94279a56830edbf9ba7a08b84e82ca2b8c4551e5fed27d311484d",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "105",
+    "para": null
+  },
+  "LAW-75386-J106": {
+    "hash": "929dd6675a0a9d22b18b005b29a0398d861f381ed1b5ee3ef5163ec8ee84a392",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "106",
+    "para": null
+  },
+  "LAW-75386-J107": {
+    "hash": "eddfdac1749058be05f7dd72b5486b6feba3c88b423f237769de2438941ab73e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "107",
+    "para": null
+  },
+  "LAW-75386-J108": {
+    "hash": "f1bb017789799e1e90829eef2f8db0ae2188728ba209af0a70328fa496eb1db4",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "108",
+    "para": null
+  },
+  "LAW-75386-J109": {
+    "hash": "7755e0f0ea9acbbde3feba4c74d0d49dce0b27a5fb011daff287c82caedb13cb",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "109",
+    "para": null
+  },
+  "LAW-75386-J110": {
+    "hash": "56acf666cad100849adb620a859d6fa0734f3b4cf06ee434f79a40edde247cb1",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "110",
+    "para": null
+  },
+  "LAW-75386-J111": {
+    "hash": "aba089cd935a6532202a0e2457310ce6547e7056f20c89cc3a6eed125e922403",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "111",
+    "para": null
+  },
+  "LAW-75386-J112": {
+    "hash": "fe41986686077eb13e6b77ad408b89a8b3d9e56d93b8d53be1d39a037c7a3099",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "112",
+    "para": null
+  },
+  "LAW-75386-J113": {
+    "hash": "c6c09faa38482a1a5dc831d98b7313d4bcc0bf7d3f589543c29ccc715b8fc706",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "113",
+    "para": null
+  },
+  "LAW-75386-J114": {
+    "hash": "c1faa1e7f6f19f9df8b0ed7108700f015973a1557df750a4f9f7d91d95485e7a",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "114",
+    "para": null
+  },
+  "LAW-75386-J115": {
+    "hash": "5c6fe7fa3f31d7d16e4758130f96e7b76856dd59702d6afaca499de45f2b68bf",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "115",
+    "para": null
+  },
+  "LAW-75386-J116": {
+    "hash": "7feffbb39bc2156f5a53daa28a9d300d8df6279c8626004e91b99be853471189",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "116",
+    "para": null
+  },
+  "LAW-75386-J117": {
+    "hash": "95cb916d1e6ceedb1d17a71767d83fda9eb57e11e30549f66bc8a37afbf8eb31",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "117",
+    "para": null
+  },
+  "LAW-75386-B1": {
+    "hash": "fe3afdfba9b186ce821b37ac0d2dcc6b9d0c625e89e11379c09d22a69e8119d7",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표1",
+    "para": null
+  },
+  "LAW-75386-B2": {
+    "hash": "f63d4a75eeb315b73a0e8ed7448a2e18a7f0e74a06c7a00ea84da9468ad43ad9",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표2",
+    "para": null
+  },
+  "LAW-75386-B3": {
+    "hash": "790f8e1d349e508de9d50798dd74f76d3cfe713db4e0e05c4088680ba0bfbf1e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표3",
+    "para": null
+  },
+  "LAW-75386-B3-S1": {
+    "hash": "68ab3cfdd936cb958d674130bdeae7f10d19aa289750f264a34c94a7ce095dfb",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표3",
+    "para": null
+  },
+  "LAW-75386-B3-S2": {
+    "hash": "01ad800912dafc90228617bd5c06ce4c35f81abf082211c10e21c8549377d6d1",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표3",
+    "para": null
+  },
+  "LAW-75386-B3-S3": {
+    "hash": "6d7572e8a949eda04fdd0505ab0e3789258d6dabcb21ee4337ad1ee17be4b04d",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표3",
+    "para": null
+  },
+  "LAW-75386-B3-S4": {
+    "hash": "6fd523f1c3c58ca800a3bc36910007ff5cc66e8c6106a77652e460e76c5e1081",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표3",
+    "para": null
+  },
+  "LAW-75386-B3-S5": {
+    "hash": "ecf3d6702ee5e0b2553a101d05233e23531b3dcbd2c8e81275d5497f9ff68492",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표3",
+    "para": null
+  },
+  "LAW-75386-B3-S6": {
+    "hash": "aabc55aef53013716aeb8cfc69917474dcee12fd8233dd8fc8867084b51ed701",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표3",
+    "para": null
+  },
+  "LAW-75386-B5": {
+    "hash": "184779655e0af18def2e379830ff05f24e2b0d342c6f7c8580488e1043cae929",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표5",
+    "para": null
+  },
+  "LAW-75386-B6": {
+    "hash": "d19b3347c1233d7cc135dd1fa7ee8d3d5c42d14097c1ffbabda0087b83bb1490",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S1": {
+    "hash": "1c4f133b5a17299585f788b2f19f467dbd80d88ae24134c14e67ca9717fc1481",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S2": {
+    "hash": "42030c174f02d43bf4a7f9e148eb642fc4b6ddb5fd2d7aef405b00b92466d06a",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S3": {
+    "hash": "590946f7bbb6114e4424fe485f475c2d3b2155f52c9ad0cc0fa7ad32534ba358",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S4": {
+    "hash": "b849ebfd40c6ed16522bedcd76c5654fceafe0c71b55955f103ab9df44844d03",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S5": {
+    "hash": "7f583bcd6c8254a70f92412797125a9772a8207b527c90739ab9a312c336dd21",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S6": {
+    "hash": "4542c4c4340f0d06978d4ed1d4947b9ec7d5d3b2928a70b8fa948d794afff533",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S7": {
+    "hash": "d3b02001f918f64c39b47e7e7f2943d0439326ba76733204c9f43a269c2302d2",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S8": {
+    "hash": "74036dff935cfffd786b2d398c5aa01e66931e123ea4535f885d534194af75d6",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S9": {
+    "hash": "5f4a595a8aaaee0774fb7d7bded53225f2cc99111586063e1c2efe88d704e012",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S10": {
+    "hash": "467aa08cd6b906a33a10e457ea232fc36e0172b8866b30383743ddb6bea7d5af",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S11": {
+    "hash": "3a287d54d77a5b9577dc5cd173f458d41be5aab1e35abeb3bdf0c979136c23cf",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S12": {
+    "hash": "831fa9fcd54eeaea46ed127a2ae3192964ca4bb128ff89296247ffdafc5ce801",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S13": {
+    "hash": "2fb3c5d3cedb74b3d18056cfa3fb1495e97873126bc53a1b609ff1052f8dc1de",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S14": {
+    "hash": "cd12fbdc4be9177d6cb7700752d47b977193ba876b19be27714aa4e33a6cb75e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S15": {
+    "hash": "514cf41747fd90b3f3cdc986e0a912a36b62b2a8d0a71539d3f633baeb5be7dd",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S16": {
+    "hash": "566a6975726dec3d45f174760fca33af7a7be08618c3b6bd097ed22465899a20",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S17": {
+    "hash": "422b38d372cf8650aaa5c4eb85067dca95a7b22ac696913bf06eb667a8849442",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S18": {
+    "hash": "ac5125485cd24fe4dedc77911bfed9721fe8c951e5be3f340ab5120aeaaf6f0e",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-B6-S19": {
+    "hash": "d1efd1cf6cdf80a2fbc09605e2d45424fdf00a31ae65584f7750e59ef85b3ada",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별표6",
+    "para": null
+  },
+  "LAW-75386-F1": {
+    "hash": "054a1afd54de8bc745c06ddfbbb1c9278255a842050068568843a91a2ee77a08",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지1",
+    "para": null
+  },
+  "LAW-75386-F1의2": {
+    "hash": "34f8999b117d4030342a8825ee53026694cddcfda5091fff73a95ea72c872dd2",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지1의2",
+    "para": null
+  },
+  "LAW-75386-F2": {
+    "hash": "f5b236b235b489379b33c0ffe8d493ce1a659b27a6244618db6f013c827b12e4",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지2",
+    "para": null
+  },
+  "LAW-75386-F3": {
+    "hash": "b7669cfc27d05c00fed1f1835de9c8c42ba9731f274cb76cdbc11578bbe1dc05",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지3",
+    "para": null
+  },
+  "LAW-75386-F4": {
+    "hash": "22811afab88307a5e9b0ad04464a7ce5e6c011d3e209ec51dc781b99e64a71c4",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지4",
+    "para": null
+  },
+  "LAW-75386-F5": {
+    "hash": "b47993cb8a438377d57ed4db8a4479eee8e0f6b859958cc2ef97ab781f17110f",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지5",
+    "para": null
+  },
+  "LAW-75386-F6": {
+    "hash": "738ffac09cbb790fe8091f52f218a51cc13b92d837ef55a1d71806e687b9a1cf",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지6",
+    "para": null
+  },
+  "LAW-75386-F7": {
+    "hash": "5fce4c21b2b558a902ced957e829c737db49a654ec694d9869c143c63030e08a",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지7",
+    "para": null
+  },
+  "LAW-75386-F8": {
+    "hash": "91ba00dffc519eba81bfd065df9d498f88469b0ebf0eca71f3c473a5c0e94e90",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지8",
+    "para": null
+  },
+  "LAW-75386-F9": {
+    "hash": "70d1773a737ac552c666be6197d03e1b1c0e217d2373fe8d9a85528a8e1c579d",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지9",
+    "para": null
+  },
+  "LAW-75386-F12": {
+    "hash": "4704d39beb6a8b128c8a9cfdb748159534714ad4f6ee4cbccc78793be87c1128",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지12",
+    "para": null
+  },
+  "LAW-75386-F13": {
+    "hash": "f62f11bde893104a2c6c26d220a1ab1456c026710aef3226a51b6a577ab7c107",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지13",
+    "para": null
+  },
+  "LAW-75386-F14": {
+    "hash": "2fdb46d14d286e3d4c13f2d00ee5f6097c6845fd88cdea260dc1bc979c56c80a",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지14",
+    "para": null
+  },
+  "LAW-75386-F15": {
+    "hash": "a50c16622ce95babcdc2ff5446bfdd48e2c1682676fb4df03698a3b43edcc729",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지15",
+    "para": null
+  },
+  "LAW-75386-F16": {
+    "hash": "75bed9c96a58806bb64dea8cb1f61deb805818eb8d899e18aa049252681d0f33",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지16",
+    "para": null
+  },
+  "LAW-75386-F17": {
+    "hash": "a9c167c5f848321e5b8279b2678bf84b4086a68e7db8d2631292a180c1ef5175",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지17",
+    "para": null
+  },
+  "LAW-75386-F18": {
+    "hash": "8e07c9a6c8060102aea7058405768e65ccb4627b2ffd5905ab5eafa6e67ecf22",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지18",
+    "para": null
+  },
+  "LAW-75386-F19": {
+    "hash": "05909b301e29fb1712aba44c0621e0b688b284a8f3b7246c7434c2d54dbc0a02",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지19",
+    "para": null
+  },
+  "LAW-75386-F20": {
+    "hash": "fefa59f50a1202b126c2605c82a9693a052816fae8032e815ec9b1d7b2e568da",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지20",
+    "para": null
+  },
+  "LAW-75386-F21": {
+    "hash": "14e1ffffe4c49146f51a3855911074d37e3cfbfdf3b2dd2fab437214dd414363",
+    "law_id": "75386",
+    "law": "사용기준",
+    "article": "별지21",
+    "para": null
+  },
+  "LAW-010090-J1": {
+    "hash": "5e44ccb4d5533d50a85b808367e7eeb1fe65b3c013b7ac7532ea4308b6fccd4e",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "1",
+    "para": null
+  },
+  "LAW-010090-J2": {
+    "hash": "fcfe7de545afd2239beac3ec7793fb25236f1b844ccb3281f15fea069e7b4650",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "2",
+    "para": null
+  },
+  "LAW-010090-J3-H1": {
+    "hash": "717d8ddfa6e992521469b1f902e7f5e9c6f191b8eefdb28de3bbfa6cb866cf48",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "3",
+    "para": "1"
+  },
+  "LAW-010090-J3-H2": {
+    "hash": "a034d8193f2b14901467ab01a4f9f57b5dfbb203233b8d8e91cd87426dac00a4",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "3",
+    "para": "2"
+  },
+  "LAW-010090-J3-H3": {
+    "hash": "3f9bf5e485cf3eb3e1ef949ffb1f93a9f9a8836b01997c8fa67c3842a4726161",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "3",
+    "para": "3"
+  },
+  "LAW-010090-J3-H4": {
+    "hash": "5058aaf176c0cd501cca1748281283da8facb38e00ce5cf64ba042049ce44d51",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "3",
+    "para": "4"
+  },
+  "LAW-010090-J3-H5": {
+    "hash": "26481b401579171f9bcb70ef106bc0562983060421b82b26af2a6fd3cd9c8a96",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "3",
+    "para": "5"
+  },
+  "LAW-010090-J3-H6": {
+    "hash": "28909326c4d4d8dc373242b4658fba0232e0997c537a89d20d3ac36ffaa14646",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "3",
+    "para": "6"
+  },
+  "LAW-010090-J3-H7": {
+    "hash": "ba656ad1fbd4155e9bd9c1c0127590257eed0febf9d15e9693beb52f2119ec62",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "3",
+    "para": "7"
+  },
+  "LAW-010090-J3-H8": {
+    "hash": "2085cfa5ebdd9391f00f7f6e96e90bbfb6c562d2d62dba228a1bb6bb0f0ba662",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "3",
+    "para": "8"
+  },
+  "LAW-010090-J3-H9": {
+    "hash": "6537d9e71ecf7a891ce34a69e6abca9209df18c4a6e1cc936787f8e9b799b12b",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "3",
+    "para": "9"
+  },
+  "LAW-010090-J3-H10": {
+    "hash": "0ca1c2810e694867e7d4a50ad61b099f0718be8e2ffedf3cc90931b216a8af64",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "3",
+    "para": "10"
+  },
+  "LAW-010090-J4-H1": {
+    "hash": "488263063a12e595240832c896d0950a85a12a57f097b46d7ba9825e5f6b9f06",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "4",
+    "para": "1"
+  },
+  "LAW-010090-J4-H2": {
+    "hash": "e8331404d699366ab5e9b11daa609000c78356f3866acabc4f063722f93befc1",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "4",
+    "para": "2"
+  },
+  "LAW-010090-J4-H3": {
+    "hash": "f1ccbc5032dc53e1b9e1c4e0a17202795796dcd7976aaab4c267d2723c88bfa1",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "4",
+    "para": "3"
+  },
+  "LAW-010090-J5-H1": {
+    "hash": "204d090ca9f5b78fa08a6f70defaa7010ca39f7af99b5218413d0c18af428fa4",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "5",
+    "para": "1"
+  },
+  "LAW-010090-J5-H2": {
+    "hash": "7c4ad5031184728ec12c3f51b21e4e7e10b33fc1fa4335a1810fdf14f090d4f7",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "5",
+    "para": "2"
+  },
+  "LAW-010090-J5-H3": {
+    "hash": "0a3d39b26bd13c5cff61f021128c0bd5d515cdc647b619d5d08faa75bb5ed236",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "5",
+    "para": "3"
+  },
+  "LAW-010090-J6-H1": {
+    "hash": "c7b7aff91265cdd400f2f3ed5bda9a547000bb13a20a27f06e86a9a51ec55cd9",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "6",
+    "para": "1"
+  },
+  "LAW-010090-J6-H2": {
+    "hash": "b62afe8318505073449c09c968bb9e192806af8f5e744c018ee9debc1915cbb0",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "6",
+    "para": "2"
+  },
+  "LAW-010090-J6-H3": {
+    "hash": "605e0352167079f795eee7ebcc11e9a69f29235bacafe87dbde505c1ee0855bc",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "6",
+    "para": "3"
+  },
+  "LAW-010090-J6-H4": {
+    "hash": "1d20d0f2ffeeafb7d29af2d013d7fa6357d61b5ca416b38ae65b7f4ffd69138f",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "6",
+    "para": "4"
+  },
+  "LAW-010090-J7-H1": {
+    "hash": "7aaef7a34697bc7a9b1e6141b4ded2cfca3aabc18c1e3308d592d8f1644772c2",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "7",
+    "para": "1"
+  },
+  "LAW-010090-J7-H2": {
+    "hash": "c92ba4d4e1ddf21639bbca721d4f48804c915d54edca4d6188192cd38494f2e5",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "7",
+    "para": "2"
+  },
+  "LAW-010090-J7-H3": {
+    "hash": "d5dc34c510dedb3338ae0b33c1bbfe595de8deed17458a56ae560c380c99f998",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "7",
+    "para": "3"
+  },
+  "LAW-010090-J7-H4": {
+    "hash": "bdb79ce6b4a22905020a8fabab0560e22fe90fa26e5cbd8464adf9f3ca08b55e",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "7",
+    "para": "4"
+  },
+  "LAW-010090-J7-H5": {
+    "hash": "f873513e707efc7535c42ab0ffee82e3672bbc429d89f5e1bfe9df3399f4d174",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "7",
+    "para": "5"
+  },
+  "LAW-010090-J7-H6": {
+    "hash": "30618cc5d67010229d271e3a095820abcef70dd275186570d2f5f33f7dcd860c",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "7",
+    "para": "6"
+  },
+  "LAW-010090-J8-H1": {
+    "hash": "563112aebe1c3189802becb58bbea244b2fbb6637318ab2661ad83b0bda439f9",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "8",
+    "para": "1"
+  },
+  "LAW-010090-J8-H2": {
+    "hash": "8d417f2d4f0647333e50605c64dd389518ae2ae70950320a453289d4dd0ef2bf",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "8",
+    "para": "2"
+  },
+  "LAW-010090-J8-H3": {
+    "hash": "23effa68f4ff464349943c5c1d9b5805a10db754901e393eb46b9d01cf8522e3",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "8",
+    "para": "3"
+  },
+  "LAW-010090-J8-H4": {
+    "hash": "5d11bf9a341c6bd9b6c275d52919d0c261fcca4d0437505c8505434a69be54dd",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "8",
+    "para": "4"
+  },
+  "LAW-010090-J8-H5": {
+    "hash": "8e539804564b7ef514cf8011644bf94befacbb6159710e5dc8e31f4f8a10b1e7",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "8",
+    "para": "5"
+  },
+  "LAW-010090-J8-H6": {
+    "hash": "9397ff01ce3faff76240f3d15ac9096de5b47f34e2663e022d35284b57f42343",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "8",
+    "para": "6"
+  },
+  "LAW-010090-J9-H1": {
+    "hash": "6e3df6275f55faa086a41a557397ebd4aca5302c7405e8917b96d018b72cf8a6",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "9",
+    "para": "1"
+  },
+  "LAW-010090-J9-H2": {
+    "hash": "b7d50e284d6501bd7a64c58890fddaa7b3e187a1604220c4f0f56cf74a220e2f",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "9",
+    "para": "2"
+  },
+  "LAW-010090-J9-H3": {
+    "hash": "18f645b47b4271ecb6be7a13aeedf5e5fd658da63da9415f13c605867455047c",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "9",
+    "para": "3"
+  },
+  "LAW-010090-J9-H4": {
+    "hash": "36cd25c5f29a68268c24fa8fe52e7ba96aa780bfd63a83e28160ed9c159ab54b",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "9",
+    "para": "4"
+  },
+  "LAW-010090-J10-H1": {
+    "hash": "00852cbff459fae2c9786268cb2c18541a3a41ec4a631f3247b5341e65809a47",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "10",
+    "para": "1"
+  },
+  "LAW-010090-J10-H2": {
+    "hash": "0887393a29fb2a52236ee8e7bd4cabdb6843ebf138cb494c5ae61bfbb122fe53",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "10",
+    "para": "2"
+  },
+  "LAW-010090-J10-H3": {
+    "hash": "3d05a275330df3b1774fda49908b11a16785f44b36e7f2fb2c4d5912e6285847",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "10",
+    "para": "3"
+  },
+  "LAW-010090-J10-H4": {
+    "hash": "305830993a392fbd02af5c3d301871466b39f46f5bf8ce270a7c6b80d1f43bc2",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "10",
+    "para": "4"
+  },
+  "LAW-010090-J11-H1": {
+    "hash": "51b01392851973c421f7693348f12ebc76b6ed7cef1a44f09ba2b8f66b58903b",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "11",
+    "para": "1"
+  },
+  "LAW-010090-J11-H2": {
+    "hash": "20107474c646895ffab51a5340e1bc8949d0fa0d6272a2278146a7efaae321e1",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "11",
+    "para": "2"
+  },
+  "LAW-010090-J11-H3": {
+    "hash": "93c236e699e25ce0c070e1b450a23f8ca782d77be91fc55a69668ad789abc0cb",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "11",
+    "para": "3"
+  },
+  "LAW-010090-J11-H4": {
+    "hash": "3a72989f61931fb8bba3f03a888944c31e7431d0761fbdb29184423121f11947",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "11",
+    "para": "4"
+  },
+  "LAW-010090-J12-H1": {
+    "hash": "cccc018e75b41ee422740c1a3962cbeddaecc9fcf77c8e558ff4f76f5a2c070c",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "12",
+    "para": "1"
+  },
+  "LAW-010090-J12-H2": {
+    "hash": "6520ef205eeaa7b01113f4310a385e6cc5003e572ef34584909a13cc1459098b",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "12",
+    "para": "2"
+  },
+  "LAW-010090-J12-H3": {
+    "hash": "f8cff900f4170c6f3b481e6632f2a44c217a1715f494bbd35504b0bf5fe3c1dc",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "12",
+    "para": "3"
+  },
+  "LAW-010090-J12-H4": {
+    "hash": "2405295b0a7db8cc1812c0e91a3ae0312156161ba1c89c4291b3fe06e7facbea",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "12",
+    "para": "4"
+  },
+  "LAW-010090-J13-H1": {
+    "hash": "35e3385b332f19f0f8e5438d2e179846778a2029304944108f110bf7f455d2b2",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "13",
+    "para": "1"
+  },
+  "LAW-010090-J13-H2": {
+    "hash": "c557f5fa3f1dd6cadac6b185424c81192ba3a04afe8627c60ae3c1e01c1227c8",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "13",
+    "para": "2"
+  },
+  "LAW-010090-J14": {
+    "hash": "f23ba7310f97484801beb98eb175ea24e8eae5f95e9fd3845ed7e68b3edb100f",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "14",
+    "para": null
+  },
+  "LAW-010090-J15-H1": {
+    "hash": "a11b2ec1dc4cd603dcfed0bff6aaed7d4d1c2a9f6fa6aa1edeea626249356f30",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "15",
+    "para": "1"
+  },
+  "LAW-010090-J15-H2": {
+    "hash": "e69b99abdd22faf5ef59b8679dd643ad3680296a59331c7b196e4fac0ee9a173",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "15",
+    "para": "2"
+  },
+  "LAW-010090-J15-H3": {
+    "hash": "570577b9b315e0c1cb9d08e935987ac316ab03ddcf4d3896f3d8c3152cd21a92",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "15",
+    "para": "3"
+  },
+  "LAW-010090-J16-H1": {
+    "hash": "16337339e388f8606197d93d84b92a53a1e58f77078cb4c83bfd3255c2eaae96",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "16",
+    "para": "1"
+  },
+  "LAW-010090-J16-H2": {
+    "hash": "4e29c54cde3f23dd5d21e2114797f5655adfc04bb07f5838e08ac20313c30a1b",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "16",
+    "para": "2"
+  },
+  "LAW-010090-J16-H3": {
+    "hash": "5f31ce6c1f7bfc1e96abc591f9b14dcf77c1409c5e5f4ad7975a3cea23f69d73",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "16",
+    "para": "3"
+  },
+  "LAW-010090-J16-H4": {
+    "hash": "1c9ba6f57368ae781fcad996ebbee0eccc744150451e8a55e083d6241d8bd150",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "16",
+    "para": "4"
+  },
+  "LAW-010090-J16-H5": {
+    "hash": "9deb0e15f29a0e0261dbdc666d9a7bb478405db0fd8fb0de5747d6a4838b5b7f",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "16",
+    "para": "5"
+  },
+  "LAW-010090-J16-H6": {
+    "hash": "d96c3783b8819645ccc235ebbc2b4d0374329941fed555784e4e0e25930fe22e",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "16",
+    "para": "6"
+  },
+  "LAW-010090-J16-H7": {
+    "hash": "1b583bc774f71387c57f8be1ba8f474ee293c48a43db977320b100d76e6c964d",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "16",
+    "para": "7"
+  },
+  "LAW-010090-J17-H1": {
+    "hash": "c776bc396ac2ca3dfe8ba5b67d7818717e27a780d203ca3ca1015850c36e45e6",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "17",
+    "para": "1"
+  },
+  "LAW-010090-J17-H2": {
+    "hash": "7c36b3070f2614a64e40bcdcf5689bf07fb2d09cd2658f67347816379f0fbbbf",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "17",
+    "para": "2"
+  },
+  "LAW-010090-J17-H3": {
+    "hash": "43376532f7d7f6411c3ea13f4f6616ae299d031954bfc573906626a1886d874b",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "17",
+    "para": "3"
+  },
+  "LAW-010090-J18-H1": {
+    "hash": "35345e7599e5245a9c0ee87164de38a6d098c640de126bbbaa56f10e5878173b",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "18",
+    "para": "1"
+  },
+  "LAW-010090-J18-H2": {
+    "hash": "f1587e21e82ca32f07219ff0c76a9213369a28f788e586a4f42f9244917626aa",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "18",
+    "para": "2"
+  },
+  "LAW-010090-J18-H3": {
+    "hash": "306d540828e6f74aa4562e84b54a766108f8aa41fb8c8994c09ffe165192aefe",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "18",
+    "para": "3"
+  },
+  "LAW-010090-J19-H1": {
+    "hash": "1cb8f8d227b04fec167204db853d3d362836d6d37b4c677d5079f8891caa5772",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "19",
+    "para": "1"
+  },
+  "LAW-010090-J19-H2": {
+    "hash": "21ddbf596eca918aa383912d7a5d12dc97fe0150948673fec1919750070676d6",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "19",
+    "para": "2"
+  },
+  "LAW-010090-J19-H3": {
+    "hash": "96b6dd6f9f22f86de514fe597c8c00c7beb9e99daafc6a498a3c09a4c0bc86dc",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "19",
+    "para": "3"
+  },
+  "LAW-010090-J19-H4": {
+    "hash": "b38dfd0caa1ff117d5d613df7a0179cdbdebd78eeea2474c597c84bfdd486d20",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "19",
+    "para": "4"
+  },
+  "LAW-010090-J20-H1": {
+    "hash": "47bf22fb86ae5fc1641a51535a2a03b3f900f0161ee4d9289217ea99f7caa6ed",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "20",
+    "para": "1"
+  },
+  "LAW-010090-J20-H2": {
+    "hash": "f4b9a786010edd07d9ca3054eafb36b4f78b0958fb7fe4918e3090e7c4c9ba80",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "20",
+    "para": "2"
+  },
+  "LAW-010090-J21": {
+    "hash": "5ff93cf80876342da99ef5f3727921019e8aa411594cc4c7d870e18fd2d35597",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "21",
+    "para": null
+  },
+  "LAW-010090-J22-H1": {
+    "hash": "b7dc4e5ac517a3fdd294911a712ed6fbb28f747719497c33704c3c213a565ea4",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "22",
+    "para": "1"
+  },
+  "LAW-010090-J22-H2": {
+    "hash": "19a90d32cc78301ac5cabb88fabb72d53fa9182d6662f5daab20fed1829a85fd",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "22",
+    "para": "2"
+  },
+  "LAW-010090-J22-H3": {
+    "hash": "eddb57bd362ce60d89af9680dd77a996c30765f4cd4be006f1ccf90a274a5465",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "22",
+    "para": "3"
+  },
+  "LAW-010090-J22-H4": {
+    "hash": "666d83ff8997e42dbf4db9a551283cc6393f9fbfbdbfd22e10e72eaf3c6258a0",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "22",
+    "para": "4"
+  },
+  "LAW-010090-J23-H1": {
+    "hash": "9dc990b9d703418436a042de50f800f5059a587a745c4fc200f30bc92714d923",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "23",
+    "para": "1"
+  },
+  "LAW-010090-J23-H2": {
+    "hash": "6382cdd525d67419db2e0746fe2610263f3e96d7e9da7245d46ec78942942878",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "23",
+    "para": "2"
+  },
+  "LAW-010090-J23-H3": {
+    "hash": "69b97f55b8d2b71cde43eb69af92e957bbe05899a1d9c5fe6e4c5383d5e967dc",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "23",
+    "para": "3"
+  },
+  "LAW-010090-J24-H1": {
+    "hash": "6ee3e0ea683ead71ac148c9b3ea462c3a7e4063fe30fee44d1d0aa123fcaec40",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "24",
+    "para": "1"
+  },
+  "LAW-010090-J24-H2": {
+    "hash": "cee37c15dd8a28ea2743accc4972216f1c00762afc6a1222e62e004295911b45",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "24",
+    "para": "2"
+  },
+  "LAW-010090-J25-H1": {
+    "hash": "f244dc100990ec118bf7ff69a70de0ea9ffa8901eacef8a68a83216da3f8e291",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "25",
+    "para": "1"
+  },
+  "LAW-010090-J25-H2": {
+    "hash": "b48dfcaa152e843ff6f0b1afd5c74459e9c0fc1ec389f8536a46e5d437434a86",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "25",
+    "para": "2"
+  },
+  "LAW-010090-J25-H3": {
+    "hash": "cc994aa4561f388f383c54eecaf792f2bbb122e4457c6b7b31237f966d87251e",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "25",
+    "para": "3"
+  },
+  "LAW-010090-J26-H1": {
+    "hash": "ea2f56233f31be48254cafe324f11c7a8822e43edc1ef4952974d241a0e31e59",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "26",
+    "para": "1"
+  },
+  "LAW-010090-J26-H2": {
+    "hash": "f3f2fbd600f737996a6be7f956515e5938a652831e61f9415a6290f2a562a07f",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "26",
+    "para": "2"
+  },
+  "LAW-010090-J26-H3": {
+    "hash": "cc3100e95e31ac09b7bc335bdba969fe741d09ba8171000bdfab2b28fe0015aa",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "26",
+    "para": "3"
+  },
+  "LAW-010090-J26-H4": {
+    "hash": "c3dab231bde06af7651eeddda8fe8c3034c1291843dd549db403ea4fdb217b04",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "26",
+    "para": "4"
+  },
+  "LAW-010090-J27-H1": {
+    "hash": "1ad7746409b42be1827d6a80b311229ddbc561e820625e5d09839b43a668a8ca",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "27",
+    "para": "1"
+  },
+  "LAW-010090-J27-H2": {
+    "hash": "a28c3e3801a4c12e3a73639cb1f206736949ac9c84e80220b108a6bc1dd335bf",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "27",
+    "para": "2"
+  },
+  "LAW-010090-J27-H3": {
+    "hash": "3816849df41fb56702c02186ca18b337362e0d92d56f69fc9627bfa3e4f1fbad",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "27",
+    "para": "3"
+  },
+  "LAW-010090-J28": {
+    "hash": "c9ce8d7b89f970eaadae6ef71c1e000c759f95ed9561d8500b7c0ef646a3206e",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "28",
+    "para": null
+  },
+  "LAW-010090-J29-H1": {
+    "hash": "399033a81936596d3608aad85489ab7beac6497a04d8cf88585eae9e8e8bebc7",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "29",
+    "para": "1"
+  },
+  "LAW-010090-J29-H2": {
+    "hash": "37899abf86328f7f88e68dca161f9760d2756725e461d3a6c4c96d651d3697cf",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "29",
+    "para": "2"
+  },
+  "LAW-010090-J30-H1": {
+    "hash": "d785c616aac00e340e7c230c3d778cb1e2b556e24e6d8d7f290d35baac0a575d",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "30",
+    "para": "1"
+  },
+  "LAW-010090-J30-H2": {
+    "hash": "8c65dd422f7c71ac0530436b0373736ba6737aa5d0a3743fb87325292621556f",
+    "law_id": "010090",
+    "law": "성과평가법",
+    "article": "30",
+    "para": "2"
+  }
+}

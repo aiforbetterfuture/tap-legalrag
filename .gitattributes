@@ -1,0 +1,18 @@
+# 데이터 파일은 바이트 그대로 보존한다(줄바꿈 자동변환 금지).
+# 이유: 윈도우/리눅스 git의 CRLF 변환 때문에 같은 내용이 환경마다 다른 바이트가 되면
+#       파일 지문(SHA-256)이 달라져 '원천 무결성' 검증(P1B-5 M11)이 깨진다.
+
+# 법령 원천 XML / 골든셋 CSV: 줄바꿈 변환 금지(차이 보기는 유지)
+*.xml   -text
+*.csv   -text
+
+# 데이터/테스트 폴더의 JSON: 줄바꿈 변환 금지
+data/**/*.json    -text
+tests/**/*.json   -text
+
+# 바이너리 원본: 변환·diff·merge 금지
+*.pdf   binary
+*.xlsx  binary
+*.hwp   binary
+
+*.gif binary

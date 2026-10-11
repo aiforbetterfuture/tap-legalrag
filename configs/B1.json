@@ -1,0 +1,9 @@
+{
+  "retriever": "default",
+  "P": true,
+  "T": false,
+  "A": false,
+  "gate": false,
+  "force_answer": false,
+  "name": "B1"
+}

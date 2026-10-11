@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TAP-LegalRAG 판정 시연</title>
+<style>
+:root{
+  --bg:#f6f5f2; --panel:#ffffff; --ink:#1d2127; --muted:#6a717c; --line:#e3e1dc;
+  --ok:#1f7a4d; --ok-bg:#e7f3ec; --warn:#a95f00; --warn-bg:#fbf0de; --stop:#4f5864; --stop-bg:#eceef1;
+  --accent:#28407a; --chip:#f0efe9;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Pretendard","Noto Sans KR","Noto Sans CJK KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+  font-size:15px;line-height:1.55}
+header{padding:18px 28px 14px;border-bottom:1px solid var(--line);background:var(--panel);display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+header h1{font-size:19px;margin:0;letter-spacing:-.01em}
+header .sub{color:var(--muted);font-size:13px}
+.wrap{display:grid;grid-template-columns:300px 1fr;gap:18px;padding:18px 28px 24px;max-width:1240px;margin:0 auto}
+@media (max-width:860px){.wrap{grid-template-columns:1fr;padding:14px 16px}}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px}
+.list{padding:10px}
+.list h2,.main h2{font-size:12px;letter-spacing:.06em;color:var(--muted);margin:4px 6px 8px;font-weight:600}
+.q{display:block;width:100%;text-align:left;border:1px solid transparent;background:none;border-radius:8px;
+  padding:9px 10px;margin:2px 0;font:inherit;font-size:14px;color:var(--ink);cursor:pointer}
+.q:hover{background:var(--chip)}
+.q.active{background:#eef1f8;border-color:#cfd7ea}
+.q .tag{display:inline-block;font-size:11px;font-weight:700;border-radius:4px;padding:1px 6px;margin-right:6px}
+.tag.ANSWER{color:var(--ok);background:var(--ok-bg)} .tag.CONFIRM{color:var(--warn);background:var(--warn-bg)}
+.tag.ABSTAIN,.tag.CORRECT{color:var(--stop);background:var(--stop-bg)}
+.main{padding:18px 20px}
+.ask{display:flex;gap:10px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:#fbfbf9}
+.ask .label{font-size:12px;color:var(--muted);white-space:nowrap}
+.ask .text{font-size:17px;font-weight:600;min-height:1.5em;flex:1}
+.caret{display:inline-block;width:2px;height:1.1em;background:var(--accent);vertical-align:-3px;margin-left:2px;animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.steps{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin:16px 0 14px}
+@media (max-width:860px){.steps{grid-template-columns:repeat(2,1fr)}}
+.step{border:1px solid var(--line);border-radius:9px;padding:9px 10px;background:#fff;opacity:.35;transition:opacity .25s,border-color .25s,background .25s}
+.step.on{opacity:1}
+.step .n{font-size:11px;color:var(--muted)}
+.step .t{font-weight:700;font-size:14px}
+.step .s{font-size:12.5px;margin-top:3px;color:var(--muted);min-height:2.6em}
+.step.pass{border-color:#bcdcc9} .step.pass .s{color:var(--ok)}
+.step.hit{border-color:#e6c48f;background:var(--warn-bg)} .step.hit .s{color:var(--warn);font-weight:600}
+.step.stop{border-color:#c5cad1;background:var(--stop-bg)} .step.stop .s{color:var(--stop);font-weight:600}
+.step.skip .s{color:#9aa0a8}
+.card{border-radius:12px;padding:16px 18px;border:1px solid var(--line);opacity:0;transform:translateY(6px);transition:opacity .35s,transform .35s}
+.card.on{opacity:1;transform:none}
+.card.ANSWER{background:var(--ok-bg);border-color:#bcdcc9} .card.CONFIRM{background:var(--warn-bg);border-color:#e6c48f}
+.card.ABSTAIN,.card.CORRECT{background:var(--stop-bg);border-color:#c5cad1}
+.dec{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.dec b{font-size:22px;letter-spacing:.02em}
+.ANSWER .dec b{color:var(--ok)} .CONFIRM .dec b{color:var(--warn)} .ABSTAIN .dec b,.CORRECT .dec b{color:var(--stop)}
+.dec span{font-weight:600}
+.reason{margin:8px 0 4px}
+.detail{margin-top:10px;background:rgba(255,255,255,.7);border-radius:8px;padding:10px 12px;font-size:14px}
+.detail .k{font-size:12px;color:var(--muted);margin-bottom:3px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:4px}
+.chip{background:#fff;border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-size:13px}
+.flag{margin-top:10px;font-size:13px;color:#8a3b12;background:#fdece4;border:1px solid #f1c7b4;border-radius:8px;padding:8px 10px}
+.trace{margin-top:14px;border-top:1px dashed var(--line);padding-top:12px;opacity:0;transition:opacity .35s}
+.trace.on{opacity:1}
+.trace table{border-collapse:collapse;width:100%;font-size:13px}
+.trace td{padding:4px 6px;border-bottom:1px solid #f0eee9;vertical-align:top}
+.trace td:first-child{color:var(--muted);width:150px;white-space:nowrap}
+code{font-family:"JetBrains Mono","D2Coding",Consolas,monospace;font-size:12.5px}
+footer{max-width:1240px;margin:0 auto;padding:0 28px 22px;color:var(--muted);font-size:12.5px}
+</style>
+</head>
+<body>
+<header>
+  <h1>TAP-LegalRAG · 답변 가능성 판정 시연</h1>
+  <span class="sub">직접 작성한 합성 질문 · 저장소의 실제 판정 함수 실행 결과 · config B4</span>
+</header>
+<div class="wrap">
+  <aside class="panel list">
+    <h2>예시 질문</h2>
+    <div id="qs"></div>
+  </aside>
+  <main class="panel main">
+    <div class="ask"><span class="label">질문</span><span class="text" id="qtext"></span></div>
+    <div class="steps" id="steps"></div>
+    <div class="card" id="card"></div>
+    <div class="trace" id="trace"></div>
+  </main>
+</div>
+<footer>
+  이 페이지는 <code>scripts/build_demo_viewer.py</code>가 판정 함수를 실제로 실행해 그 결과를 담은 정적 시연 화면입니다.
+  서버나 네트워크를 쓰지 않으며, 새 질문은 <code>python -m law_rag ask "질문"</code>으로 실행합니다.
+</footer>
+<script>
+const DATA = /*__DATA__*/[];
+const LABEL = {ANSWER:["ANSWER","근거를 붙여 답변"],CONFIRM:["CONFIRM","담당자 확인 요청"],
+  ABSTAIN:["ABSTAIN","보류 · 담당자에게 넘김"],CORRECT:["CORRECT","전제 교정"]};
+const STEP_NAMES = [["1","검색","관련 조문 후보 찾기"],["2","범위 확인","근거가 있는가"],
+  ["3","P 출처","인용이 실제 조문으로 확정되나"],["4","T 시점","개정으로 밀린 번호인가"],["5","A 적용대상","기관 유형이 답을 바꾸나"]];
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function stepStates(row){
+  const r = row.result;
+  const p = r.path || [];
+  const get = k => (p.find(x => x.startsWith(k+"=")) || "").slice(k.length+1);
+  const top = (r.top3_evidence||[]).map(e=>e.ref).slice(0,2).join(" · ");
+  const st = [{cls:"pass", s:"후보 " + (r.top3_evidence||[]).length + "건: " + top}];
+  if (p.includes("oos")) { st.push({cls:"stop", s:"범위 밖 · 근거 부족"}); return st.concat([{cls:"skip",s:"—"},{cls:"skip",s:"—"},{cls:"skip",s:"—"}]); }
+  st.push({cls:"pass", s:"관련도 " + r.relevance});
+  const P = get("P");
+  if (P === "external") return st.concat([{cls:"stop",s:"코퍼스 밖 법령"},{cls:"skip",s:"—"},{cls:"skip",s:"—"}]);
+  if (P === "unresolved") return st.concat([{cls:"hit",s:"출처 미확정"},{cls:"skip",s:"—"},{cls:"skip",s:"—"}]);
+  st.push(P === "n/a" ? {cls:"skip", s:"질문에 조문 인용 없음"} : {cls:"pass", s:"확정 · " + (row.cite_law || P.split(":")[0]) + " 제" + P.split(":")[1] + "조"});
+  const T = get("T");
+  if (T === "AMBIGUOUS_HISTORIC") return st.concat([{cls:"hit",s:"밀린 번호가 현행에도 있음"},{cls:"skip",s:"—"}]);
+  if (T === "HISTORIC_VALID") return st.concat([{cls:"hit",s:"옛 번호 → 현행 위치로 교정"},{cls:"skip",s:"—"}]);
+  if (T === "DRIFT_UNRESOLVED") return st.concat([{cls:"hit",s:"현행·계보에 없음"},{cls:"skip",s:"—"}]);
+  st.push(T === "n/a" || T === "" ? {cls:"skip", s:"질문에 조문 인용 없음"} : {cls:"pass", s:"현행 조문"});
+  const A = get("A");
+  if (A === "ASK") st.push({cls:"hit", s:"판단 기준을 먼저 물어야 함"});
+  else if (A === "BRANCH") st.push({cls:"hit", s:"기관 유형별로 답이 갈림"});
+  else st.push({cls:"pass", s:"기관 유형과 무관"});
+  return st;
+}
+
+function detail(row){
+  const r = row.result, out = [];
+  if (r.decision === "ANSWER" && row.snippet) {
+    out.push(`<div class="detail"><div class="k">근거 조문</div><b>${esc(row.snippet.law)} ${esc(row.snippet.article)}</b><div>${esc(row.snippet.text)}</div></div>`);
+  }
+  if (r.reason && r.reason.includes(" — ")) {
+    const cands = r.reason.split(" — ")[1].split(" / ");
+    out.push(`<div class="detail"><div class="k">확인할 후보</div><div class="chips">${cands.map(c=>`<span class="chip">${esc(c)}</span>`).join("")}</div></div>`);
+  }
+  if (row.clarify && row.clarify.policy === "BRANCH") {
+    out.push(`<div class="detail"><div class="k">유형별로 나눠 제시</div><div class="chips">${(row.clarify.branches||[]).map(b=>`<span class="chip">${esc(b)}</span>`).join("")}</div></div>`);
+  }
+  if (row.clarify && row.clarify.policy === "ASK" && row.clarify.question) {
+    out.push(`<div class="detail"><div class="k">사용자에게 되묻는 질문</div>${esc(row.clarify.question)}</div>`);
+  }
+  if (r.question_citation && r.decision !== "ANSWER") {
+    const qc = r.question_citation;
+    out.push(`<div class="detail"><div class="k">질문 속 인용</div><code>${esc(qc.citation)}</code> → ${esc(qc.status)}${row.cite_law ? " · " + esc(row.cite_law) : ""}</div>`);
+  }
+  if (row.known_failure) {
+    out.push(`<div class="flag"><b>알려진 결함 사례</b> — ${esc(String(row.note).replace(/^알려진 결함:\s*/, ""))}. 시스템이 틀리는 예시도 숨기지 않고 보여 줍니다.</div>`);
+  }
+  return out.join("");
+}
+
+let timers = [];
+function clearTimers(){ timers.forEach(clearTimeout); timers = []; }
+function later(fn, ms){ timers.push(setTimeout(fn, ms)); }
+
+function render(i){
+  clearTimers();
+  const row = DATA[i], r = row.result;
+  document.querySelectorAll(".q").forEach((b,j)=>b.classList.toggle("active", j===i));
+  const qt = document.getElementById("qtext"); qt.innerHTML = '<span class="caret"></span>';
+  const steps = document.getElementById("steps"), card = document.getElementById("card"), trace = document.getElementById("trace");
+  card.className = "card"; trace.className = "trace";
+  const st = stepStates(row);
+  steps.innerHTML = STEP_NAMES.map((n,k)=>`<div class="step" id="st${k}"><div class="n">${n[0]} · ${n[2]}</div><div class="t">${n[1]}</div><div class="s"></div></div>`).join("");
+  let t = 0; const chars = [...row.q];
+  chars.forEach((c,k)=>later(()=>{ qt.innerHTML = esc(row.q.slice(0, chars.slice(0,k+1).join("").length)) + '<span class="caret"></span>'; }, t += 38));
+  t += 300;
+  st.forEach((s,k)=>later(()=>{ const el = document.getElementById("st"+k); el.classList.add("on", s.cls); el.querySelector(".s").textContent = s.s; }, t += 520));
+  later(()=>{
+    const [d, sub] = LABEL[r.decision] || [r.decision, ""];
+    card.className = "card " + r.decision;
+    card.innerHTML = `<div class="dec"><b>${d}</b><span>${sub}</span></div><div class="reason">사유: ${esc(r.reason)}</div>${detail(row)}`;
+    requestAnimationFrame(()=>card.classList.add("on"));
+  }, t += 600);
+  later(()=>{
+    trace.innerHTML = `<h2 style="font-size:12px;color:var(--muted);margin:0 0 6px;letter-spacing:.06em">결정 추적 기록</h2><table>
+      <tr><td>판정 경로</td><td><code>${esc((r.path||[]).join(" → "))}</code></td></tr>
+      <tr><td>검색 상위 3건 (점수)</td><td>${(r.top3_evidence||[]).map(e=>esc(e.ref)+" ("+e.score+")").join(" · ")}</td></tr>
+      <tr><td>설정 · 코퍼스 판본</td><td><code>${esc(r.config)}</code> · <code>${esc(r.corpus_version)}</code></td></tr>
+      <tr><td>실행 ID</td><td><code>${esc(r.run_id)}</code></td></tr></table>`;
+    trace.classList.add("on");
+  }, t += 450);
+  return t;
+}
+
+const qs = document.getElementById("qs");
+DATA.forEach((row,i)=>{
+  const b = document.createElement("button"); b.className = "q";
+  b.innerHTML = `<span class="tag ${row.result.decision}">${row.result.decision}</span>${esc(row.q)}`;
+  b.onclick = ()=>{ autoplay = false; render(i); };
+  qs.appendChild(b);
+});
+const params = new URLSearchParams(location.search);
+let autoplay = params.has("autoplay");
+const order = (params.get("order") || "").split(",").filter(Boolean).map(Number);
+const seq = order.length ? order : DATA.map((_,i)=>i);
+let pos = 0;
+function cycle(){ if(!autoplay) return; const dur = render(seq[pos % seq.length]); pos++; later(cycle, dur + 2600); }
+if (DATA.length) { autoplay ? cycle() : render(0); }
+</script>
+</body>
+</html>
