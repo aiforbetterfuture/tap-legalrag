@@ -3,8 +3,8 @@
   "config": "B4",
   "corpus_version": "CORPUS-20260802",
   "examples": [
-    {"q": "「국가연구개발혁신법 시행령」 제14조를 알려주세요", "decision": "ANSWER", "path": "P=013933:14 → T=CURRENT_VALID → A=NONE", "why": "법령명 명시로 출처 확정, 현행 조문, 기관 유형 무관"},
-    {"q": "시행령 제64조 제2항은 무엇을 규정하나요?", "decision": "CONFIRM", "path": "P=013933:64 → T=AMBIGUOUS_HISTORIC", "why": "밀린 번호이면서 현행에도 존재 → 후보 2개"},
+    {"q": "연구기관이 공동연구기관 변경을 요청했습니다. 「국가연구개발혁신법 시행령」 제14조에 따른 협약 변경 절차를 확인해 주세요", "decision": "ANSWER", "path": "P=013933:14 → T=CURRENT_VALID → A=NONE", "why": "실무 문의 속 법령명 명시 인용 → 출처 확정, 현행 조문, 기관 유형 무관"},
+    {"q": "작년 매뉴얼에 나온 시행령 제64조 제2항 기준으로 연구기관에 안내해도 될까요?", "decision": "CONFIRM", "path": "P=013933:64 → T=AMBIGUOUS_HISTORIC", "why": "옛 매뉴얼의 밀린 번호가 현행에도 존재 → 후보 2개"},
     {"q": "간접비 비율은 기관마다 다른가요?", "decision": "CONFIRM", "path": "P=n/a → T=n/a → A=BRANCH", "why": "기관 유형별로 답이 갈림"},
     {"q": "학생인건비를 연구실 단위로 관리해도 되나요?", "decision": "CONFIRM", "path": "P=n/a → T=n/a → A=ASK", "why": "판단 기준 상황(대상·단계)을 먼저 되물음"},
     {"q": "제5조에 대해 알려주세요", "decision": "CONFIRM", "path": "P=unresolved", "why": "법령 단서 없음"},

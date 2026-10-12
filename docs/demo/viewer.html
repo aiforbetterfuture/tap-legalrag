@@ -6,16 +6,18 @@
 <title>TAP-LegalRAG 판정 시연</title>
 <style>
 :root{
-  --bg:#f6f5f2; --panel:#ffffff; --ink:#1d2127; --muted:#6a717c; --line:#e3e1dc;
-  --ok:#1f7a4d; --ok-bg:#e7f3ec; --warn:#a95f00; --warn-bg:#fbf0de; --stop:#4f5864; --stop-bg:#eceef1;
-  --accent:#28407a; --chip:#f0efe9;
+  color-scheme:dark;
+  --bg:#0d1117; --panel:#151b23; --ink:#e6edf3; --muted:#8b949e; --line:#2a313c;
+  --ok:#3fd18b; --ok-bg:#0f2a1e; --warn:#f2b04a; --warn-bg:#2b2012; --stop:#aab4c0; --stop-bg:#1f252e;
+  --accent:#79a6ff; --chip:#1c232d; --sunk:#0f141a;
 }
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);
   font-family:"Pretendard","Noto Sans KR","Noto Sans CJK KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
   font-size:15px;line-height:1.55}
-header{padding:18px 28px 14px;border-bottom:1px solid var(--line);background:var(--panel);display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+header{padding:18px 28px 14px;border-bottom:1px solid var(--line);background:linear-gradient(90deg,#141c2b,var(--panel) 60%);display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
 header h1{font-size:19px;margin:0;letter-spacing:-.01em}
+header h1 em{font-style:normal;color:var(--accent)}
 header .sub{color:var(--muted);font-size:13px}
 .wrap{display:grid;grid-template-columns:300px 1fr;gap:18px;padding:18px 28px 24px;max-width:1240px;margin:0 auto}
 @media (max-width:860px){.wrap{grid-template-columns:1fr;padding:14px 16px}}
@@ -25,53 +27,53 @@ header .sub{color:var(--muted);font-size:13px}
 .q{display:block;width:100%;text-align:left;border:1px solid transparent;background:none;border-radius:8px;
   padding:9px 10px;margin:2px 0;font:inherit;font-size:14px;color:var(--ink);cursor:pointer}
 .q:hover{background:var(--chip)}
-.q.active{background:#eef1f8;border-color:#cfd7ea}
+.q.active{background:#1b2638;border-color:#35507f}
 .q .tag{display:inline-block;font-size:11px;font-weight:700;border-radius:4px;padding:1px 6px;margin-right:6px}
 .tag.ANSWER{color:var(--ok);background:var(--ok-bg)} .tag.CONFIRM{color:var(--warn);background:var(--warn-bg)}
 .tag.ABSTAIN,.tag.CORRECT{color:var(--stop);background:var(--stop-bg)}
 .main{padding:18px 20px}
-.ask{display:flex;gap:10px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:#fbfbf9}
+.ask{display:flex;gap:10px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:var(--sunk)}
 .ask .label{font-size:12px;color:var(--muted);white-space:nowrap}
 .ask .text{font-size:17px;font-weight:600;min-height:1.5em;flex:1}
 .caret{display:inline-block;width:2px;height:1.1em;background:var(--accent);vertical-align:-3px;margin-left:2px;animation:blink 1s steps(1) infinite}
 @keyframes blink{50%{opacity:0}}
 .steps{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin:16px 0 14px}
 @media (max-width:860px){.steps{grid-template-columns:repeat(2,1fr)}}
-.step{border:1px solid var(--line);border-radius:9px;padding:9px 10px;background:#fff;opacity:.35;transition:opacity .25s,border-color .25s,background .25s}
+.step{border:1px solid var(--line);border-radius:9px;padding:9px 10px;background:var(--sunk);opacity:.35;transition:opacity .25s,border-color .25s,background .25s}
 .step.on{opacity:1}
 .step .n{font-size:11px;color:var(--muted)}
 .step .t{font-weight:700;font-size:14px}
 .step .s{font-size:12.5px;margin-top:3px;color:var(--muted);min-height:2.6em}
-.step.pass{border-color:#bcdcc9} .step.pass .s{color:var(--ok)}
-.step.hit{border-color:#e6c48f;background:var(--warn-bg)} .step.hit .s{color:var(--warn);font-weight:600}
-.step.stop{border-color:#c5cad1;background:var(--stop-bg)} .step.stop .s{color:var(--stop);font-weight:600}
-.step.skip .s{color:#9aa0a8}
+.step.pass{border-color:#235c40} .step.pass .s{color:var(--ok)}
+.step.hit{border-color:#7a5520;background:var(--warn-bg)} .step.hit .s{color:var(--warn);font-weight:600}
+.step.stop{border-color:#3d4652;background:var(--stop-bg)} .step.stop .s{color:var(--stop);font-weight:600}
+.step.skip .s{color:#59626e}
 .card{border-radius:12px;padding:16px 18px;border:1px solid var(--line);opacity:0;transform:translateY(6px);transition:opacity .35s,transform .35s}
 .card.on{opacity:1;transform:none}
-.card.ANSWER{background:var(--ok-bg);border-color:#bcdcc9} .card.CONFIRM{background:var(--warn-bg);border-color:#e6c48f}
-.card.ABSTAIN,.card.CORRECT{background:var(--stop-bg);border-color:#c5cad1}
+.card.ANSWER{background:var(--ok-bg);border-color:#2b7350;box-shadow:0 0 0 1px #2b735055,0 8px 28px -12px #3fd18b66} .card.CONFIRM{background:var(--warn-bg);border-color:#8a5f22;box-shadow:0 0 0 1px #8a5f2255,0 8px 28px -12px #f2b04a66}
+.card.ABSTAIN,.card.CORRECT{background:var(--stop-bg);border-color:#46505d}
 .dec{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
 .dec b{font-size:22px;letter-spacing:.02em}
 .ANSWER .dec b{color:var(--ok)} .CONFIRM .dec b{color:var(--warn)} .ABSTAIN .dec b,.CORRECT .dec b{color:var(--stop)}
 .dec span{font-weight:600}
 .reason{margin:8px 0 4px}
-.detail{margin-top:10px;background:rgba(255,255,255,.7);border-radius:8px;padding:10px 12px;font-size:14px}
+.detail{margin-top:10px;background:rgba(0,0,0,.28);border-radius:8px;padding:10px 12px;font-size:14px}
 .detail .k{font-size:12px;color:var(--muted);margin-bottom:3px}
 .chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:4px}
-.chip{background:#fff;border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-size:13px}
-.flag{margin-top:10px;font-size:13px;color:#8a3b12;background:#fdece4;border:1px solid #f1c7b4;border-radius:8px;padding:8px 10px}
+.chip{background:var(--sunk);border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-size:13px}
+.flag{margin-top:10px;font-size:13px;color:#ffb48f;background:#2c1810;border:1px solid #6d3820;border-radius:8px;padding:8px 10px}
 .trace{margin-top:14px;border-top:1px dashed var(--line);padding-top:12px;opacity:0;transition:opacity .35s}
 .trace.on{opacity:1}
 .trace table{border-collapse:collapse;width:100%;font-size:13px}
-.trace td{padding:4px 6px;border-bottom:1px solid #f0eee9;vertical-align:top}
+.trace td{padding:4px 6px;border-bottom:1px solid #222932;vertical-align:top}
 .trace td:first-child{color:var(--muted);width:150px;white-space:nowrap}
-code{font-family:"JetBrains Mono","D2Coding",Consolas,monospace;font-size:12.5px}
+code{color:#c9d6ff;font-family:"JetBrains Mono","D2Coding",Consolas,monospace;font-size:12.5px}
 footer{max-width:1240px;margin:0 auto;padding:0 28px 22px;color:var(--muted);font-size:12.5px}
 </style>
 </head>
 <body>
 <header>
-  <h1>TAP-LegalRAG · 답변 가능성 판정 시연</h1>
+  <h1><em>TAP</em>-LegalRAG · 답변 가능성 판정 시연</h1>
   <span class="sub">직접 작성한 합성 질문 · 저장소의 실제 판정 함수 실행 결과 · config B4</span>
 </header>
 <div class="wrap">
@@ -91,7 +93,7 @@ footer{max-width:1240px;margin:0 auto;padding:0 28px 22px;color:var(--muted);fon
   서버나 네트워크를 쓰지 않으며, 새 질문은 <code>python -m law_rag ask "질문"</code>으로 실행합니다.
 </footer>
 <script>
-const DATA = [{"q": "「국가연구개발혁신법 시행령」 제14조를 알려주세요", "result": {"decision": "ANSWER", "reason": "게이트 통과", "path": ["P=013933:14", "T=CURRENT_VALID", "A=NONE"], "evidence": "혁신법 시행규칙 제2조", "top3_evidence": [{"ref": "혁신법 시행규칙 제2조", "score": 0.033}, {"ref": "사용기준 제2조", "score": 0.016}, {"ref": "혁신법 시행규칙 제1조", "score": 0.016}], "question_citation": {"citation": "「국가연구개발혁신법 시행령」 제14조", "status": "RESOLVED", "law_id": "013933", "article": "14", "paragraph": null}, "relevance": 0.565, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "b4f930fe-5080-4940-831c-72862248383e"}, "clarify": null, "snippet": {"law": "국가연구개발혁신법 시행령", "article": "제14조제1항", "text": "제14조(연구개발과제협약의 변경 등)"}, "cite_law": "국가연구개발혁신법 시행령", "known_failure": false, "note": "법령명 명시로 출처 확정, 현행 조문, 기관 유형 무관"}, {"q": "시행령 제64조 제2항은 무엇을 규정하나요?", "result": {"decision": "CONFIRM", "reason": "인용 번호가 현행에도 있고 계보상 밀린 번호이기도 함 — 현행 64조제2항 / 종전 번호의 현행 위치 64조제3항", "path": ["P=013933:64", "T=AMBIGUOUS_HISTORIC"], "evidence": "혁신법 시행령 제2조제2항", "top3_evidence": [{"ref": "혁신법 시행령 제2조제2항", "score": 0.032}, {"ref": "혁신법 시행령 제1조", "score": 0.031}, {"ref": "혁신법 시행령 제8조제2항", "score": 0.028}], "question_citation": {"citation": "시행령 제64조 제2항", "status": "RESOLVED", "law_id": "013933", "article": "64", "paragraph": "2"}, "relevance": 0.316, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "80778fad-0c9a-4f91-ba02-fa8efe68e200"}, "clarify": null, "snippet": null, "cite_law": "국가연구개발혁신법 시행령", "known_failure": false, "note": "밀린 번호이면서 현행에도 존재 → 후보 2개"}, {"q": "간접비 비율은 기관마다 다른가요?", "result": {"decision": "CONFIRM", "reason": "적용 분기(BRANCH)", "path": ["P=n/a", "T=n/a", "A=BRANCH"], "evidence": "사용기준 제62조", "top3_evidence": [{"ref": "사용기준 제62조", "score": 0.031}, {"ref": "사용기준 제59조", "score": 0.031}, {"ref": "사용기준 제110조", "score": 0.026}], "question_citation": null, "relevance": 0.214, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "9f5a9291-96ca-4348-b73c-07252fd420d0"}, "clarify": {"policy": "BRANCH", "slot": "조건", "question": "", "branches": ["기타비영리기관", "영리기관"]}, "snippet": null, "cite_law": null, "known_failure": false, "note": "기관 유형별로 답이 갈림"}, {"q": "학생인건비를 연구실 단위로 관리해도 되나요?", "result": {"decision": "CONFIRM", "reason": "적용 분기(ASK)", "path": ["P=n/a", "T=n/a", "A=ASK"], "evidence": "사용기준 제89조", "top3_evidence": [{"ref": "사용기준 제89조", "score": 0.033}, {"ref": "사용기준 제96조", "score": 0.032}, {"ref": "사용기준 제87조", "score": 0.031}], "question_citation": null, "relevance": 0.579, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "08e62343-1b76-4abb-adbd-a86b2aaf9568"}, "clarify": {"policy": "ASK", "slot": "쟁점", "question": "어떤 상황(대상·단계)을 기준으로 판단할지 알려주시면 근거를 특정하겠습니다.", "branches": []}, "snippet": null, "cite_law": null, "known_failure": false, "note": "판단 기준 상황(대상·단계)을 먼저 되물음"}, {"q": "제5조에 대해 알려주세요", "result": {"decision": "CONFIRM", "reason": "질문 인용 출처 미확정", "path": ["P=unresolved"], "evidence": "성과평가법 제11조제2항", "top3_evidence": [{"ref": "성과평가법 제11조제2항", "score": 0.017}, {"ref": "성과평가법 제5조제3항", "score": 0.016}, {"ref": "성과평가법 제8조제2항", "score": 0.016}], "question_citation": {"citation": "제5조", "status": "UNRESOLVED", "law_id": null, "article": "5", "paragraph": null}, "relevance": 0.3, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "d01d0950-351a-4e62-ac44-62200db94fd1"}, "clarify": null, "snippet": null, "cite_law": null, "known_failure": false, "note": "법령 단서 없음"}, {"q": "「고등교육법」 제2조는 어떻게 되나요?", "result": {"decision": "ABSTAIN", "reason": "질문 인용이 외부(코퍼스 밖) 법령", "path": ["P=external"], "evidence": "성과평가법 제12조제4항", "top3_evidence": [{"ref": "혁신법 시행령 제별표2조", "score": 0.017}, {"ref": "성과평가법 제12조제4항", "score": 0.017}, {"ref": "혁신법 시행령 제별표2조", "score": 0.016}], "question_citation": {"citation": "「고등교육법」 제2조", "status": "UNRESOLVED", "law_id": null, "article": "2", "paragraph": null}, "relevance": 0.529, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "29b1ae32-8141-4370-8894-3c127cf50ed7"}, "clarify": null, "snippet": null, "cite_law": null, "known_failure": false, "note": "코퍼스 밖 법령"}, {"q": "연구개발비 사용 기준 제45조는 어떤 기관에 적용되나요?", "result": {"decision": "CONFIRM", "reason": "질문 인용 출처 미확정", "path": ["P=unresolved"], "evidence": "사용기준 제1조", "top3_evidence": [{"ref": "사용기준 제1조", "score": 0.03}, {"ref": "국가연구개발혁신법 제11조제4항", "score": 0.024}, {"ref": "혁신법 시행령 제26조제2항", "score": 0.017}], "question_citation": {"citation": "사용 기준 제45조", "status": "UNRESOLVED", "law_id": null, "article": "45", "paragraph": null}, "relevance": 0.458, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "0fecd74f-fe0a-45b5-b73b-b22d358baea9"}, "clarify": null, "snippet": null, "cite_law": null, "known_failure": true, "note": "알려진 결함: 낫표 없는 고시 이름 미인식(잘못된 보류)"}];
+const DATA = [{"q": "연구기관이 공동연구기관 변경을 요청했습니다. 「국가연구개발혁신법 시행령」 제14조에 따른 협약 변경 절차를 확인해 주세요", "result": {"decision": "ANSWER", "reason": "게이트 통과", "path": ["P=013933:14", "T=CURRENT_VALID", "A=NONE"], "evidence": "혁신법 시행령 제14조제3항", "top3_evidence": [{"ref": "혁신법 시행령 제14조제3항", "score": 0.033}, {"ref": "국가연구개발혁신법 제11조제5항", "score": 0.029}, {"ref": "사용기준 제2조", "score": 0.017}], "question_citation": {"citation": "「국가연구개발혁신법 시행령」 제14조", "status": "RESOLVED", "law_id": "013933", "article": "14", "paragraph": null}, "relevance": 0.633, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "53cf6a8d-a394-48bf-9400-752753f53cca"}, "clarify": null, "snippet": {"law": "국가연구개발혁신법 시행령", "article": "제14조제1항", "text": "제14조(연구개발과제협약의 변경 등)"}, "cite_law": "국가연구개발혁신법 시행령", "known_failure": false, "note": "실무 문의 속 법령명 명시 인용 → 출처 확정, 현행 조문, 기관 유형 무관"}, {"q": "작년 매뉴얼에 나온 시행령 제64조 제2항 기준으로 연구기관에 안내해도 될까요?", "result": {"decision": "CONFIRM", "reason": "인용 번호가 현행에도 있고 계보상 밀린 번호이기도 함 — 현행 64조제2항 / 종전 번호의 현행 위치 64조제3항", "path": ["P=013933:64", "T=AMBIGUOUS_HISTORIC"], "evidence": "혁신법 시행령 제2조제2항", "top3_evidence": [{"ref": "혁신법 시행령 제2조제2항", "score": 0.033}, {"ref": "혁신법 시행령 제15조제2항", "score": 0.03}, {"ref": "혁신법 시행령 제26조제2항", "score": 0.024}], "question_citation": {"citation": "시행령 제64조 제2항", "status": "RESOLVED", "law_id": "013933", "article": "64", "paragraph": "2"}, "relevance": 0.324, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "e73ec86d-3d6c-4264-bb65-e071e366f4f0"}, "clarify": null, "snippet": null, "cite_law": "국가연구개발혁신법 시행령", "known_failure": false, "note": "옛 매뉴얼의 밀린 번호가 현행에도 존재 → 후보 2개"}, {"q": "간접비 비율은 기관마다 다른가요?", "result": {"decision": "CONFIRM", "reason": "적용 분기(BRANCH)", "path": ["P=n/a", "T=n/a", "A=BRANCH"], "evidence": "사용기준 제62조", "top3_evidence": [{"ref": "사용기준 제62조", "score": 0.031}, {"ref": "사용기준 제59조", "score": 0.031}, {"ref": "사용기준 제110조", "score": 0.026}], "question_citation": null, "relevance": 0.214, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "f7b6f131-be5f-41c5-9f69-3c437e5c6062"}, "clarify": {"policy": "BRANCH", "slot": "조건", "question": "", "branches": ["기타비영리기관", "영리기관"]}, "snippet": null, "cite_law": null, "known_failure": false, "note": "기관 유형별로 답이 갈림"}, {"q": "학생인건비를 연구실 단위로 관리해도 되나요?", "result": {"decision": "CONFIRM", "reason": "적용 분기(ASK)", "path": ["P=n/a", "T=n/a", "A=ASK"], "evidence": "사용기준 제89조", "top3_evidence": [{"ref": "사용기준 제89조", "score": 0.033}, {"ref": "사용기준 제96조", "score": 0.032}, {"ref": "사용기준 제87조", "score": 0.031}], "question_citation": null, "relevance": 0.579, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "4bf3530a-30ce-49ae-b2db-3582c33cd7e9"}, "clarify": {"policy": "ASK", "slot": "쟁점", "question": "어떤 상황(대상·단계)을 기준으로 판단할지 알려주시면 근거를 특정하겠습니다.", "branches": []}, "snippet": null, "cite_law": null, "known_failure": false, "note": "판단 기준 상황(대상·단계)을 먼저 되물음"}, {"q": "제5조에 대해 알려주세요", "result": {"decision": "CONFIRM", "reason": "질문 인용 출처 미확정", "path": ["P=unresolved"], "evidence": "성과평가법 제11조제2항", "top3_evidence": [{"ref": "성과평가법 제11조제2항", "score": 0.017}, {"ref": "성과평가법 제5조제3항", "score": 0.016}, {"ref": "성과평가법 제8조제2항", "score": 0.016}], "question_citation": {"citation": "제5조", "status": "UNRESOLVED", "law_id": null, "article": "5", "paragraph": null}, "relevance": 0.3, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "f6f823e8-9c0f-4521-b625-f0d510b0cf2f"}, "clarify": null, "snippet": null, "cite_law": null, "known_failure": false, "note": "법령 단서 없음"}, {"q": "「고등교육법」 제2조는 어떻게 되나요?", "result": {"decision": "ABSTAIN", "reason": "질문 인용이 외부(코퍼스 밖) 법령", "path": ["P=external"], "evidence": "성과평가법 제12조제4항", "top3_evidence": [{"ref": "혁신법 시행령 제별표2조", "score": 0.017}, {"ref": "성과평가법 제12조제4항", "score": 0.017}, {"ref": "혁신법 시행령 제별표2조", "score": 0.016}], "question_citation": {"citation": "「고등교육법」 제2조", "status": "UNRESOLVED", "law_id": null, "article": "2", "paragraph": null}, "relevance": 0.529, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "c56287cc-163f-4240-8313-72377d63f1fa"}, "clarify": null, "snippet": null, "cite_law": null, "known_failure": false, "note": "코퍼스 밖 법령"}, {"q": "연구개발비 사용 기준 제45조는 어떤 기관에 적용되나요?", "result": {"decision": "CONFIRM", "reason": "질문 인용 출처 미확정", "path": ["P=unresolved"], "evidence": "사용기준 제1조", "top3_evidence": [{"ref": "사용기준 제1조", "score": 0.03}, {"ref": "국가연구개발혁신법 제11조제4항", "score": 0.024}, {"ref": "혁신법 시행령 제26조제2항", "score": 0.017}], "question_citation": {"citation": "사용 기준 제45조", "status": "UNRESOLVED", "law_id": null, "article": "45", "paragraph": null}, "relevance": 0.458, "config": "B4", "corpus_version": "CORPUS-20260802", "run_id": "de9c25a7-e02f-4b81-b08f-5fd482b58de4"}, "clarify": null, "snippet": null, "cite_law": null, "known_failure": true, "note": "알려진 결함: 낫표 없는 고시 이름 미인식(잘못된 보류)"}];
 const LABEL = {ANSWER:["ANSWER","근거를 붙여 답변"],CONFIRM:["CONFIRM","담당자 확인 요청"],
   ABSTAIN:["ABSTAIN","보류 · 담당자에게 넘김"],CORRECT:["CORRECT","전제 교정"]};
 const STEP_NAMES = [["1","검색","관련 조문 후보 찾기"],["2","범위 확인","근거가 있는가"],
@@ -161,7 +163,8 @@ function render(i){
   const st = stepStates(row);
   steps.innerHTML = STEP_NAMES.map((n,k)=>`<div class="step" id="st${k}"><div class="n">${n[0]} · ${n[2]}</div><div class="t">${n[1]}</div><div class="s"></div></div>`).join("");
   let t = 0; const chars = [...row.q];
-  chars.forEach((c,k)=>later(()=>{ qt.innerHTML = esc(row.q.slice(0, chars.slice(0,k+1).join("").length)) + '<span class="caret"></span>'; }, t += 38));
+  const cps = Math.min(38, 1500 / chars.length);
+  chars.forEach((c,k)=>later(()=>{ qt.innerHTML = esc(row.q.slice(0, chars.slice(0,k+1).join("").length)) + '<span class="caret"></span>'; }, t += cps));
   t += 300;
   st.forEach((s,k)=>later(()=>{ const el = document.getElementById("st"+k); el.classList.add("on", s.cls); el.querySelector(".s").textContent = s.s; }, t += 520));
   later(()=>{
@@ -193,7 +196,7 @@ let autoplay = params.has("autoplay");
 const order = (params.get("order") || "").split(",").filter(Boolean).map(Number);
 const seq = order.length ? order : DATA.map((_,i)=>i);
 let pos = 0;
-function cycle(){ if(!autoplay) return; const dur = render(seq[pos % seq.length]); pos++; later(cycle, dur + 2600); }
+function cycle(){ if(!autoplay) return; const dur = render(seq[pos % seq.length]); pos++; later(cycle, dur + 2400); }
 if (DATA.length) { autoplay ? cycle() : render(0); }
 </script>
 </body>
